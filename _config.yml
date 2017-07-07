@@ -1,0 +1,59 @@
+# Site settings
+title:       Shruti Rijhwani
+email:       shruti@shrutirijhwani.com
+author:      Shruti Rijhwani
+description: "Personal page of Shruti Rijhwani."
+baseurl:     ""
+url:         "http://shrutirijhwani.com"
+timezone: 	 Asia/Calcutta
+
+# Google analytics
+google_analytics: UA-42418970-4
+
+# Optional features
+animated:           false
+show_related_posts: false
+show_post_footers:  false
+show_social_icons:  true
+
+# Disqus post comments
+# (leave blank to disable Disqus)
+disqus_shortname: shrutirij
+
+# Social icons
+github_username: shrutirij
+stackoverflow_id:
+twitter_username:
+google_plus_id:
+linkedin_username: shrutirijhwani
+angellist_username:
+medium_id:
+bitcoin_url: 
+paypal_url:
+flattr_button:
+
+# Post sharing icons
+show_sharing_icons: true
+share_text: 'Share this post!'
+# Change to 'true' to enable individual icons
+share_facebook: true
+share_twitter: true
+share_googleplus: true
+share_linkedin: false
+share_digg: false
+share_tumblr: false
+share_reddit: false
+share_stumbleupon: false
+share_hackernews: false
+
+# Build settings
+markdown:     kramdown
+redcarpet:
+  extensions: ['smart', 'tables', 'with_toc_data']
+permalink:    pretty
+paginate:     10
+paginate_path: "/blog/page:num/"
+sass:
+  compressed: true
+gems:
+  - jekyll-sitemap

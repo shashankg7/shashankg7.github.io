@@ -1,0 +1,14 @@
+a {
+  color: $link-color;
+  outline: 0;
+  text-decoration: underline;
+  text-decoration-style: solid;
+}
+
+a:hover,
+a:focus,
+a:active {
+  border: 0;
+  color: $link-hover-color;  
+  text-decoration-style: solid;
+}
