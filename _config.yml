@@ -1,10 +1,10 @@
 # Site settings
-title:       Shruti Rijhwani
-email:       shruti@shrutirijhwani.com
-author:      Shruti Rijhwani
-description: "Personal page of Shruti Rijhwani."
+title:       Shashank Gupta
+email:       27392shashankgupta@gmail.com       
+author:      Shashank Gupta
+description: "Personal page of Shashank Gupta."
 baseurl:     ""
-url:         "http://shrutirijhwani.com"
+url:         ""
 timezone: 	 Asia/Calcutta
 
 # Google analytics
@@ -18,14 +18,14 @@ show_social_icons:  true
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname: shrutirij
+disqus_shortname: 
 
 # Social icons
-github_username: shrutirij
+github_username: shashankg7
 stackoverflow_id:
-twitter_username:
+twitter_username: shashank27392
 google_plus_id:
-linkedin_username: shrutirijhwani
+linkedin_username: 
 angellist_username:
 medium_id:
 bitcoin_url: 
