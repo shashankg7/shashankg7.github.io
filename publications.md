@@ -6,18 +6,20 @@ permalink: /publications/
 ### Publications
 
 
-"Understanding Language Preference for Expression of Opinion and Sentiment: What do Hindi-English Speakers do on Twitter?". <br>
-<small>Koustav Rudra, Shruti Rijhwani, Rafiya Begum, Kalika Bali, Monojit Choudhury and Niloy Ganguly.</small> <br>
-Conference on Empirical Methods in Natural Language Processing (EMNLP), 2016. (To Appear) 
+"Simultaneous Inference of User Representations and Trust". <br>
+<small>Shashank Gupta, Pulkit Parikh, Manish Gupta, Vasudeva Varma.</small> <br>
+IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining
+ (ASONAM), 2017. (Accepted, To Appear)
 
-"Experiments with Cross-lingual Systems for Synthesis of Code-Mixed Text". <br>
-<small>Sunayana Sitaram, Sai Krishna Rallabandi, Shruti Rijhwani and Alan W Black.</small><br>
-9th ISCA Speech Synthesis Workshop, 2016. (To Appear) 
+"Deep Learning for Hate Speech Detection in Tweets". <br>
+<small>Pinkesh Badjatiya\*, Shashank Gupta\*, Manish Gupta, Vasudeva Varma (\*Equal Contribution).</small><br>
+WWW 2017 (Best Poster Award)
 
-"Translating Code-Mixed Tweets: A Language Detection Based System". (Demonstration Track) <br>
-<small> Shruti Rijhwani, Royal Sequiera, Monojit Choudhury and Kalika Bali. </small> <br>
-Workshop on Indian Language Data: Resources and Evaluation at LREC 2016.
+"Scientific Article Recommendation by using Distributed Representations of Text and Graph". <br>
+<small> Shashank Gupta, Vasudeva Varma. </small> <br>
+WWW 2017 (Poster Track)
 
-"Unrestricted Word-Level Language Detection for Code-Mixed Text". <br>
-<small> Shruti Rijhwani, Royal Sequiera, Kalika Bali and Monojit Choudhury. </small> <br>
-(Manuscript under review at Transactions of the Association for Computational Linguistics (TACL))
+## Under Review
+
+"Enhancing Categorization of Computer Science Research Papers using Knowledge Bases". <br>
+<small>Shashank Gupta, Priya Radhakrishnan, Manish Gupta, Vasudeva Varma .</small><br>
