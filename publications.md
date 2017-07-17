@@ -26,4 +26,4 @@ Conference and Labs of the Evaluation Forum (CLEF) 2017
 ## Under Review
 
 Enhancing Categorization of Computer Science Research Papers using Knowledge Bases. <br>
-<small>Shashank Gupta, Priya Radhakrishnan, Manish Gupta, Vasudeva Varma .<br>
+Shashank Gupta, Priya Radhakrishnan, Manish Gupta, Vasudeva Varma .<br>
