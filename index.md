@@ -11,6 +11,14 @@ Currently I am working towards building "Automatic Hate Speech Detection system"
 
 To find out more about my work, please visit [CV](/resume-final.pdf) and [Publications](/publications/).
 
+Some updates:
+
+* [June 2017] Paper on Trust Prediction in Social Media using Neural Network got accepted at ASONAM'17.
+* [May 2017] Work on Hate Speech detection from social media covered in some leading publication house in India. [Source](https://www.iiit.ac.in/news/IRELspaperonHateSpeechDetectionvotedBestPosterPresentationatWWW2017Perth/)
+* [April 2017] Got the Best Poster award at WWW'17 for work on Hate Speech Detection from social media.
+* [Feb 2017] Poster paper accepted in WWW'17.
+* [Feb 2017] Workshop paper accepted in WWW'17.
+
 <br/>
 
 
