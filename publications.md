@@ -19,12 +19,14 @@ Scientific Article Recommendation by using Distributed Representations of Text a
 Shashank Gupta, Vasudeva Varma. <br>
 WWW 2017 (Poster Track)
 
+Enhancing Categorization of Computer Science Research Papers using Knowledge Bases. <br>
+Shashank Gupta, Priya Radhakrishnan, Manish Gupta, Vasudeva Varma .<br>
+KG4IR: Workshop on Knowledge-Graphs for Text Analysis and Retrieval at SIGIR 2017
+
 Deep Neural Architectures for News Recommendation. <br>
 Vaibhav Kumar, Dhruv Khattar, Shashank Gupta, Manish Gupta, Vasudeva Varma. <br>
 Conference and Labs of the Evaluation Forum (CLEF) 2017
 
-Enhancing Categorization of Computer Science Research Papers using Knowledge Bases. <br>
-Shashank Gupta, Priya Radhakrishnan, Manish Gupta, Vasudeva Varma .<br>
 
 
 ## Under Review
