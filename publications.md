@@ -9,11 +9,11 @@ permalink: /publications/
 Simultaneous Inference of User Representations and Trust. <br>
 Shashank Gupta, Pulkit Parikh, Manish Gupta, Vasudeva Varma. <br>
 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining
- (ASONAM), 2017 
+(ASONAM), 2017 
 
 Deep Learning for Hate Speech Detection in Tweets. <br>
 Pinkesh Badjatiya\*, Shashank Gupta\*, Manish Gupta, Vasudeva Varma (\*Equal Contribution).<br>
-WWW 2017 (Best Poster Award)
+International World Wide Web Conference (WWW) 2017 (Best Poster Award)([poster](https://drive.google.com/drive/my-driv://docs.google.com/presentation/d/1oW6WQKkpj6rAAcQKkN7JaYWZbZZfH2RGnReQxy0_RPw/edit?usp=sharing)[code](https://github.com/pinkeshbadjatiya/twitter-hatespeech))
 
 Scientific Article Recommendation by using Distributed Representations of Text and Graph. <br>
 Shashank Gupta, Vasudeva Varma. <br>
