@@ -23,7 +23,11 @@ Deep Neural Architectures for News Recommendation. <br>
 Vaibhav Kumar, Dhruv Khattar, Shashank Gupta, Manish Gupta, Vasudeva Varma. <br>
 Conference and Labs of the Evaluation Forum (CLEF) 2017
 
-## Under Review
-
 Enhancing Categorization of Computer Science Research Papers using Knowledge Bases. <br>
 Shashank Gupta, Priya Radhakrishnan, Manish Gupta, Vasudeva Varma .<br>
+
+
+## Under Review
+
+Semi-Supervised Recurrent Neural Network for Adverse Drug Mention Extraction. <br>
+Shashank Gupta, Sachin Pawar, Nitin Ramrakhiyani, Girish K Palshikar, Vasudeva Varma <br>
