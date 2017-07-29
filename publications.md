@@ -17,7 +17,7 @@ International World Wide Web Conference (WWW) 2017 (Best Poster Award)([poster](
 
 Scientific Article Recommendation by using Distributed Representations of Text and Graph. <br>
 Shashank Gupta, Vasudeva Varma. <br>
-WWW 2017 (Poster Track)([slides](https://docs.google.com/presentation/d/13kM1NR-LNz55XIYzIPKIB4DH9dvd2PLrSHSr9aS6UOE/edit?usp=sharing))
+WWW 2017 (Poster Track)([slides](https://drive.google.com/open?id=0B-7peEFiNjnUOUVKREgtY3ZWekE))
 
 Enhancing Categorization of Computer Science Research Papers using Knowledge Bases. <br>
 Shashank Gupta, Priya Radhakrishnan, Manish Gupta, Vasudeva Varma .<br>
