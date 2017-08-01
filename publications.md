@@ -21,7 +21,7 @@ WWW 2017 (Poster Track)([slides](https://drive.google.com/open?id=0B-7peEFiNjnUO
 
 Enhancing Categorization of Computer Science Research Papers using Knowledge Bases. <br>
 Shashank Gupta, Priya Radhakrishnan, Manish Gupta, Vasudeva Varma .<br>
-KG4IR: Workshop on Knowledge-Graphs for Text Analysis and Retrieval at SIGIR 2017 ([poster](https://drive.google.com/file/d/0B-7peEFiNjnUd0ltZU0tajFVOGc/view?usp=sharing), [slides](https://drive.google.com/open?id=0B-7peEFiNjnUM1hDOXhlbks1Ulk))
+KG4IR: Workshop on Knowledge-Graphs for Text Analysis and Retrieval at SIGIR 2017 ([poster](https://drive.google.com/file/d/0B-7peEFiNjnUd0ltZU0tajFVOGc/view?usp=sharing), [slides](https://drive.google.com/open?id=0B-7peEFiNjnUM1hDOXhlbks1Ulk), [paper](https://drive.google.com/open?id=0B-7peEFiNjnUcFZzWjdWMXp6YkE))
 
 Deep Neural Architectures for News Recommendation. <br>
 Vaibhav Kumar, Dhruv Khattar, Shashank Gupta, Manish Gupta, Vasudeva Varma. <br>
