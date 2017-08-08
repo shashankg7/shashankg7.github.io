@@ -4,7 +4,7 @@ email:       27392shashankgupta@gmail.com
 author:      Shashank Gupta
 description: "Personal page of Shashank Gupta."
 baseurl:     ""
-url:         ""
+url:         "http://shashank-gupta.com"
 timezone: 	 Asia/Calcutta
 
 # Google analytics
