@@ -13,7 +13,8 @@ To find out more about my work, please visit [CV](/resume-final.pdf) and [Public
 
 Some updates:
 
-* [July 2017] Paper on Knowledge Base intergration with text classification pipleline got accepted at SIGIR workshop (KG4IR) 
+* [August 2017] Paper on 'Semi-Supervised Recurrent Neural Network for Adverse Drug Reaction Mention Extraction' got accepted at ACM 11th International Workshop on Data and Text Mining in Biomedical informatics at CIKM 2017
+* [July 2017] Paper on Knowledge Base intergration with text classification pipleline got accepted at SIGIR workshop (KG4IR)
 * [June 2017] Paper on Trust Prediction in Social Media using Neural Network got accepted at ASONAM'17.
 * [May 2017] Work on Hate Speech detection from social media covered in some leading publication house in India. [Source](https://www.iiit.ac.in/news/IRELspaperonHateSpeechDetectionvotedBestPosterPresentationatWWW2017Perth/)
 * [April 2017] Got the Best Poster award at WWW'17 for work on Hate Speech Detection from social media.
