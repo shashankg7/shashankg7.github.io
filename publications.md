@@ -30,6 +30,14 @@ Deep Neural Architectures for News Recommendation. <br>
 Vaibhav Kumar, Dhruv Khattar, Shashank Gupta, Manish Gupta, Vasudeva Varma. <br>
 Conference and Labs of the Evaluation Forum (CLEF) 2017 ([paper](https://drive.google.com/file/d/0B-7peEFiNjnUT1UzZDVNM0ZWRnc/view?usp=sharing))
 
+Word Semantics based 3D Convolutional Neural Networks for News Recommendation. <br>
+Vaibhav Kumar, Dhruv Khattar, Shashank Gupta, Vasudeva Varma. <br>
+SERecSys at ICDM 2017
+
+User Profiling based Deep Neural Network for Temporal News Recommendation. <br>
+Vaibhav Kumar, Dhruv Khattar, Shashank Gupta, Vasudeva Varma. <br>
+SERecSys at ICDM 2017
+
 
 ## Under Review
 Scientific Article Recommendation by using Distributed Representations of Bibliographic Network. <br>

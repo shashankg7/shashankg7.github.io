@@ -13,6 +13,7 @@ To find out more about my work, please visit [CV](/resume-final.pdf) and [Public
 
 Some updates:
 
+* [September 2017] Two papers on Content Based News Recommendation System (as non-primary author) accepted at ICDM workshop on Semantic Recommendation Systems (SeRECSys)
 * [August 2017] Paper on 'Semi-Supervised Recurrent Neural Network for Adverse Drug Reaction Mention Extraction' got accepted at ACM 11th International Workshop on Data and Text Mining in Biomedical informatics at CIKM 2017
 * [July 2017] Paper on Knowledge Base intergration with text classification pipleline got accepted at SIGIR workshop (KG4IR)
 * [June 2017] Paper on Trust Prediction in Social Media using Neural Network got accepted at ASONAM'17.
