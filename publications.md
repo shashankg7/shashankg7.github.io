@@ -32,7 +32,7 @@ Conference and Labs of the Evaluation Forum (CLEF) 2017 ([paper](https://drive.g
 
 Word Semantics based 3D Convolutional Neural Networks for News Recommendation. <br>
 Vaibhav Kumar, Dhruv Khattar, Shashank Gupta, Vasudeva Varma. <br>
-SERecSys at ICDM 2017
+SERecSys at ICDM 2017 ([paper](https://drive.google.com/open?id=0B-7peEFiNjnUdk44YVpkdk5YSjg))
 
 User Profiling based Deep Neural Network for Temporal News Recommendation. <br>
 Vaibhav Kumar, Dhruv Khattar, Shashank Gupta, Vasudeva Varma. <br>
