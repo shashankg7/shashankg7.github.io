@@ -36,7 +36,7 @@ SERecSys at ICDM 2017 ([paper](https://drive.google.com/open?id=0B-7peEFiNjnUdk4
 
 User Profiling based Deep Neural Network for Temporal News Recommendation. <br>
 Vaibhav Kumar, Dhruv Khattar, Shashank Gupta, Vasudeva Varma. <br>
-SERecSys at ICDM 2017
+SERecSys at ICDM 2017 ([paper](https://drive.google.com/open?id=0B-7peEFiNjnUNVpieUtVRzBJWUk))
 
 
 ## Under Review
