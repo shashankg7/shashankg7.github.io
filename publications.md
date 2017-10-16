@@ -35,10 +35,10 @@ Vaibhav Kumar, Dhruv Khattar, Shashank Gupta, Vasudeva Varma. <br>
 SERecSys at ICDM 2017 ([paper](https://drive.google.com/open?id=0B-7peEFiNjnUdk44YVpkdk5YSjg))
 
 User Profiling based Deep Neural Network for Temporal News Recommendation. <br>
-Vaibhav Kumar, Dhruv Khattar, Shashank Gupta, Vasudeva Varma. <br>
+Vaibhav Kumar, Dhruv Khattar, Shashank Gupta, Manish Gupta, Vasudeva Varma. <br>
 SERecSys at ICDM 2017 ([paper](https://drive.google.com/open?id=0B-7peEFiNjnUNVpieUtVRzBJWUk))
 
 
 ## Under Review
-Scientific Article Recommendation by using Distributed Representations of Bibliographic Network. <br>
-Shashank Gupta, Muktabh Mayank. <br>
+Recurrent Attention Model for News Recommendation
+Vaibhav Kumar, Dhruv Khattar, Shashank Gupta, Manish Gupta, Vasudeva Varma. <br>
