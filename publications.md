@@ -40,5 +40,5 @@ SERecSys at ICDM 2017 ([paper](https://drive.google.com/open?id=0B-7peEFiNjnUNVp
 
 
 ## Under Review
-Recurrent Attention Model for News Recommendation
+Recurrent Attention Model for News Recommendation. <br>
 Vaibhav Kumar, Dhruv Khattar, Shashank Gupta, Manish Gupta, Vasudeva Varma. <br>
