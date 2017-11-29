@@ -14,7 +14,8 @@ To find out more about my work, please visit [CV](/resume-final.pdf) and [Public
 Some updates:
 
 * [November 2017] Got two papers accepted at NIPS 2017 Workshop.
-* [November 2017] I'll be giving a talk on "Machine Learning & Information Retrieval Techniques for Adverse Drug Reaction Mention Extraction from Social Media" at Duke-NUS Medical School, Singapore.
+* [November 2017] Invited talk on "Deep Learning for Recommender Systems" at Thiagarajar College of Engineering (TCE). 
+* [November 2017] Invited talk on "Machine Learning & Information Retrieval Techniques for Adverse Drug Reaction Mention Extraction from Social Media" at Duke-NUS Medical School, Singapore.
 * [September 2017] Two papers on Content Based News Recommendation System accepted at ICDM workshop on Semantic Recommendation Systems (SeRECSys)
 * [August 2017] Paper on 'Semi-Supervised Recurrent Neural Network for Adverse Drug Reaction Mention Extraction' got accepted at ACM 11th International Workshop on Data and Text Mining in Biomedical informatics at CIKM 2017
 * [July 2017] Paper on Knowledge Base intergration with text classification pipleline got accepted at SIGIR workshop (KG4IR)
