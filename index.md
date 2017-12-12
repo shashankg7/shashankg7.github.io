@@ -13,7 +13,8 @@ To find out more about my work, please visit [CV](/resume-final.pdf) and [Public
 
 Some updates:
 
-* [November 2017] Got two papers accepted at NIPS 2017 Workshop.
+* [December 2017] Two papers accepted at ECIR 2018.
+* [November 2017] Two papers accepted at NIPS 2017 Machine learning for Health (ML4H) Workshop.
 * [November 2017] Invited talk on "Deep Learning for Recommender Systems" at Thiagarajar College of Engineering (TCE). 
 * [November 2017] Invited talk on "Machine Learning & Information Retrieval Techniques for Adverse Drug Reaction Mention Extraction from Social Media" at Duke-NUS Medical School, Singapore.
 * [September 2017] Two papers on Content Based News Recommendation System accepted at ICDM workshop on Semantic Recommendation Systems (SeRECSys)
