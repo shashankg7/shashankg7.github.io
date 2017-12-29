@@ -7,7 +7,7 @@ permalink: /publications/
 
 Multi-task Learning for Extraction of Adverse Drug Reaction Mentions from Social Media. <br>
 Shashank Gupta, Manish Gupta, Vasudeva Varma, Sachin Pawar, Nitin Ramrakhiyani and Girish K Palshikar <br>
-ECIR 2018 
+ECIR 2018 ([paper](https://drive.google.com/file/d/120_y21rCPzQ6epV9YmAflmEuFw91Db5s/view?usp=sharing), [slides](https://drive.google.com/file/d/1562E7GBNonbjn8PB3Dc3cmoo0ScrFS5m/view?usp=sharing))
 
 Multi-task Learning for Extraction of Adverse Drug Reaction Mentions from Social Media. <br>
 Shashank Gupta, Manish Gupta, Vasudeva Varma, Sachin Pawar, Nitin Ramrakhiyani and Girish K Palshikar <br>
@@ -15,7 +15,7 @@ NIPS 2017 Machine Learning for Health (ML4H) [poster](https://drive.google.com/f
 
 Co-training for Extraction of Adverse Drug Reaction Mentions from Social Media. <br>
 Shashank Gupta, Manish Gupta, Vasudeva Varma, Sachin Pawar, Nitin Ramrakhiyani and Girish K Palshikar <br>
-ECIR 2018 
+ECIR 2018 ([paper](https://drive.google.com/file/d/1h2uzjKL2_QKin6hRDoAVgDEBrLMgEt8v/view?usp=sharing), [slides](https://drive.google.com/file/d/1ysPD9aBsY-KMSOudSTOF8dHRwJGdC1AB/view?usp=sharing))
 
 Co-training for Extraction of Adverse Drug Reaction Mentions from Social Media. <br>
 Shashank Gupta, Manish Gupta, Vasudeva Varma, Sachin Pawar, Nitin Ramrakhiyani and Girish K Palshikar <br>
