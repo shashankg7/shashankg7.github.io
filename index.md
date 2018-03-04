@@ -7,13 +7,13 @@ Thanks for visiting.
 
 I am currently a MS By Research student at Search and Information Extraction Lab [SIEL, IIIT-Hyderabad](search.iiit.ac.in) jointly supervised by [Dr. Manish Gupta](https://www.microsoft.com/en-us/research/people/gmanish/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fpeople%2Fgmanish%2F#) from Microsoft R&D, India and [Prof. Vasudeva Varma](https://faculty.iiit.ac.in/~vv/Home.html), Dean R&D, IIIT-Hyderabad. My areas of interst are : Machine Learning, Information Retrieval and Extraction, Recommendation Systems, Deep Computer Vision (incr. order of preference, right-to-left).
 
-Currently I am working towards building Automatic Hate Speech Detection system for social media posts to filter out hateful noise, and Medical Information Extraction System from social media to extract novel Side-Effects of drugs, using techniques from Machine Learning, Information Extraction and Natural Language Processing.  
+Currently I am working towards building Automatic Hate Speech Detection system for social media posts to filter out hateful noise, and Medical Information Extraction System for social media to extract novel Side-Effects of drugs as part of post-market surveillance, using techniques from Machine Learning, Information Extraction and Natural Language Processing.  
 
 To find out more about my work, please visit [CV](/resume-final.pdf) and [Publications](/publications/).
 
 Some updates:
 
-* [Janurary 2018] Joined Conduent Labs India (formerly Xerox Research Center India (XRCI)) as research intern
+* [Janurary 2018] Joined Conduent Labs India (formerly Xerox Research Center India (XRCI)) as research intern.
 * [December 2017] Two papers accepted at ECIR 2018.
 * [November 2017] Two papers accepted at NIPS 2017 Machine learning for Health (ML4H) Workshop.
 * [November 2017] Invited talk on "Deep Learning for Recommender Systems" at Thiagarajar College of Engineering (TCE). 
