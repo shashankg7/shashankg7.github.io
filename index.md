@@ -13,7 +13,7 @@ To find out more about my work, please visit [CV](/resume-final.pdf) and [Public
 
 Some updates:
 
-* [Janurary 2018] Joined Conduent Labs India (formerly Xerox Research Center India (XRCI)) as research intern.
+* [Janurary 2018] Joined Conduent Labs India (formerly Xerox Research Center India (XRCI)) as research intern. Working on the problem of Fake News Detection.
 * [December 2017] Two papers accepted at ECIR 2018.
 * [November 2017] Two papers accepted at NIPS 2017 Machine learning for Health (ML4H) Workshop.
 * [November 2017] Invited talk on "Deep Learning for Recommender Systems" at Thiagarajar College of Engineering (TCE). 
