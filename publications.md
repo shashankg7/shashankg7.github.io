@@ -25,6 +25,10 @@ Semi-Supervised Recurrent Neural Network for Adverse Drug Mention Extraction. <b
 Shashank Gupta, Sachin Pawar, Nitin Ramrakhiyani, Girish K Palshikar, Vasudeva Varma <br>
 ACM 11th International Workshop on Data and Text Mining in Biomedical informatics at CIKM 2017
 
+TCS Research at TAC 2017: Joint Extraction of Entities and Relations from Drug Labels using an Ensemble of Neural Networks. <br>
+Sachin Pawar, Nitin Ramrakhiyani, Girish K Palshikar, Shashank Gupta and Vasudeva Varma <br>
+TAC 2017 ADR Track ([paper](https://drive.google.com/file/d/1XdZ3m9FI4MWVPrS5vhEi0kjvtyN7TgfB/view?usp=sharing))
+
 Enhancing Categorization of Computer Science Research Papers using Knowledge Bases. <br>
 Shashank Gupta, Priya Radhakrishnan, Manish Gupta, Vasudeva Varma .<br>
 KG4IR: Workshop on Knowledge-Graphs for Text Analysis and Retrieval at SIGIR 2017 ([poster](https://drive.google.com/file/d/0B-7peEFiNjnUd0ltZU0tajFVOGc/view?usp=sharing), [slides](https://drive.google.com/open?id=0B-7peEFiNjnUM1hDOXhlbks1Ulk), [paper](https://drive.google.com/open?id=0B-7peEFiNjnUcFZzWjdWMXp6YkE))
