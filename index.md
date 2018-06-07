@@ -13,6 +13,7 @@ To find out more about my work, please visit [CV](/resume-final.pdf) and [Public
 
 Some updates:
 
+* [June 2018] Serving as PC Member for the International Conference on Nlp (ICON) 2018 and DTMBio 2018 @CIKM.
 * [January 2018] Joined Conduent Labs, Bangalore ((previously known as Xerox Research Center India (XRCI)) as Research Intern with Manjira Sinha and Sandya Mannarswamy. 
 * [December 2017] Two papers accepted at ECIR 2018.
 * [November 2017] Two papers accepted at NIPS 2017 Machine learning for Health (ML4H) Workshop.
