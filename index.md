@@ -13,7 +13,8 @@ To find out more about my work, please visit [CV](/resume-final.pdf) and [Public
 
 Some updates:
 
-* [June 2018] Serving as PC Member for the International Conference on Nlp (ICON) 2018 and DTMBio 2018 @CIKM.
+* [June 2018] Journal paper from my summer internship work @TRDDC, Pune got published at [BMC Bioinformatics (Impact Factor: 2.448)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2192-4)
+* [June 2018] Serving as PC Member for ICON 2018 and DTMBio 2018 @CIKM'18.
 * [January 2018] Joined Conduent Labs, Bangalore ((previously known as Xerox Research Center India (XRCI)) as Research Intern with Manjira Sinha and Sandya Mannarswamy. 
 * [December 2017] Two papers accepted at ECIR 2018.
 * [November 2017] Two papers accepted at NIPS 2017 Machine learning for Health (ML4H) Workshop.
