@@ -5,6 +5,14 @@ permalink: /publications/
 
 ### Publications
 
+CIMTDetect: A Community Infused Matrix-Tensor Coupled Factorization Based Method for Fake News Detection
+Shashank Gupta, Raghuveer Thirukovalluru, Manjira Sinha and Sandya Mannarswamy. 
+ASONAM 2018 (Short Paper)
+
+Semi-Supervised Recurrent Neural Network for Adverse Drug Mention Extraction. <br>
+Shashank Gupta, Sachin Pawar, Nitin Ramrakhiyani, Girish K Palshikar, Vasudeva Varma <br>
+BMC Bioinformatics Journal Special Edition (Extended version of the DTMBIO@CIKM presentation)
+
 Multi-task Learning for Extraction of Adverse Drug Reaction Mentions from Social Media. <br>
 Shashank Gupta, Manish Gupta, Vasudeva Varma, Sachin Pawar, Nitin Ramrakhiyani and Girish K Palshikar <br>
 ECIR 2018 ([paper](https://drive.google.com/file/d/120_y21rCPzQ6epV9YmAflmEuFw91Db5s/view?usp=sharing), [slides](https://drive.google.com/file/d/1562E7GBNonbjn8PB3Dc3cmoo0ScrFS5m/view?usp=sharing))
