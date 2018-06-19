@@ -13,6 +13,7 @@ To find out more about my work, please visit [CV](/resume-final.pdf) and [Public
 
 Some updates:
 
+* [June 2018] Internship work @Conduent labs on the problem of "Fake News Detection" got accepted at ASONAM'18 (Short Paper)
 * [June 2018] Journal paper from my summer internship work @TRDDC, Pune got published at [BMC Bioinformatics (Impact Factor: 2.448)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2192-4)
 * [June 2018] Serving as PC Member for ICON 2018 and DTMBio 2018 @CIKM'18.
 * [January 2018] Joined Conduent Labs, Bangalore ((previously known as Xerox Research Center India (XRCI)) as Research Intern with Manjira Sinha and Sandya Mannarswamy. 
