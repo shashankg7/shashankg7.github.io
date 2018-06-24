@@ -7,8 +7,7 @@ Thanks for visiting.
 
 I am currently a MS By Research student at Search and Information Extraction Lab [SIEL, IIIT-Hyderabad](search.iiit.ac.in) jointly supervised by [Dr. Manish Gupta](https://www.microsoft.com/en-us/research/people/gmanish/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fpeople%2Fgmanish%2F#) Principal Applied Scientist at Microsoft R&D, India and [Prof. Vasudeva Varma](https://faculty.iiit.ac.in/~vv/Home.html), Dean R&D, IIIT-Hyderabad. My areas of interst are : Machine Learning, Information Retrieval and Extraction, Recommendation Systems, Deep Computer Vision (incr. order of preference, right-to-left).
 
-Currently I am working towards building Automatic Hate Speech Detection system for social media posts to filter out hateful noise, and Medical Information Extraction System for social media to extract novel Side-Effects of drugs as part of post-market surveillance, using techniques from Machine Learning, Information Extraction and Natural Language Processing.  
-
+As part of my thesis, I have worked on the problem of "Identifying Adverse Drug Reactions (ADRs) from Social Media under Limited Labeled Data setting" using advanced Machine Learning and NLP techniques. Along with this, I have also worked on a project which involved building a NLP system to automatically detect/flag hateful language from social media feeds. 
 To find out more about my work, please visit [CV](/resume-final.pdf) and [Publications](/publications/).
 
 Some updates:
