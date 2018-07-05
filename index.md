@@ -5,13 +5,16 @@ permalink: /
 
 Thanks for visiting.
 
-I am currently a MS By Research student at Search and Information Extraction Lab [SIEL, IIIT-Hyderabad](search.iiit.ac.in) jointly supervised by [Dr. Manish Gupta](https://www.microsoft.com/en-us/research/people/gmanish/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fpeople%2Fgmanish%2F#) Principal Applied Scientist at Microsoft R&D, India and [Prof. Vasudeva Varma](https://faculty.iiit.ac.in/~vv/Home.html), Dean R&D, IIIT-Hyderabad. My areas of interst are : Machine Learning, Information Retrieval and Extraction, Recommendation Systems, Deep Computer Vision (incr. order of preference, right-to-left).
+i sm working as a Data Science at Flipkart, Bangalore. 
+
+In my previous life, I was a MS By Research student at Search and Information Extraction Lab [SIEL, IIIT-Hyderabad](search.iiit.ac.in) under joint supervision of [Dr. Manish Gupta](https://www.microsoft.com/en-us/research/people/gmanish/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fpeople%2Fgmanish%2F#) Principal Applied Scientist at Microsoft R&D, India and [Prof. Vasudeva Varma](https://faculty.iiit.ac.in/~vv/Home.html), Dean R&D, IIIT-Hyderabad. My areas of interst are : Machine Learning, Information Retrieval and Extraction, Recommendation Systems, Deep Computer Vision (incr. order of preference, right-to-left).
 
 As part of my thesis, I have worked on the problem of "Identifying Adverse Drug Reactions (ADRs) from Social Media under Limited Labeled Data setting" using advanced Machine Learning and NLP techniques. Along with this, I have also worked on a project which involved building a NLP system to automatically detect/flag hateful language from social media feeds. 
 To find out more about my work, please visit [CV](/resume-final.pdf) and [Publications](/publications/).
 
 Some updates:
 
+* [July 2018] Joining Flipkart in the capacity of Data Scientist. 
 * [June 2018] Internship work @Conduent Labs on "Fake News Detection" got accepted at ASONAM'18 (Short Paper).
 * [June 2018] Journal paper from my summer internship work @TRDDC, Pune got published at [BMC Bioinformatics (Impact Factor: 2.448)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2192-4)
 * [June 2018] Serving as PC Member for ICON 2018 and DTMBio 2018 @CIKM'18.
