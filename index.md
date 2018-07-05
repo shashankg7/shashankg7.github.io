@@ -5,7 +5,7 @@ permalink: /
 
 Thanks for visiting.
 
-i sm working as a Data Science at Flipkart, Bangalore. 
+I am currently working as a Data Science at Flipkart, Bangalore. 
 
 In my previous life, I was a MS By Research student at Search and Information Extraction Lab [SIEL, IIIT-Hyderabad](search.iiit.ac.in) under joint supervision of [Dr. Manish Gupta](https://www.microsoft.com/en-us/research/people/gmanish/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fpeople%2Fgmanish%2F#) Principal Applied Scientist at Microsoft R&D, India and [Prof. Vasudeva Varma](https://faculty.iiit.ac.in/~vv/Home.html), Dean R&D, IIIT-Hyderabad. My areas of interst are : Machine Learning, Information Retrieval and Extraction, Recommendation Systems, Deep Computer Vision (incr. order of preference, right-to-left).
 
