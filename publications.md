@@ -5,8 +5,16 @@ permalink: /publications/
 
 ### Publications
 
-CIMTDetect: A Community Infused Matrix-Tensor Coupled Factorization Based Method for Fake News Detection
-Shashank Gupta, Raghuveer Thirukovalluru, Manjira Sinha and Sandya Mannarswamy. 
+RARE : A Recurrent Attentive Recommendation Engine for News Aggregators <br>
+Dhruv Khattar, Vaibhav Kumar, Shashank Gupta, Manish Gupta and Vasudeva Varma <br>
+CIKM 2018, 6th International Workshop on News Recommendation and Analytics (INRA 2018)
+
+A Comparative Study of Embeddings Methods for Hate Speech Detection from Tweets <br>
+Shashank Gupta, Zeerak Waseem <br>
+EMNLP 2018 Workshop on Noisy User Generated Text (Accepted as a poster)
+
+CIMTDetect: A Community Infused Matrix-Tensor Coupled Factorization Based Method for Fake News Detection <br>
+Shashank Gupta, Raghuveer Thirukovalluru, Manjira Sinha and Sandya Mannarswamy. <br>
 ASONAM 2018 (Accepted as short paper [Detailed version of paper](https://drive.google.com/file/d/1IKXa38n4JC47gtnJ2W3IfiAq1rY8VCpR/view?usp=sharing))
 
 Semi-Supervised Recurrent Neural Network for Adverse Drug Mention Extraction. <br>
