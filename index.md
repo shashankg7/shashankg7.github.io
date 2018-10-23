@@ -14,7 +14,8 @@ To find out more about my work, please visit [CV](/resume-final.pdf) and [Public
 
 Some updates:
 
-* [July 2018] Joining Flipkart in the capacity of Data Scientist. 
+* [Oct 2018] Serving as PC member for ECIR'19 and ML4H@NIPS'19.
+* [July 2018] Joined Flipkart as Data Scientist with the Search team. 
 * [June 2018] Internship work @Conduent Labs on "Fake News Detection" got accepted at ASONAM'18 (Short Paper).
 * [June 2018] Journal paper from my summer internship work @TRDDC, Pune got published at [BMC Bioinformatics (Impact Factor: 2.448)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2192-4)
 * [June 2018] Serving as PC Member for ICON 2018 and DTMBio 2018 @CIKM'18.
