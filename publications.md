@@ -7,7 +7,7 @@ permalink: /publications/
 
 RARE : A Recurrent Attentive Recommendation Engine for News Aggregators <br>
 Dhruv Khattar, Vaibhav Kumar, Shashank Gupta, Manish Gupta and Vasudeva Varma <br>
-CIKM 2018, 6th International Workshop on News Recommendation and Analytics (INRA 2018)
+CIKM 2018, 6th International Workshop on News Recommendation and Analytics (INRA 2018) ([paper](https://vaibhav4595.github.io/files/RARE.pdf))
 
 A Comparative Study of Embeddings Methods for Hate Speech Detection from Tweets <br>
 Shashank Gupta, Zeerak Waseem <br>
