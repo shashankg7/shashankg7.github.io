@@ -14,6 +14,7 @@ To find out more about my work, please visit [CV](/resume-final.pdf) and [Public
 
 Some updates:
 
+* [March 2019] Invited talk at Alumni Research Talks event organized at BITS, Pilani. I talked about "Information Retrieval from Social Media".  
 * [Oct 2018] Serving as PC member for ECIR'19 and ML4H@NIPS'19.
 * [July 2018] Joined Flipkart as Data Scientist with the Search team. 
 * [June 2018] Internship work @Conduent Labs on "Fake News Detection" got accepted at ASONAM'18 (Short Paper).
