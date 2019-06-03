@@ -5,6 +5,11 @@ permalink: /publications/
 
 ### Publications
 
+Pharmacovigilance from Social Media using Limited Labelled Data <br>
+Shashank Gupta <br>
+MS By Research Thesis Presentation ([slides](https://docs.google.com/presentation/d/1AKmJHZq322eLeJgI0mvvMKQBG1kluLK0KKuMY5eiykc/edit#slide=id.p))
+
+
 RARE : A Recurrent Attentive Recommendation Engine for News Aggregators <br>
 Dhruv Khattar, Vaibhav Kumar, Shashank Gupta, Manish Gupta and Vasudeva Varma <br>
 CIKM 2018, 6th International Workshop on News Recommendation and Analytics (INRA 2018) ([paper](https://vaibhav4595.github.io/files/RARE.pdf))
