@@ -5,7 +5,7 @@ permalink: /
 
 Thanks for visiting.
 
-I am currently working as a Data Scientist at Flipkart, Bangalore. 
+I am currently working as a Data Scientist at Flipkart with the Search Ranking Team.  
 
 Prior to joining Flipkart, I was a MS By Research student at Search and Information Extraction Lab [SIEL, IIIT-Hyderabad](search.iiit.ac.in) under joint supervision of [Dr. Manish Gupta](https://www.microsoft.com/en-us/research/people/gmanish/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fpeople%2Fgmanish%2F#) Principal Applied Scientist at Microsoft R&D, India and [Prof. Vasudeva Varma](https://faculty.iiit.ac.in/~vv/Home.html), Dean R&D, IIIT-Hyderabad. My areas of interest are : Machine Learning, Information Retrieval and Extraction, Recommendation Systems, Deep Computer Vision (incr. order of preference, right-to-left).
 
@@ -14,6 +14,7 @@ To find out more about my work, please visit [CV](/resume-final.pdf) and [Public
 
 Some updates:
 
+* [June 2019] Reviewing for a special edition "Learning from User Interaction" of Information Retrieval Journal (IRJ). 
 * [March 2019] Invited talk at Alumni Research Talks event organized at BITS, Pilani. I talked about "Information Retrieval from Social Media" [slides](https://docs.google.com/presentation/d/1waACjQVOiorrI6wtdGX1ataYaQVMKCqQGT2We69y19w/edit#slide=id.g5459ed153a_0_29).  
 * [Oct 2018] Serving as PC member for ECIR'19 and ML4H@NIPS'19.
 * [July 2018] Joined Flipkart as Data Scientist with the Search team. 
