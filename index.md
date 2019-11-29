@@ -14,6 +14,7 @@ To find out more about my work, please visit [CV](/resume-final.pdf) and [Public
 
 Some updates:
 
+* [Dec. 2019] PC Member for WSDM'20 Workshop on State-based User Modelling.
 * [Nov. 2019] Reviewing for ICML 2020.
 * [July 2019] Program Committee Member for ECIR 2020. 
 * [June 2019] Reviewing for a special edition "Learning from User Interaction" of Information Retrieval Journal (IRJ). 
