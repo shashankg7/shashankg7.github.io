@@ -15,7 +15,7 @@ To find out more about my work, please visit [CV](/resume-final.pdf) and [Public
 Some updates:
 
 * [Dec. 2019] PC Member for WSDM'20 Workshop on State-based User Modelling.
-* [Nov. 2019] Reviewing for ICML 2020 and ACL'20 (Machine Learning for NLP track).
+* [Nov. 2019] Reviewing for ICML 2020.
 * [July 2019] Program Committee Member for ECIR 2020. 
 * [June 2019] Reviewing for a special edition "Learning from User Interaction" of Information Retrieval Journal (IRJ). 
 * [March 2019] Invited talk at Alumni Research Talks event organized at BITS, Pilani. I talked about "Information Retrieval from Social Media" [slides](https://docs.google.com/presentation/d/1waACjQVOiorrI6wtdGX1ataYaQVMKCqQGT2We69y19w/edit#slide=id.g5459ed153a_0_29).  
