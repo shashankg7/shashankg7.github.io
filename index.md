@@ -14,6 +14,7 @@ To find out more about my work, please visit [CV](/resume-final.pdf) and [Public
 
 Some updates:
 
+* [April 2020] PC Member for EMNLP'20.
 * [Dec. 2019] PC Member for WSDM'20 Workshop on State-based User Modelling.
 * [Nov. 2019] Reviewing for ICML 2020. [Update as of March'20] - Couldn't review papers due to bad health.
 * [July 2019] Program Committee Member for ECIR 2020. 
