@@ -5,10 +5,15 @@ permalink: /publications/
 
 ### Publications
 
+## Thesis
+
 Pharmacovigilance from Social Media using Limited Labelled Data <br>
 Shashank Gupta <br>
 MS By Research Thesis Presentation ([slides](https://docs.google.com/presentation/d/1AKmJHZq322eLeJgI0mvvMKQBG1kluLK0KKuMY5eiykc/edit#slide=id.p))
 
+Session Length Prediction for Product Search on E-commerce Platform <br>
+Shashank Gupta, Subhadeep Maji <br>
+SIGIR 2020, Short Paper. (Link)
 
 RARE : A Recurrent Attentive Recommendation Engine for News Aggregators <br>
 Dhruv Khattar, Vaibhav Kumar, Shashank Gupta, Manish Gupta and Vasudeva Varma <br>
