@@ -15,7 +15,7 @@ To find out more about my work, please visit [CV](/resume-final.pdf) and [Public
 Some updates:
 
 * [April 2020] Paper accepted at SIGIR'20. 
-* [April 2020] PC Member for EMNLP'20 & AACL-IJCNLP 2020.
+* [April 2020] PC Member for EMNLP'20 (IE Track) & AACL-IJCNLP 2020 (IE + IR Track).
 * [Dec. 2019] PC Member for WSDM'20 Workshop on State-based User Modelling.
 * [Nov. 2019] Reviewing for ICML 2020. [Update as of March'20] - Couldn't review papers due to bad health.
 * [July 2019] Program Committee Member for ECIR 2020. 
