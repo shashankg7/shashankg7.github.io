@@ -10,6 +10,10 @@ Pharmacovigilance from Social Media using Limited Labelled Data <br>
 Shashank Gupta <br>
 MS By Research Thesis Presentation ([slides](https://docs.google.com/presentation/d/1AKmJHZq322eLeJgI0mvvMKQBG1kluLK0KKuMY5eiykc/edit#slide=id.p))
 
+On Application of Bayesian Parametric and Non-parametric Models for User Cohorting in Product Search <br>
+Shashank Gupta <br>
+ECNLP@ACL'20, Position paper. (Line)
+
 Session Length Prediction for Product Search on E-commerce Platform <br>
 Shashank Gupta, Subhadeep Maji <br>
 SIGIR 2020, Short Paper. (Link)
