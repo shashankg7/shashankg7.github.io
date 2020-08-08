@@ -14,7 +14,7 @@ To find out more about my work, please visit [CV](/resume-final.pdf) and [Public
 
 Some updates:
 
-* [June 2020] PC Member for AACL-IJCNLP'20 Demo Track. 
+* [July 2020] PC Member for EACL'2020.
 * [April 2020] Position paper accepted at ECNLP@ACL'20.
 * [April 2020] Paper accepted at SIGIR'20. 
 * [April 2020] PC Member for EMNLP'20 (IE Track) & AACL-IJCNLP 2020 (IE + IR Track).
