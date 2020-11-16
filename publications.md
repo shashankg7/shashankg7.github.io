@@ -12,11 +12,11 @@ MS By Research Thesis Presentation ([slides](https://docs.google.com/presentatio
 
 On Application of Bayesian Parametric and Non-parametric Models for User Cohorting in Product Search <br>
 Shashank Gupta <br>
-ECNLP@ACL'20, Position paper. (Line)
+ECNLP@ACL'20, Position paper. 
 
 Session Length Prediction for Product Search on E-commerce Platform <br>
 Shashank Gupta, Subhadeep Maji <br>
-SIGIR 2020, Short Paper. (Link)
+SIGIR 2020, Short Paper. ([Link](https://iiitaphyd-my.sharepoint.com/:b:/g/personal/shashank_gupta_alumni_iiit_ac_in/EXNmsfIV9MlGjSLdfpYrnmABpcHAhHjvwWC08WPLEmwnqQ?e=E0CLGF))
 
 RARE : A Recurrent Attentive Recommendation Engine for News Aggregators <br>
 Dhruv Khattar, Vaibhav Kumar, Shashank Gupta, Manish Gupta and Vasudeva Varma <br>
