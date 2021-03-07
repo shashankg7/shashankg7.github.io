@@ -5,7 +5,7 @@ permalink: /
 
 Thanks for visiting.
 
-I am currently working as a Data Scientist at Flipkart with the Search Ranking Team.  
+Up until now I was working as a Data Scientist at Flipkart with the Search Ranking Team.  
 
 Prior to joining Flipkart, I was a MS By Research student at Search and Information Extraction Lab [SIEL, IIIT-Hyderabad](search.iiit.ac.in) under joint supervision of [Dr. Manish Gupta](https://www.microsoft.com/en-us/research/people/gmanish/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fpeople%2Fgmanish%2F#) Principal Applied Scientist at Microsoft R&D, India and [Prof. Vasudeva Varma](https://faculty.iiit.ac.in/~vv/Home.html), Dean R&D, IIIT-Hyderabad. My areas of interest are : Machine Learning, Information Retrieval and Extraction, Recommendation Systems, Deep Computer Vision (incr. order of preference, right-to-left).
 
@@ -14,6 +14,7 @@ To find out more about my work, please visit [CV](/resume-final.pdf) and [Public
 
 Some updates:
 
+* [January 2021] Left my job as a Data Scientist at Flipkart (Next update coming soon!).
 * [July 2020] PC Member for EACL'2020.
 * [April 2020] Position paper accepted at ECNLP@ACL'20.
 * [April 2020] Paper accepted at SIGIR'20. 
