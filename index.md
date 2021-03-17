@@ -5,7 +5,7 @@ permalink: /
 
 Thanks for visiting.
 
-I'll be joining PhD at [IRLab](http://irlab.science.uva.nl) (UvA) under supervision of [Prof. Maarten De Rijke](https://staff.fnwi.uva.nl/m.derijke/). I'll be working on Unbiased Learning for Rank for Conversation RecSys|Search. 
+I'll be joining PhD at [IRLab](http://irlab.science.uva.nl) under the supervision of [Prof. Maarten De Rijke](https://staff.fnwi.uva.nl/m.derijke/). I'll be working on Unbiased Learning for Rank for Conversation Search. 
 
 Previously, I was working as a Data Scientist at Flipkart with the Search Ranking Team.  
 
@@ -16,7 +16,7 @@ To find out more about my work, please visit [CV](/resume-final.pdf) and [Public
 
 Some updates:
 
-* [January 2021] Left my job as a Data Scientist at Flipkart (Next update coming soon!).
+* [January 2021] Left my job as a Data Scientist at Flipkart.
 * [July 2020] PC Member for EACL'2020.
 * [April 2020] Position paper accepted at ECNLP@ACL'20.
 * [April 2020] Paper accepted at SIGIR'20. 
