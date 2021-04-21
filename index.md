@@ -5,9 +5,9 @@ permalink: /
 
 Thanks for visiting.
 
-I'll be joining PhD at [IRLab](http://irlab.science.uva.nl) under the supervision of [Prof. Maarten De Rijke](https://staff.fnwi.uva.nl/m.derijke/). I'll be working on Unbiased Learning for Rank for Conversation Search. 
+I am currently 1st year PhD student at [IRLab](http://irlab.science.uva.nl) under the supervision of [Prof. Maarten De Rijke](https://staff.fnwi.uva.nl/m.derijke/). I am working on Unbiased Learning for Rank from Conversational interactions. 
 
-Previously, I was working as a Data Scientist at Flipkart with the Search Ranking Team.  
+Previously, I was working as a Data Scientist at Flipkart with the Search Ranking Team working on various query understanding and product ranking problems.  
 
 Prior to joining Flipkart, I was a MS By Research student at Search and Information Extraction Lab [SIEL, IIIT-Hyderabad](search.iiit.ac.in) under joint supervision of [Dr. Manish Gupta](https://www.microsoft.com/en-us/research/people/gmanish/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fpeople%2Fgmanish%2F#) Principal Applied Scientist at Microsoft R&D, India and [Prof. Vasudeva Varma](https://faculty.iiit.ac.in/~vv/Home.html), Dean R&D, IIIT-Hyderabad. My areas of interest are : Machine Learning, Information Retrieval and Extraction, Recommendation Systems, Deep Computer Vision (incr. order of preference, right-to-left).
 
@@ -16,6 +16,7 @@ To find out more about my work, please visit [CV](/resume-final.pdf) and [Public
 
 Some updates:
 
+* [April 2021] Joined IRLab, UvA as a [PhD student](https://irlab.science.uva.nl/2021/04/15/shashank-gupta-joins-irlab/) 
 * [January 2021] Left my job as a Data Scientist at Flipkart.
 * [July 2020] PC Member for EACL'2020.
 * [April 2020] Position paper accepted at ECNLP@ACL'20.
