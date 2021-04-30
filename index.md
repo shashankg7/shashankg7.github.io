@@ -5,7 +5,7 @@ permalink: /
 
 Thanks for visiting.
 
-I am currently a 1st year PhD student at [IRLab](http://irlab.science.uva.nl) under the supervision of [Prof. Maarten De Rijke](https://staff.fnwi.uva.nl/m.derijke/). I am working on Unbiased learning to rank from conversational interactions. 
+I am currently a 1st year PhD student at [IRLab](http://irlab.science.uva.nl) under the supervision of [Prof. Maarten De Rijke](https://staff.fnwi.uva.nl/m.derijke/). I am working on Unbiased learning to rank from conversational interactions. My research is around addressing questions such as: How can a conversational system learn from past interactions with users so as to inform its future actions? What types of presentation bias emerge in a conversational setting and how can we correct for this?
 
 Previously, I was working as a Data Scientist at Flipkart with the search ranking team working on various query understanding and product ranking problems.  
 
