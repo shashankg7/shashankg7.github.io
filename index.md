@@ -5,7 +5,7 @@ permalink: /
 
 Thanks for visiting.
 
-I am currently a 1st year PhD student at [IRLab](http://irlab.science.uva.nl) under the supervision of [Prof. Maarten De Rijke](https://staff.fnwi.uva.nl/m.derijke/). I am working on Unbiased learning to rank from conversational interactions. My research is around addressing questions such as: How can a conversational system learn from past interactions with users so as to inform its future actions? What types of presentation bias emerge in a conversational setting and how can we correct for this?
+I am currently a 1st year PhD student at [IRLab](http://irlab.science.uva.nl) supervised by [Prof. Maarten De Rijke](https://staff.fnwi.uva.nl/m.derijke/) and [Prof. Harrie Oosterhuis](https://harrieo.github.io/). I am working on Unbiased learning to rank from conversational interactions. My research is around addressing questions such as: How can a conversational system learn from past interactions with users so as to inform its future actions? What types of presentation bias emerge in a conversational setting and how can we correct for this?
 
 Previously, I was working as a Data Scientist at Flipkart with the search ranking team working on various query understanding and product ranking problems.  
 
@@ -16,6 +16,7 @@ To find out more about my work, please visit [CV](/resume-final.pdf) and [Public
 
 Some updates:
 
+* [May 2021] Reviewing for NeurIPS 2021
 * [April 2021] Joined IRLab, UvA as a [PhD student](https://irlab.science.uva.nl/2021/04/15/shashank-gupta-joins-irlab/) 
 * [January 2021] Left my job as a Data Scientist at Flipkart.
 * [July 2020] PC Member for EACL'2020.
