@@ -5,9 +5,11 @@ permalink: /
 
 Thanks for visiting.
 
-I am currently a 1st year PhD student at the [IRLab, UvA](http://irlab.science.uva.nl), supervised by [Prof. Maarten De Rijke](https://staff.fnwi.uva.nl/m.derijke/) and [Prof. Harrie Oosterhuis](https://harrieo.github.io/). I am working on the problem of Unbiased Learning to Rank from Conversational Interactions. My research is around addressing questions such as: How can a conversational system learn from past interactions with users so as to inform its future actions? What types of presentation bias emerge in a conversational setting and how can we correct for this? My areas of interest are : Machine Learning, Information Retrieval, Online and Bandit algorithms, Counterfactual Evaluation and Learning. 
+I am currently a 1st year PhD student at the [IRLab, UvA](http://irlab.science.uva.nl), supervised by [Prof. Maarten De Rijke](https://staff.fnwi.uva.nl/m.derijke/) and [Prof. Harrie Oosterhuis](https://harrieo.github.io/). I am working on the problem of Unbiased Learning to Rank from Conversational Interactions. My research is around addressing questions such as: How can a conversational system learn from past interactions with users so as to inform its future actions? What types of presentation bias emerge in a conversational setting and how can we correct for this? 
 
-Previously, I was working as a Data Scientist at Flipkart with the search team working on various query understanding and product ranking problems.  
+My primary areas of interest are : Machine Learning, Information Retrieval, Online and Bandit algorithms, Counterfactual Evaluation and Learning. 
+
+Previously, I was a Data Scientist at Flipkart with the search team where I worked on various query understanding and product ranking problems.  
 
 Prior to joining Flipkart, I was a MS By Research student at Search and Information Extraction Lab [SIEL, IIIT-Hyderabad](search.iiit.ac.in) under the joint supervision of [Dr. Manish Gupta](https://www.microsoft.com/en-us/research/people/gmanish/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fpeople%2Fgmanish%2F#) Principal Applied Scientist at Microsoft R&D, India and [Prof. Vasudeva Varma](https://faculty.iiit.ac.in/~vv/Home.html), Dean R&D, IIIT-Hyderabad. 
 
