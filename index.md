@@ -18,9 +18,8 @@ To find out more about my work, please visit my [CV](/resume_final.pdf), [Public
 
 Some updates:
 
-* [May 2021] Reviewing for NeurIPS 2021
+* [May 2021] Reviewing for NeurIPS, EMNLP, ICLR 21.
 * [April 2021] Joined IRLab, UvA as a [PhD student](https://irlab.science.uva.nl/2021/04/15/shashank-gupta-joins-irlab/) 
-* [January 2021] Left my job as a Data Scientist at Flipkart.
 * [July 2020] PC Member for EACL'2020.
 * [April 2020] Position paper accepted at ECNLP@ACL'20.
 * [April 2020] Paper accepted at SIGIR'20. 
@@ -38,9 +37,7 @@ Some updates:
 * [January 2018] Joined Conduent Labs, Bangalore ((previously known as Xerox Research Center India (XRCI)) as Research Intern with Manjira Sinha and Sandya Mannarswamy. 
 * [December 2017] Two papers accepted at ECIR 2018.
 * [November 2017] Two papers accepted at NIPS 2017 Machine learning for Health (ML4H) Workshop.
-* [November 2017] Invited talk on "Deep Learning for Recommender Systems" at Thiagarajar College of Engineering (TCE). 
-* [November 2017] Invited talk on "Machine Learning & Information Retrieval Techniques for Adverse Drug Reaction Mention Extraction from Social Media" at Duke-NUS Medical School, Singapore.
-* [November 2017] Submitted our system on ADR-Drug Relation Extraction at TAC 2017 ADR Track.
+* [November 2017] Invited talk on "Deep Learning for Recommender Systems" at Thiagarajar College of Engineering (TCE) &, "Machine Learning & Information Retrieval Techniques for Adverse Drug Reaction Mention Extraction from Social Media" at Duke-NUS Medical School, Singapore.
 * [September 2017] Two papers on Content Based News Recommendation System accepted at ICDM workshop on Semantic Recommendation Systems (SeRECSys)
 * [August 2017] Paper on 'Semi-Supervised Recurrent Neural Network for Adverse Drug Reaction Mention Extraction' got accepted at ACM 11th International Workshop on Data and Text Mining in Biomedical informatics at CIKM 2017
 * [July 2017] Paper on Knowledge Base intergration with text classification pipleline got accepted at SIGIR workshop (KG4IR)
