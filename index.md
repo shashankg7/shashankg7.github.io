@@ -14,7 +14,7 @@ Previously, I was a Data Scientist with the search team at [Flipkart Internet Pv
 Prior to joining Flipkart, I was a MS By Research student at the Search and Information Extraction Lab [SIEL, IIIT-Hyderabad](search.iiit.ac.in) under the joint supervision of [Dr. Manish Gupta](https://www.microsoft.com/en-us/research/people/gmanish/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fpeople%2Fgmanish%2F#) Principal Applied Scientist at Microsoft R&D, India and [Prof. Vasudeva Varma](https://faculty.iiit.ac.in/~vv/Home.html), Dean R&D, IIIT-Hyderabad. 
 
 <!-- As part of my masters thesis, I worked on the problem of "Identifying Adverse Drug Reactions (ADRs) from Social Media under Limited Labeled Data setting" using advanced Machine Learning and NLP techniques. Along with this, I also worked on a project to automatically detect/flag hateful language from social media feeds.  -->
-To find out more about my work, please visit my [CV](/resume_final.pdf), [Publications](/publications/), or [Google Scholar profile](https://scholar.google.com/citations?user=UvTcU-IAAAAJ&hl=en).
+To find out more about my work, please visit my [CV](/resume-final.pdf), [Publications](/publications/), or [Google Scholar profile](https://scholar.google.com/citations?user=UvTcU-IAAAAJ&hl=en).
 
 Some updates:
 
