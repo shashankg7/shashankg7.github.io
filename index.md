@@ -5,9 +5,9 @@ permalink: /
 
 Hello, thanks for visiting.
 
-I am currently a 1st year PhD student at the [IRLab, UvA](http://irlab.science.uva.nl), supervised by [Prof. Maarten De Rijke](https://staff.fnwi.uva.nl/m.derijke/) and [Prof. Harrie Oosterhuis](https://harrieo.github.io/). I am working on the problem of Unbiased learning to rank from user interactions.  
+I am currently a 1st year PhD student at the [IRLab, UvA](http://irlab.science.uva.nl), supervised by [Prof. Maarten De Rijke](https://staff.fnwi.uva.nl/m.derijke/) and [Prof. Harrie Oosterhuis](https://harrieo.github.io/). I am working on the problem of: Unbiased learning to rank from user interactions.  
 
-My primary areas of interest are : Machine Learning, Information Retrieval, Online and Bandit algorithms, Counterfactual Evaluation and Learning. 
+My primary areas of interest are : Machine learning, Information retrieval, Online and bandit algorithms, Counterfactual evaluation and learning. 
 
 Previously, I was a Data Scientist with the search team at [Flipkart Internet Pvt. Limited, India](https://tech.flipkart.com/data-science/home), where I worked on various query understanding and product ranking problems. 
 
