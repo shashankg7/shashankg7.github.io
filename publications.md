@@ -4,7 +4,9 @@ permalink: /publications/
 ---
 
 
-### MS Thesis
+### Thesis
+
+#### MS Thesis
 
 Pharmacovigilance from Social Media using Limited Labelled Data <br>
 Shashank Gupta <br>
