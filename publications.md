@@ -10,7 +10,15 @@ Pharmacovigilance from Social Media using Limited Labelled Data <br>
 Shashank Gupta <br>
 MS By Research Thesis Presentation ([slides](https://docs.google.com/presentation/d/1AKmJHZq322eLeJgI0mvvMKQBG1kluLK0KKuMY5eiykc/edit#slide=id.p))
 
+#### Under Review
+
+Neural Bag-of-Words Point Process Model\\ for User Return Time Prediction in E-commerce
+Shashank Gupta, Manish Bansal. (Work done while at Flipkart)
+
 ### Publications
+
+The University of Amsterdam at the TREC 2021 Fair Ranking Track
+Ali Vardasbi, Gabriel Bénédict, <b>Shashank Gupta</b>, Maria Heuss, Pooya Khandel, Ming Li, Fatemeh Sarvi, TREC Fair Ranking Trec 21.
 
 On Application of Bayesian Parametric and Non-parametric Models for User Cohorting in Product Search <br>
 Shashank Gupta <br>
