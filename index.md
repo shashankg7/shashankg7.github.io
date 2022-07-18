@@ -17,6 +17,8 @@ To find out more about my work, please visit my [CV](/resume-final.pdf), [Public
 
 Some updates:
 
+* [June'21 - June'22] Reviewed for ACL, EMNLP, ICLR, ICML, NeuRIPS'22. 
+* [Sept'21 - Nov'21] TA for the Advanced Information Retrieval course. 
 * [May 2021] Reviewing for NeurIPS, EMNLP, ICLR 21.
 * [April 2021] Joined IRLab, UvA as a [PhD student](https://irlab.science.uva.nl/2021/04/15/shashank-gupta-joins-irlab/) 
 * [July 2020] PC Member for EACL'2020.
