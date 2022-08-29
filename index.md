@@ -17,6 +17,7 @@ To find out more about my work, please visit my [CV](/resume-final.pdf), [Public
 
 Some updates:
 
+* [August 2022] Work on VAE-IPS got accepted at the CONSEQUENCES+REVEAL Workshop at RecSys'22.
 * [June'21 - June'22] Reviewed for ACL, EMNLP, ICLR, ICML, NeuRIPS'22. 
 * [Sept'21 - Nov'21] TA for the Advanced Information Retrieval course. 
 * [May 2021] Reviewing for NeurIPS, EMNLP, ICLR 21.
