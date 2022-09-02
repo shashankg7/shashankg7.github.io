@@ -15,3 +15,5 @@ To balance the list of accepted papers, starting a list of my rejections:
 2 papers rejected from SIGIR'22. 
 
 1 paper rejected from ICTIR'22.
+
+1 paper rejected from CIKM'22.
