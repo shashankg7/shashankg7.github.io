@@ -21,7 +21,7 @@ Shashank Gupta, Manish Bansal. (Work done while at Flipkart)
 
 VAE-IPS: A Deep Generative Recommendation Method for Unbiased Learning From Implicit Feedback <br>
 <b>Shashank Gupta</b>, Harrie Oosterhuis, and Maarten de Rijke <br>
-RecSys 2022 Workshop on Causality, Counterfactuals, Sequential Decision-Making & Reinforcement Learning (CONSEQUENCES+REVEAL), 2022 <b>(oral presentation) (([paper](https://drive.google.com/file/d/1JeiHVuYi5iUBop8E_h0XPcKwOhdA6jBP/view?usp=sharing), poster)</b>.
+RecSys 2022 Workshop on Causality, Counterfactuals, Sequential Decision-Making & Reinforcement Learning (CONSEQUENCES+REVEAL), 2022 <b>(oral presentation)</b> ([paper](https://drive.google.com/file/d/1JeiHVuYi5iUBop8E_h0XPcKwOhdA6jBP/view?usp=sharing), poster).
 
 The University of Amsterdam at the TREC 2021 Fair Ranking Track <br>
 Ali Vardasbi, Gabriel Bénédict, <b>Shashank Gupta</b>, Maria Heuss, Pooya Khandel, Ming Li, Fatemeh Sarvi, TREC Fair Ranking Trec 21.
