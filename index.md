@@ -19,6 +19,7 @@ If you want to talk about collaborations, research, or just chat, feel free to e
 
 Some updates:
 
+* [Feb 2023] PC member for SIGIR'23.
 * [August 2022] Work on VAE-IPS got accepted at the CONSEQUENCES+REVEAL Workshop (as oral presentation) at RecSys'22.
 * [June'21 - June'22] Reviewed for ACL, EMNLP, ICLR, ICML, NeuRIPS'22. 
 * [Sept'21 - Nov'21] TA for the Advanced Information Retrieval course. 
