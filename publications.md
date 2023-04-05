@@ -19,6 +19,10 @@ Shashank Gupta, Manish Bansal. (Work done while at Flipkart)
 
 ### Publications
 
+Safe Deployment for Counterfactual Learning to Rank with Exposure-Based Risk Minimization <br>
+<b>Shashank Gupta</b>, Harrie Oosterhuis, and Maarten de Rijke <br>
+SIGIR 2023 (Full paper), [poster](), [video]()).
+
 VAE-IPS: A Deep Generative Recommendation Method for Unbiased Learning From Implicit Feedback <br>
 <b>Shashank Gupta</b>, Harrie Oosterhuis, and Maarten de Rijke <br>
 RecSys 2022 Workshop on Causality, Counterfactuals, Sequential Decision-Making & Reinforcement Learning (CONSEQUENCES+REVEAL), 2022 <b>(oral presentation)</b> ([paper](https://drive.google.com/file/d/1JeiHVuYi5iUBop8E_h0XPcKwOhdA6jBP/view?usp=sharing), [poster](https://drive.google.com/file/d/1n12vvOTdI8laVyIgBNNcIuCVxXsfjCGy/view?usp=sharing), [video](https://youtu.be/N-nn1500Q-g?t=10160)).
