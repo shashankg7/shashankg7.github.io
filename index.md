@@ -19,6 +19,7 @@ If you want to talk about collaborations, research, or just chat, feel free to e
 
 Some updates:
 
+* [April 2023] One full paper accepted at SIGIR 2023. 
 * [Feb 2023] PC member for SIGIR'23, NeurIPS'23.
 * [August 2022] Work on VAE-IPS got accepted at the CONSEQUENCES+REVEAL Workshop (as oral presentation) at RecSys'22.
 * [June'21 - June'22] Reviewed for ACL, EMNLP, ICLR, ICML, NeuRIPS'22. 
