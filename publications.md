@@ -20,7 +20,7 @@ Shashank Gupta, Manish Bansal. (Work done while at Flipkart)
 ### Publications
 
 Recent Advances in the Foundations and Applications of Unbiased Learning to Rank <br>
-<b>Shashank Gupta<b>, Philipp Hager, Jin Huang, Ali Vardasbi, and Harrie Oosterhuis <br>
+<b>Shashank Gupta</b>, Philipp Hager, Jin Huang, Ali Vardasbi, and Harrie Oosterhuis <br>
 Tutorial accepted at SIGIR 2023.
 
 Safe Deployment for Counterfactual Learning to Rank with Exposure-Based Risk Minimization <br>
