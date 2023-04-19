@@ -19,6 +19,7 @@ If you want to talk about collaborations, research, or just chat, feel free to e
 
 Some updates:
 
+* [April 2023] SIGIR tutorial proposal on recent advancements in unbiased learning-to-rank got accepted at SIGIR'23. I will be leading the tutorial discussion at the conference. 
 * [April 2023] One full paper accepted at SIGIR 2023. 
 * [Feb 2023] PC member for SIGIR'23, NeurIPS'23.
 * [August 2022] Work on VAE-IPS got accepted at the CONSEQUENCES+REVEAL Workshop (as oral presentation) at RecSys'22.
