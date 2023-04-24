@@ -15,8 +15,6 @@ Prior to joining Flipkart, I was a MS By Research student at the Search and Info
 
 To find out more about my work, please visit my [CV](/resume-final.pdf), [Publications](/publications/), or [Google Scholar profile](https://scholar.google.com/citations?user=UvTcU-IAAAAJ&hl=en).
 
-If you want to talk about collaborations, research, or just chat, feel free to email me at: 27392shashankgupta@gmail.com or at s.gupta2@uva.nl. 
-
 Some updates:
 
 * [April 2023] SIGIR tutorial proposal on recent advancements in unbiased learning-to-rank got accepted at SIGIR'23. I will be leading the tutorial discussion at the conference. 
