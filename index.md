@@ -17,6 +17,7 @@ To find out more about my work, please visit my [CV](/resume-final.pdf), [Public
 
 Some updates:
 
+* [May 2023] Paper on user return time prediction (work done while at Flipkart) got accepted at CRUM workshop at UMAP 2023. 
 * [April 2023] SIGIR tutorial proposal on recent advancements in unbiased learning-to-rank got accepted at SIGIR'23. I will be leading the tutorial discussion at the conference. 
 * [April 2023] One full paper accepted at SIGIR 2023. 
 * [Feb 2023] PC member for SIGIR'23, NeurIPS'23.
