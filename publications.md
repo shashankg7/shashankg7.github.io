@@ -14,8 +14,7 @@ MS By Research Thesis Presentation ([slides](https://docs.google.com/presentatio
 
 ### Under Review
 
-Neural Bag-of-Words Point Process Model for User Return Time Prediction in E-commerce <br>
-Shashank Gupta, Manish Bansal. (Work done while at Flipkart)
+
 
 ### Publications
 
@@ -30,6 +29,10 @@ SIGIR 2023 ([paper](https://drive.google.com/file/d/1GL285QRF44r-G4la0OaIl6IZs73
 VAE-IPS: A Deep Generative Recommendation Method for Unbiased Learning From Implicit Feedback <br>
 <b>Shashank Gupta</b>, Harrie Oosterhuis, and Maarten de Rijke <br>
 RecSys 2022 Workshop on Causality, Counterfactuals, Sequential Decision-Making & Reinforcement Learning (CONSEQUENCES+REVEAL), 2022 <b>(oral presentation)</b> ([paper](https://drive.google.com/file/d/1JeiHVuYi5iUBop8E_h0XPcKwOhdA6jBP/view?usp=sharing), [poster](https://drive.google.com/file/d/1n12vvOTdI8laVyIgBNNcIuCVxXsfjCGy/view?usp=sharing), [video](https://youtu.be/N-nn1500Q-g?t=10160)).
+
+Neural Bag-of-Words Point Process Model for User Return Time Prediction in E-commerce <br>
+<b>Shashank Gupta</b>, Manish Bansal <br>
+CRUM Workshop at UMAP 2023.
 
 The University of Amsterdam at the TREC 2021 Fair Ranking Track <br>
 Ali Vardasbi, Gabriel Bénédict, <b>Shashank Gupta</b>, Maria Heuss, Pooya Khandel, Ming Li, Fatemeh Sarvi, TREC Fair Ranking Trec 21.
