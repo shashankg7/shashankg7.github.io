@@ -32,7 +32,7 @@ RecSys 2022 Workshop on Causality, Counterfactuals, Sequential Decision-Making &
 
 Neural Bag-of-Words Point Process Model for User Return Time Prediction in E-commerce <br>
 <b>Shashank Gupta</b>, Manish Bansal <br>
-CRUM Workshop at UMAP 2023.
+CRUM Workshop at UMAP 2023 ([paper](https://drive.google.com/file/d/1PQ7JptTuBdtjhtBCrONt2YV-jkxz1z-5/view?usp=sharing)).
 
 The University of Amsterdam at the TREC 2021 Fair Ranking Track <br>
 Ali Vardasbi, Gabriel Bénédict, <b>Shashank Gupta</b>, Maria Heuss, Pooya Khandel, Ming Li, Fatemeh Sarvi, TREC Fair Ranking Trec 21.
