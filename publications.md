@@ -24,7 +24,7 @@ Tutorial accepted at SIGIR 2023 ([proposal](https://drive.google.com/file/d/1HZP
 
 Safe Deployment for Counterfactual Learning to Rank with Exposure-Based Risk Minimization <br>
 <b>Shashank Gupta</b>, Harrie Oosterhuis, and Maarten de Rijke <br>
-SIGIR 2023 ([paper](https://drive.google.com/file/d/1GL285QRF44r-G4la0OaIl6IZs73w5aop/view)), [poster](), [video]()).
+SIGIR 2023 ([paper](https://drive.google.com/file/d/1GL285QRF44r-G4la0OaIl6IZs73w5aop/view), [poster](https://drive.google.com/file/d/1xhzLB68AzyG-PZcTdxOkyRnIhiVAQhyw/view?usp=sharing), [video]()).
 
 VAE-IPS: A Deep Generative Recommendation Method for Unbiased Learning From Implicit Feedback <br>
 <b>Shashank Gupta</b>, Harrie Oosterhuis, and Maarten de Rijke <br>
