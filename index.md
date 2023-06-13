@@ -17,6 +17,7 @@ To find out more about my work, please visit my [CV](/resume-final.pdf), [Public
 
 Some updates:
 
+* [Jun 13] Paper on A Deep Generative Recommendation Method for Unbiased Learning from Implicit Feedback got accepted at ICTIR'23, collocated with SIGIR'23.  
 * [May 2023] Paper on user return time prediction (work done while at Flipkart) got accepted with the CRUM workshop at UMAP 2023. 
 * [April 2023] SIGIR tutorial proposal on recent advancements in unbiased learning-to-rank got accepted at SIGIR'23. I will be leading the tutorial discussion at the conference. 
 * [April 2023] One full paper accepted at SIGIR 2023. 
