@@ -26,9 +26,9 @@ Safe Deployment for Counterfactual Learning to Rank with Exposure-Based Risk Min
 <b>Shashank Gupta</b>, Harrie Oosterhuis, and Maarten de Rijke <br>
 SIGIR 2023 ([paper](https://drive.google.com/file/d/1GL285QRF44r-G4la0OaIl6IZs73w5aop/view), [poster](https://drive.google.com/file/d/1xhzLB68AzyG-PZcTdxOkyRnIhiVAQhyw/view?usp=sharing), [video]()).
 
-VAE-IPS: A Deep Generative Recommendation Method for Unbiased Learning From Implicit Feedback <br>
+A Deep Generative Recommendation Method for Unbiased Learning From Implicit Feedback <br>
 <b>Shashank Gupta</b>, Harrie Oosterhuis, and Maarten de Rijke <br>
-RecSys 2022 Workshop on Causality, Counterfactuals, Sequential Decision-Making & Reinforcement Learning (CONSEQUENCES+REVEAL), 2022 <b>(oral presentation)</b> ([paper](https://drive.google.com/file/d/1JeiHVuYi5iUBop8E_h0XPcKwOhdA6jBP/view?usp=sharing), [poster](https://drive.google.com/file/d/1n12vvOTdI8laVyIgBNNcIuCVxXsfjCGy/view?usp=sharing), [video](https://youtu.be/N-nn1500Q-g?t=10160)).
+ICTIR 2023, RecSys CONSEQUENCES+REVEAL, 2022 <b>(oral presentation)</b> ([paper](https://drive.google.com/file/d/1JeiHVuYi5iUBop8E_h0XPcKwOhdA6jBP/view?usp=sharing), [poster](https://drive.google.com/file/d/1n12vvOTdI8laVyIgBNNcIuCVxXsfjCGy/view?usp=sharing), [video](https://youtu.be/N-nn1500Q-g?t=10160)).
 
 Neural Bag-of-Words Point Process Model for User Return Time Prediction in E-commerce <br>
 <b>Shashank Gupta</b>, Manish Bansal <br>
