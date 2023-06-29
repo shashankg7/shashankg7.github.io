@@ -28,7 +28,7 @@ SIGIR 2023 ([paper](https://drive.google.com/file/d/1GL285QRF44r-G4la0OaIl6IZs73
 
 A Deep Generative Recommendation Method for Unbiased Learning From Implicit Feedback <br>
 <b>Shashank Gupta</b>, Harrie Oosterhuis, and Maarten de Rijke <br>
-ICTIR 2023, RecSys CONSEQUENCES+REVEAL, 2022 <b>(oral presentation)</b> ([paper](https://drive.google.com/file/d/1JeiHVuYi5iUBop8E_h0XPcKwOhdA6jBP/view?usp=sharing), [poster](https://drive.google.com/file/d/1n12vvOTdI8laVyIgBNNcIuCVxXsfjCGy/view?usp=sharing), [video](https://youtu.be/N-nn1500Q-g?t=10160)).
+ICTIR 2023 ([paper](https://drive.google.com/file/d/1NM1xewIrnrvmILLBX1vYo2vY3bRQmWL5/view?usp=drive_link)).
 
 Neural Bag-of-Words Point Process Model for User Return Time Prediction in E-commerce <br>
 <b>Shashank Gupta</b>, Manish Bansal <br>
