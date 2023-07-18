@@ -20,11 +20,11 @@ MS By Research Thesis Presentation ([slides](https://docs.google.com/presentatio
 
 Recent Advances in the Foundations and Applications of Unbiased Learning to Rank <br>
 <b>Shashank Gupta</b>, Philipp Hager, Jin Huang, Ali Vardasbi, and Harrie Oosterhuis <br>
-Tutorial accepted at SIGIR 2023 ([proposal](https://drive.google.com/file/d/1HZP5X_5czqKWoAjXDAnC1PxvTHIqOjzj/view?usp=sharing), [preview slides](https://docs.google.com/presentation/d/e/2PACX-1vRbYgPTZMXOC7buidrAOyRMar2PkxLWSb12u_XjzYU9GXohd_hiekxrnayxCVgu1iwzpmEbgVPsnwAr/pub?start=false&loop=false&delayms=3000&slide=id.g1e4da214d8b_0_0)).
+SIGIR 2023 - Tutorial presentation ([proposal](https://drive.google.com/file/d/1HZP5X_5czqKWoAjXDAnC1PxvTHIqOjzj/view?usp=sharing), [preview slides](https://docs.google.com/presentation/d/e/2PACX-1vRbYgPTZMXOC7buidrAOyRMar2PkxLWSb12u_XjzYU9GXohd_hiekxrnayxCVgu1iwzpmEbgVPsnwAr/pub?start=false&loop=false&delayms=3000&slide=id.g1e4da214d8b_0_0)).
 
 Safe Deployment for Counterfactual Learning to Rank with Exposure-Based Risk Minimization <br>
 <b>Shashank Gupta</b>, Harrie Oosterhuis, and Maarten de Rijke <br>
-SIGIR 2023 ([paper](https://drive.google.com/file/d/1GL285QRF44r-G4la0OaIl6IZs73w5aop/view), [poster](https://drive.google.com/file/d/1xhzLB68AzyG-PZcTdxOkyRnIhiVAQhyw/view?usp=sharing), [video]()).
+SIGIR 2023 - Full paper ([paper](https://drive.google.com/file/d/1GL285QRF44r-G4la0OaIl6IZs73w5aop/view), [poster](https://drive.google.com/file/d/1xhzLB68AzyG-PZcTdxOkyRnIhiVAQhyw/view?usp=sharing), [video]()).
 
 A Deep Generative Recommendation Method for Unbiased Learning From Implicit Feedback <br>
 <b>Shashank Gupta</b>, Harrie Oosterhuis, and Maarten de Rijke <br>
