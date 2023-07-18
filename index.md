@@ -5,21 +5,21 @@ permalink: /
 
 Hello, thanks for visiting.
 
-I am currently a 3rd year PhD student at the [IRLab, UvA](http://irlab.science.uva.nl), supervised by [Prof. Maarten De Rijke](https://staff.fnwi.uva.nl/m.derijke/) and [Prof. Harrie Oosterhuis](https://harrieo.github.io/). I am working on the problem of: Unbiased learning to rank from user interactions.  
+I am currently a 3rd year Ph.D. student at the [IRLab, UvA](http://irlab.science.uva.nl), supervised by [Prof. Maarten De Rijke](https://staff.fnwi.uva.nl/m.derijke/) and [Prof. Harrie Oosterhuis](https://harrieo.github.io/). I am working on the problem of Unbiased learning to rank from user interactions.  
 
-My primary areas of interest are : Machine learning, Information retrieval, Online and bandit algorithms, Counterfactual evaluation and learning. 
+My primary areas of interest are Machine learning, Information retrieval, Online and bandit algorithms, Counterfactual evaluation, and learning. 
 
-Previously, I was working as a data scientist with the search team at [Flipkart Internet Pvt. Limited, India](https://tech.flipkart.com/data-science/home), where I worked on various query understanding and product ranking problems. 
+Previously, I worked as a data scientist with the search team at [Flipkart Internet Pvt. Limited, India](https://tech.flipkart.com/data-science/home), where I contributed to various query understanding and product ranking projects. 
 
-Prior to joining Flipkart, I was a MS By Research student at the Search and Information Extraction Lab [SIEL, IIIT-Hyderabad](search.iiit.ac.in) under the joint supervision of [Dr. Manish Gupta](https://www.microsoft.com/en-us/research/people/gmanish/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fpeople%2Fgmanish%2F#) Principal Applied Scientist at Microsoft R&D, India and [Prof. Vasudeva Varma](https://faculty.iiit.ac.in/~vv/Home.html), Dean R&D, IIIT-Hyderabad. 
+Before joining Flipkart, I was an MS By Research student at the Search and Information Extraction Lab [SIEL, IIIT-Hyderabad](search.iiit.ac.in) under the joint supervision of [Dr. Manish Gupta](https://www.microsoft.com/en-us/research/people/gmanish/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fpeople%2Fgmanish%2F#) Principal Applied Scientist at Microsoft R&D, India and [Prof. Vasudeva Varma](https://faculty.iiit.ac.in/~vv/Home.html), Dean R&D, IIIT-Hyderabad. 
 
 To find out more about my work, please visit my [CV](/resume-final.pdf), [Publications](/publications/), or [Google Scholar profile](https://scholar.google.com/citations?user=UvTcU-IAAAAJ&hl=en).
 
 Some updates:
 
-* [July 14] In a month from now, I will be starting as a Research Scientist Intern at Meta AI London, working with the recommendations team. 
+* [July 14] In a month, I will be starting as a Research Scientist Intern at Meta AI London, working with the recommendations team. 
 * [Jun 13] Paper on "A Deep Generative Recommendation Method for Unbiased Learning from Implicit Feedback" got accepted at ICTIR'23, collocated with SIGIR'23.  
-* [May 2023] Paper on user return time prediction (work done while at Flipkart) got accepted with the CRUM workshop at UMAP 2023. 
+* [May 2023] Paper on user return time prediction (work done at Flipkart) was accepted with the CRUM workshop at UMAP 2023. 
 * [April 2023] SIGIR tutorial proposal on recent advancements in unbiased learning-to-rank got accepted at SIGIR'23. I will be leading the tutorial discussion at the conference. 
 * [April 2023] One full paper accepted at SIGIR 2023. 
 * [Feb 2023] PC member for SIGIR'23, NeurIPS'23.
@@ -44,13 +44,13 @@ Some updates:
 * [June 2018] Serving as PC Member for ICON 2018 and DTMBio 2018 @CIKM'18.
 * [January 2018] Joined Conduent Labs, Bangalore ((previously known as Xerox Research Center India (XRCI)) as Research Intern with Manjira Sinha and Sandya Mannarswamy. 
 * [December 2017] Two papers accepted at ECIR 2018.
-* [November 2017] Two papers accepted at NIPS 2017 Machine learning for Health (ML4H) Workshop.
+* [November 2017] Two papers accepted at NIPS 2017 Machine Learning for Health (ML4H) Workshop.
 * [November 2017] Invited talk on "Deep Learning for Recommender Systems" at Thiagarajar College of Engineering (TCE) &, "Machine Learning & Information Retrieval Techniques for Adverse Drug Reaction Mention Extraction from Social Media" at Duke-NUS Medical School, Singapore.
-* [September 2017] Two papers on Content Based News Recommendation System accepted at ICDM workshop on Semantic Recommendation Systems (SeRECSys)
-* [August 2017] Paper on 'Semi-Supervised Recurrent Neural Network for Adverse Drug Reaction Mention Extraction' got accepted at ACM 11th International Workshop on Data and Text Mining in Biomedical informatics at CIKM 2017
-* [July 2017] Paper on Knowledge Base intergration with text classification pipleline got accepted at SIGIR workshop (KG4IR)
-* [June 2017] Paper on Trust Prediction in Social Media using Neural Network got accepted at ASONAM'17.
-* [May 2017] Work on Hate Speech detection from social media covered in some leading publication house in India. [Source](https://www.iiit.ac.in/news/IRELspaperonHateSpeechDetectionvotedBestPosterPresentationatWWW2017Perth/)
+* [September 2017] Two papers on Content-Based News Recommendation Systems were accepted at the ICDM workshop on Semantic Recommendation Systems (SeRECSys)
+* [August 2017] Paper on 'Semi-Supervised Recurrent Neural Network for Adverse Drug Reaction Mention Extraction' got accepted at ACM 11th International Workshop on Data and Text Mining in Biomedical Informatics at CIKM 2017
+* [July 2017] Paper on Knowledge Base integration with text classification pipeline got accepted at SIGIR workshop (KG4IR)
+* [June 2017] Paper on Trust Prediction in Social Media using Neural Networks got accepted at ASONAM'17.
+* [May 2017] Work on Hate Speech detection from social media covered in some leading publication houses in India. [Source](https://www.iiit.ac.in/news/IRELspaperonHateSpeechDetectionvotedBestPosterPresentationatWWW2017Perth/)
 * [April 2017] Got the Best Poster award at WWW'17 for work on Hate Speech Detection from social media.
 * [Feb 2017] Poster paper accepted in WWW'17.
 * [Feb 2017] Workshop paper accepted in WWW'17.
