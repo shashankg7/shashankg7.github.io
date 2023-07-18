@@ -17,7 +17,7 @@ To find out more about my work, please visit my [CV](/resume-final.pdf), [Public
 
 Some updates:
 
-* [July 14] In a month, I will be starting as a Research Scientist Intern at Meta AI London, working with the recommendations team. 
+* [July 14] In a month, I will start as a Research Scientist Intern at Meta AI London, working with the Modern Recommendation Systems team. 
 * [Jun 13] Paper on "A Deep Generative Recommendation Method for Unbiased Learning from Implicit Feedback" got accepted at ICTIR'23, collocated with SIGIR'23.  
 * [May 2023] Paper on user return time prediction (work done at Flipkart) was accepted with the CRUM workshop at UMAP 2023. 
 * [April 2023] SIGIR tutorial proposal on recent advancements in unbiased learning-to-rank got accepted at SIGIR'23. I will be leading the tutorial discussion at the conference. 
