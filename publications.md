@@ -20,7 +20,7 @@ MS By Research Thesis Presentation ([slides](https://docs.google.com/presentatio
 
 Recent Advances in the Foundations and Applications of Unbiased Learning to Rank <br>
 <b>Shashank Gupta</b>, Philipp Hager, Jin Huang, Ali Vardasbi, and Harrie Oosterhuis <br>
-SIGIR 2023 - Tutorial presentation ([proposal](https://drive.google.com/file/d/1HZP5X_5czqKWoAjXDAnC1PxvTHIqOjzj/view?usp=sharing), [preview slides](https://docs.google.com/presentation/d/e/2PACX-1vRbYgPTZMXOC7buidrAOyRMar2PkxLWSb12u_XjzYU9GXohd_hiekxrnayxCVgu1iwzpmEbgVPsnwAr/pub?start=false&loop=false&delayms=3000&slide=id.g1e4da214d8b_0_0)).
+SIGIR 2023 - Tutorial presentation ([proposal](https://drive.google.com/file/d/1HZP5X_5czqKWoAjXDAnC1PxvTHIqOjzj/view?usp=sharing), [slides]([https://docs.google.com/presentation/d/e/2PACX-1vRbYgPTZMXOC7buidrAOyRMar2PkxLWSb12u_XjzYU9GXohd_hiekxrnayxCVgu1iwzpmEbgVPsnwAr/pub?start=false&loop=false&delayms=3000&slide=id.g1e4da214d8b_0_0](https://docs.google.com/presentation/d/1NdhDEn8xKPQO-J0YiF6KPKP20CiNLctF7krrGldEywY/present))).
 
 Safe Deployment for Counterfactual Learning to Rank with Exposure-Based Risk Minimization <br>
 <b>Shashank Gupta</b>, Harrie Oosterhuis, and Maarten de Rijke <br>
