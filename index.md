@@ -17,7 +17,7 @@ To find out more about my work, please visit my [CV](/resume-final.pdf), [Public
 
 Some updates:
 
-* [July] Visiting Meta AI London as Research Scientist Intern, working with the Instagram reels recommendations team.
+* [July] Visiting Meta AI London as Research Scientist Intern, working with the Modern Recommender Systems (MRS) team. I am currently working on off-policy learning for two staged recommender system. 
 * [July] Two papers (extended abstracts) accepted at the CONSEQUENCES workshop, collocated with RecSys'23. 
 * [Jun 13] Paper on "A Deep Generative Recommendation Method for Unbiased Learning from Implicit Feedback" got accepted at ICTIR'23, collocated with SIGIR'23.  
 * [May 2023] Paper on user return time prediction (work done at Flipkart) was accepted with the CRUM workshop at UMAP 2023. 
