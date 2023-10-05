@@ -17,7 +17,7 @@ To find out more about my work, please visit my [CV](/resume-final.pdf), [Public
 
 Some updates:
 
-* [Sept] Invited talk at ShareChat on Safe Unbiased Learning to Rank [slides](https://docs.google.com/presentation/d/e/2PACX-1vQ-IJ3hAGjFYJN2qy6HIw5nTOjBlCwfAd-NfR68oqjIl62BRoAsPcb2bVL7U4LvJhISR7fhxp2Squwx/pub?start=false&loop=false&delayms=60000).
+* [Sept] Invited talk at ShareChat on Safe Unbiased Learning to Rank [slides](https://docs.google.com/presentation/d/e/2PACX-1vQ-IJ3hAGjFYJN2qy6HIw5nTOjBlCwfAd-NfR68oqjIl62BRoAsPcb2bVL7U4LvJhISR7fhxp2Squwx/pub?start=false&loop=false&delayms=60000), [video](https://www.youtube.com/watch?v=xlsmhOtwFUc).
 * [August] Invited talk at Meta AI New York on Safe Unbiased Learning to Rank. 
 * [July] Visiting Meta AI London as Research Scientist Intern, working with the Modern Recommender Systems (MRS) team. I am currently working on off-policy learning for two staged recommender system. 
 * [July] Two papers (extended abstracts) accepted at the CONSEQUENCES workshop, collocated with RecSys'23. First work is (SIGIR) resubmission on safe unbiased LTR; second work is on examining & mitigating selection bias in preference elicitation for recsys.
