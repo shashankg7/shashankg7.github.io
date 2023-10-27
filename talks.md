@@ -9,6 +9,9 @@ Recent Advances in the Foundations and Applications of Unbiased Learning to Rank
 Safe Deployment for Counterfactual Learning to Rank with Exposure-Based Risk Minimization <br>
 <b>Invited talk at ShareChat ML seminar series /b> ([video](https://www.youtube.com/watch?v=xlsmhOtwFUc)).
 
+Recent Advancements in Unbiased Learning to Rank <br>
+<b>FIRE 2023 Tutorial /b>.
+
 Safe Deployment for Counterfactual Learning to Rank with Exposure-Based Risk Minimization <br>
 <b>Invited talk at Meta AI, New York. /b>.
 
