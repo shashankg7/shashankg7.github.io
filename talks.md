@@ -13,7 +13,7 @@ Recent Advancements in Unbiased Learning to Rank <br>
 <b>FIRE 2023 Tutorial </b>.
 
 Safe Deployment for Counterfactual Learning to Rank with Exposure-Based Risk Minimization <br>
-<b>Invited talk at Meta AI, New York. </b>.
+<b>Invited talk at Meta AI, recommender systems team, New York </b>.
 
 VAE-IPS: Deep Generative Model for Unbiased Recommendation <br>
 <b>Oral presentation at CONSEQUENCES@RecSys 2022. </b>.
