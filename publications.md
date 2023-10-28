@@ -20,11 +20,11 @@ MS By Research Thesis Presentation ([slides](https://docs.google.com/presentatio
 
 Recent Advances in the Foundations and Applications of Unbiased Learning to Rank <br>
 <b>Shashank Gupta</b>, Philipp Hager, Jin Huang, Ali Vardasbi, and Harrie Oosterhuis <br>
-SIGIR 2023 - Tutorial ([website](https://sites.google.com/view/sigir-2023-tutorial-ultr), [proposal](https://drive.google.com/file/d/1HZP5X_5czqKWoAjXDAnC1PxvTHIqOjzj/view?usp=sharing), [slides](https://docs.google.com/presentation/d/1NdhDEn8xKPQO-J0YiF6KPKP20CiNLctF7krrGldEywY/present?slide=id.g1e4da214d8b_0_0), [video-part1](https://www.youtube.com/watch?v=dwl5oBHsHlk), [video-part2](https://www.youtube.com/watch?v=UOVEWbbP5do)).
+WSDM 2024 - Tutorial (Accepted).
 
 Recent Advances in the Foundations and Applications of Unbiased Learning to Rank <br>
 <b>Shashank Gupta</b>, Philipp Hager, Jin Huang, Ali Vardasbi, and Harrie Oosterhuis <br>
-WSDM 2024 - Tutorial (Accepted).
+SIGIR 2023 - Tutorial ([website](https://sites.google.com/view/sigir-2023-tutorial-ultr), [proposal](https://drive.google.com/file/d/1HZP5X_5czqKWoAjXDAnC1PxvTHIqOjzj/view?usp=sharing), [slides](https://docs.google.com/presentation/d/1NdhDEn8xKPQO-J0YiF6KPKP20CiNLctF7krrGldEywY/present?slide=id.g1e4da214d8b_0_0), [video-part1](https://www.youtube.com/watch?v=dwl5oBHsHlk), [video-part2](https://www.youtube.com/watch?v=UOVEWbbP5do)).
 
 Recent Advancements in Unbiased Learning to Rank <br>
 <b>Shashank Gupta</b>, Philipp Hager, and Harrie Oosterhuis <br>
