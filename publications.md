@@ -12,9 +12,6 @@ Pharmacovigilance from Social Media using Limited Labelled Data <br>
 Shashank Gupta <br>
 MS By Research Thesis Presentation ([slides](https://docs.google.com/presentation/d/e/2PACX-1vTN0FDiDJsy5cdVeAoZVj2ai2x-8zvDPbkR4JygE7XdCxBoDeIgr73vSHuhXRVeKh9jjiIvzwTXgBo4/pub?start=false&loop=false&delayms=60000))
 
-### Under Review
-
-
 
 ### Publications
 
