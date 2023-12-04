@@ -9,7 +9,7 @@ I am a third-year Ph.D. student at the [IRLab, UvA](http://irlab.science.uva.nl)
 
 My primary areas of interest are: machine learning, information retrieval, bandit algorithms, counterfactual evaluation, and learning. Before joining the PhD, I worked as a data scientist with the search team at [Flipkart Internet Pvt. Limited, India](https://tech.flipkart.com/data-science/home), where I contributed to various query understanding and product ranking projects. 
 
-I completed my research masters at the Search and Information Extraction Lab [SIEL, IIIT-Hyderabad](search.iiit.ac.in), under the joint supervision of [Dr. Manish Gupta](https://www.microsoft.com/en-us/research/people/gmanish/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fpeople%2Fgmanish%2F#) Principal Applied Scientist at Microsoft R&D, India and [Prof. Vasudeva Varma](https://faculty.iiit.ac.in/~vv/Home.html), Dean R&D, IIIT-Hyderabad. 
+I completed my research masters at the Search and Information Extraction Lab [SIEL, IIIT-Hyderabad](search.iiit.ac.in), under the joint supervision of [Dr. Manish Gupta](https://www.microsoft.com/en-us/research/people/gmanish/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fpeople%2Fgmanish%2F#), and [Prof. Vasudeva Varma](https://faculty.iiit.ac.in/~vv/Home.html). 
 
 To find out more about my work, please visit my [CV](/resume-final.pdf), [Publications](/publications/), or [Google Scholar profile](https://scholar.google.com/citations?user=UvTcU-IAAAAJ&hl=en).
 
