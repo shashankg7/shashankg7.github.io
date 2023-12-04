@@ -5,7 +5,7 @@ permalink: /
 
 Hello, thanks for visiting.
 
-I am a 3rd year Ph.D. student at the [IRLab, UvA](http://irlab.science.uva.nl), supervised by [Prof. Maarten De Rijke](https://staff.fnwi.uva.nl/m.derijke/) and [Prof. Harrie Oosterhuis](https://harrieo.github.io/). I am working on the problem of unbiased/counterfactual learning to rank from user interactions.  
+I am a 3rd year Ph.D. student at the [IRLab, UvA](http://irlab.science.uva.nl), supervised by [Prof. Maarten De Rijke](https://staff.fnwi.uva.nl/m.derijke/) and [Prof. Harrie Oosterhuis](https://harrieo.github.io/), working on the problem of unbiased/counterfactual learning to rank from user interactions.  
 
 My primary areas of interest are: machine learning, information retrieval, bandit algorithms, counterfactual evaluation, and learning. 
 
