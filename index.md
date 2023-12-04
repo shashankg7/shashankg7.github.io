@@ -5,17 +5,15 @@ permalink: /
 
 Hello, thanks for visiting.
 
-I am a 3rd year Ph.D. student at the [IRLab, UvA](http://irlab.science.uva.nl), supervised by [Prof. Maarten De Rijke](https://staff.fnwi.uva.nl/m.derijke/) and [Prof. Harrie Oosterhuis](https://harrieo.github.io/), working on the problem of unbiased/counterfactual learning to rank from user interactions. I recently finished an internship at MetaAI, with the modern recommendations (MRS) team where I worked on off-policy learning for two-stage recommendations, and cold-start recommendations.
+I am a third-year Ph.D. student at the [IRLab, UvA](http://irlab.science.uva.nl), supervised by [Prof. Maarten De Rijke](https://staff.fnwi.uva.nl/m.derijke/) and [Prof. Harrie Oosterhuis](https://harrieo.github.io/), working on the problem of unbiased/counterfactual learning to rank from user interactions. I recently finished an internship at MetaAI, with the modern recommendations (MRS) team where I worked on off-policy learning for two-stage recommendations, and cold-start recommendations.
 
-My primary areas of interest are: machine learning, information retrieval, bandit algorithms, counterfactual evaluation, and learning. 
-
-Before joining the PhD, I worked as a data scientist with the search team at [Flipkart Internet Pvt. Limited, India](https://tech.flipkart.com/data-science/home), where I contributed to various query understanding and product ranking projects. 
+My primary areas of interest are: machine learning, information retrieval, bandit algorithms, counterfactual evaluation, and learning. Before joining the PhD, I worked as a data scientist with the search team at [Flipkart Internet Pvt. Limited, India](https://tech.flipkart.com/data-science/home), where I contributed to various query understanding and product ranking projects. 
 
 I completed my research masters at the Search and Information Extraction Lab [SIEL, IIIT-Hyderabad](search.iiit.ac.in), under the joint supervision of [Dr. Manish Gupta](https://www.microsoft.com/en-us/research/people/gmanish/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fpeople%2Fgmanish%2F#) Principal Applied Scientist at Microsoft R&D, India and [Prof. Vasudeva Varma](https://faculty.iiit.ac.in/~vv/Home.html), Dean R&D, IIIT-Hyderabad. 
 
 To find out more about my work, please visit my [CV](/resume-final.pdf), [Publications](/publications/), or [Google Scholar profile](https://scholar.google.com/citations?user=UvTcU-IAAAAJ&hl=en).
 
-<b> I am currently looking for research internships for the summer of 2024. Please feel free to reach out to me at [s.gupta2@uva.nl](mailto:s.gupta2@uva.nl) if I can be a good fit. </b>
+<b> I am currently looking for research internships for the summer of 2024. Please feel free to reach out to me at [s.gupta2@uva.nl](mailto:s.gupta2@uva.nl) if you think I can be a good fit. </b>
 
 Some updates:
 
