@@ -37,7 +37,7 @@ ICTIR 2023 ([paper](https://drive.google.com/file/d/1NM1xewIrnrvmILLBX1vYo2vY3bR
 
 A First Look at Selection Bias in Preference Elicitation for Recommendation <br>
 <b>Shashank Gupta</b>, Harrie Oosterhuis, and Maarten de Rijke <br>
-CONSEQUENCES@RecSys 2023 ([paper](https://drive.google.com/file/d/1hRzuTyhjgG7567RuICK9lC2A4apAZJ-j/view?usp=drive_link)). 
+CONSEQUENCES@RecSys 2023 ([paper](https://drive.google.com/file/d/1hRzuTyhjgG7567RuICK9lC2A4apAZJ-j/view?usp=drive_link), [code](https://github.com/shashankg7/Bias-Preference-Elicitation)). 
 
 Neural Bag-of-Words Point Process Model for User Return Time Prediction in E-commerce <br>
 <b>Shashank Gupta</b>, Manish Bansal <br>
