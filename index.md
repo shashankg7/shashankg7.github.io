@@ -17,7 +17,7 @@ To find out more about my work, please visit my [CV](/resume-final.pdf), [Public
 
 Some updates:
 
-* [Oct] Tutorial proposal on recent advancements in unbiased learning to rank accepted at [WSDM 2024](https://www.wsdm-conference.org/2024/tutorials/), and [FIRE 2023](http://fire.irsi.res.in/fire/2023/schedule).
+* [Oct] Tutorial proposal on recent advancements in unbiased learning to rank accepted at [WSDM 2024](https://www.wsdm-conference.org/2024/tutorials/), and [FIRE 2023](https://sites.google.com/view/fire-2023-ultr-tutorial/home).
 * [Sept] Invited talk at ShareChat on Safe Unbiased Learning to Rank [slides](https://docs.google.com/presentation/d/e/2PACX-1vQ-IJ3hAGjFYJN2qy6HIw5nTOjBlCwfAd-NfR68oqjIl62BRoAsPcb2bVL7U4LvJhISR7fhxp2Squwx/pub?start=false&loop=false&delayms=60000), [video](https://www.youtube.com/watch?v=xlsmhOtwFUc).
 * [August] Invited talk at Meta AI New York on Safe Unbiased Learning to Rank. 
 * [July] Visiting Meta AI London as Research Scientist Intern, working with the Modern Recommender Systems (MRS) team. I am currently working on off-policy learning for two staged recommender system. 
