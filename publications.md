@@ -17,7 +17,7 @@ MS By Research Thesis Presentation ([slides](https://docs.google.com/presentatio
 
 Recent Advances in the Foundations and Applications of Unbiased Learning to Rank <br>
 <b>Shashank Gupta</b>, Philipp Hager, Jin Huang, Ali Vardasbi, and Harrie Oosterhuis <br>
-WSDM 2024 - Tutorial (Accepted).
+WSDM 2024 - Tutorial ([website](https://sites.google.com/view/wsdm-2024-tutorial-ultr/)).
 
 Recent Advances in the Foundations and Applications of Unbiased Learning to Rank <br>
 <b>Shashank Gupta</b>, Philipp Hager, Jin Huang, Ali Vardasbi, and Harrie Oosterhuis <br>
@@ -25,7 +25,7 @@ SIGIR 2023 - Tutorial ([website](https://sites.google.com/view/sigir-2023-tutori
 
 Recent Advancements in Unbiased Learning to Rank <br>
 <b>Shashank Gupta</b>, Philipp Hager, and Harrie Oosterhuis <br>
-FIRE 2023 - Tutorial ([website](https://sites.google.com/view/fire-2023-ultr-tutorial/home)).
+FIRE 2023 - Tutorial ([website,slides](https://sites.google.com/view/fire-2023-ultr-tutorial/home)).
 
 Safe Deployment for Counterfactual Learning to Rank with Exposure-Based Risk Minimization <br>
 <b>Shashank Gupta</b>, Harrie Oosterhuis, and Maarten de Rijke <br>
