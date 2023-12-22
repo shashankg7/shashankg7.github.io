@@ -47,7 +47,7 @@ The University of Amsterdam at the TREC 2021 Fair Ranking Track <br>
 Ali Vardasbi, Gabriel Bénédict, <b>Shashank Gupta</b>, Maria Heuss, Pooya Khandel, Ming Li, Fatemeh Sarvi, TREC Fair Ranking Trec 21.
 
 On Application of Bayesian Parametric and Non-parametric Models for User Cohorting in Product Search <br>
-Shashank Gupta <br>
+<b>Shashank Gupta</b> <br>
 ECNLP@ACL'20, Position paper. 
 
 Session Length Prediction for Product Search on E-commerce Platform <br>
@@ -104,7 +104,7 @@ IEEE/ACM International Conference on Advances in Social Networks Analysis and Mi
 (ASONAM), 2017 ([slides](https://drive.google.com/file/d/0B-7peEFiNjnUc0RlMkp2VmJUNjA/view?usp=sharing))
 
 Deep Learning for Hate Speech Detection in Tweets. <br>
-Pinkesh Badjatiya\*, <b>Shashank Gupta</b>\*, Manish Gupta, Vasudeva Varma (\*Equal Contribution).<br>
+Pinkesh Badjatiya\*, <b>Shashank Gupta\*</b>, Manish Gupta, Vasudeva Varma (<b>\*Equal Contribution</b>).<br>
 International World Wide Web Conference (WWW) 2017 (<b>Best Poster Award</b>)([poster](https://docs.google.com/presentation/d/1oW6WQKkpj6rAAcQKkN7JaYWZbZZfH2RGnReQxy0_RPw/edit?usp=sharing), [code](https://github.com/pinkeshbadjatiya/twitter-hatespeech))
 
 Scientific Article Recommendation by using Distributed Representations of Text and Graph. <br>
