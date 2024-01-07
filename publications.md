@@ -13,7 +13,7 @@ Shashank Gupta <br>
 MS By Research Thesis Presentation ([slides](https://docs.google.com/presentation/d/e/2PACX-1vTN0FDiDJsy5cdVeAoZVj2ai2x-8zvDPbkR4JygE7XdCxBoDeIgr73vSHuhXRVeKh9jjiIvzwTXgBo4/pub?start=false&loop=false&delayms=60000))
 
 
-### Publications
+### Tutorials
 
 Recent Advances in the Foundations and Applications of Unbiased Learning to Rank <br>
 <b>Shashank Gupta</b>, Philipp Hager, Jin Huang, Ali Vardasbi, and Harrie Oosterhuis <br>
@@ -26,6 +26,8 @@ SIGIR 2023 - Tutorial ([website](https://sites.google.com/view/sigir-2023-tutori
 Recent Advancements in Unbiased Learning to Rank <br>
 <b>Shashank Gupta</b>, Philipp Hager, and Harrie Oosterhuis <br>
 FIRE 2023 - Tutorial ([website,slides](https://sites.google.com/view/fire-2023-ultr-tutorial/home)).
+
+### Publications
 
 Safe Deployment for Counterfactual Learning to Rank with Exposure-Based Risk Minimization <br>
 <b>Shashank Gupta</b>, Harrie Oosterhuis, and Maarten de Rijke <br>
