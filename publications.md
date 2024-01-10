@@ -17,7 +17,7 @@ MS By Research Thesis Presentation ([slides](https://docs.google.com/presentatio
 
 Recent Advances in the Foundations and Applications of Unbiased Learning to Rank <br>
 <b>Shashank Gupta</b>, Philipp Hager, Jin Huang, Ali Vardasbi, and Harrie Oosterhuis <br>
-WSDM 2024 - Tutorial ([website](https://sites.google.com/view/wsdm-2024-tutorial-ultr/)).
+WSDM 2024 - Tutorial ([website](https://sites.google.com/view/wsdm-2024-tutorial-ultr/), [proposal](https://drive.google.com/file/d/1v8TAAM2mSA2-Zf3Mp-8-9O8gg1o6Nrji/view?usp=sharing)).
 
 Recent Advances in the Foundations and Applications of Unbiased Learning to Rank <br>
 <b>Shashank Gupta</b>, Philipp Hager, Jin Huang, Ali Vardasbi, and Harrie Oosterhuis <br>
