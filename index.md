@@ -5,7 +5,7 @@ permalink: /
 
 Hello, thanks for visiting.
 
-I am a third-year Ph.D. student at the [IRLab, UvA](http://irlab.science.uva.nl), supervised by [Prof. Maarten De Rijke](https://staff.fnwi.uva.nl/m.derijke/) and [Prof. Harrie Oosterhuis](https://harrieo.github.io/), working on the problem of unbiased/counterfactual learning to rank from user interactions. I recently finished an internship at MetaAI, with the modern recommendations (MRS) team where I worked on off-policy learning for two-stage recommendations, and cold-start recommendations.
+I am a third-year Ph.D. student at the [IRLab, UvA](http://irlab.science.uva.nl), supervised by [Prof. Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/) and [Prof. Harrie Oosterhuis](https://harrieo.github.io/), working on the problem of unbiased/counterfactual learning to rank from user interactions. I recently finished an internship at MetaAI, with the modern recommendations (MRS) team where I worked on off-policy learning for two-stage recommendations, and cold-start recommendations.
 
 My primary areas of interest are: machine learning, information retrieval, bandit algorithms, counterfactual evaluation, and learning. Before joining the PhD, I worked as a data scientist with the search team at [Flipkart Internet Pvt. Limited, India](https://tech.flipkart.com/data-science/home), where I contributed to various query understanding and product ranking projects. 
 
