@@ -13,8 +13,6 @@ I completed my research masters at the Search and Information Extraction Lab [SI
 
 To find out more about my work, please visit my [CV](/resume-final.pdf), [Publications](/publications/), or [Google Scholar profile](https://scholar.google.com/citations?user=UvTcU-IAAAAJ&hl=en).
 
-<b> I am currently looking for research internships for the summer of 2024. Please feel free to reach out to me at [s.gupta2@uva.nl](mailto:s.gupta2@uva.nl) if you think I can be a good fit. </b>
-
 Some updates:
 
 * [Oct] Tutorial proposal on recent advancements in unbiased learning to rank accepted at [WSDM 2024](https://www.wsdm-conference.org/2024/tutorials/), and [FIRE 2023](https://sites.google.com/view/fire-2023-ultr-tutorial/home).
