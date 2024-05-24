@@ -15,6 +15,7 @@ To find out more about my work, please visit my [CV](/resume-final.pdf), [Public
 
 Some updates:
 
+* [May 2024] PC member for ICML 2024, ICLR 2024, SIGIR 2024, ICTIR 2024.
 * [March 2024] Slides from the WSDM tutorial on recent advancements in unbiased LTR are available [here](https://sites.google.com/view/wsdm-2024-tutorial-ultr/).
 * [March 2024] I will be co-presenting a tutorial (with Philipp Hager) on recent advancements in unbiased LTR at the [WSDM 2024](https://sites.google.com/view/wsdm-2024-tutorial-ultr/) conference. 
 * [Oct] Tutorial proposal on recent advancements in unbiased learning to rank accepted at [WSDM 2024](https://www.wsdm-conference.org/2024/tutorials/), and [FIRE 2023](https://sites.google.com/view/fire-2023-ultr-tutorial/home).
