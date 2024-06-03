@@ -5,9 +5,9 @@ permalink: /
 
 Hello, thanks for visiting.
 
-I am a third-year Ph.D. student at the [IRLab, UvA](http://irlab.science.uva.nl), supervised by [Prof. Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/) and [Prof. Harrie Oosterhuis](https://harrieo.github.io/), working on the problem of unbiased/counterfactual learning to rank from user interactions. During my PhD, I have interned at MetaAI, with the modern recommendations (MRS) team, where I worked on off-policy learning for two-stage recommendations, and cold-start recommendations.
+I am a third-year Ph.D. student at the [IRLab, UvA](http://irlab.science.uva.nl), supervised by [Prof. Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/) and [Prof. Harrie Oosterhuis](https://harrieo.github.io/). I am working on the problem of unbiased/counterfactual learning to rank from user interactions. During my PhD, I interned at MetaAI with the modern recommendations (MRS) team, where I worked on off-policy learning for two-stage recommendations and cold-start recommendations.
 
-My primary areas of interest are: machine learning, information retrieval, bandit algorithms, counterfactual evaluation, and learning. Before joining the PhD, I worked as a data scientist with the search team at [Flipkart Internet Pvt. Limited, India](https://tech.flipkart.com/data-science/home), where I contributed to various query understanding and product ranking projects. 
+My primary areas of interest are: machine learning, information retrieval, off-policy evaluation and learning for ranking and contextual bandits. Before joining the PhD, I worked as a data scientist with the search team at [Flipkart Internet Pvt. Limited, India](https://tech.flipkart.com/data-science/home), where I contributed to various query understanding and product ranking projects. 
 
 I completed my research masters at the Search and Information Extraction Lab [SIEL, IIIT-Hyderabad](search.iiit.ac.in), under the joint supervision of [Dr. Manish Gupta](https://www.microsoft.com/en-us/research/people/gmanish/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fpeople%2Fgmanish%2F#), and [Prof. Vasudeva Varma](https://faculty.iiit.ac.in/~vv/Home.html). 
 
@@ -15,7 +15,7 @@ To find out more about my work, please visit my [CV](/resume-final.pdf), [Public
 
 Some updates:
 
-* [May 2024] PC member for ICML 2024, ICLR 2024, SIGIR 2024, ICTIR 2024.
+* [May 2024] PC member for ICML 2024, ICLR 2024, SIGIR 2024, RecSys 2024, and ICTIR 2024.
 * [March 2024] Slides from the WSDM tutorial on recent advancements in unbiased LTR are available [here](https://sites.google.com/view/wsdm-2024-tutorial-ultr/).
 * [March 2024] I will be co-presenting a tutorial (with Philipp Hager) on recent advancements in unbiased LTR at the [WSDM 2024](https://sites.google.com/view/wsdm-2024-tutorial-ultr/) conference. 
 * [Oct] Tutorial proposal on recent advancements in unbiased learning to rank accepted at [WSDM 2024](https://www.wsdm-conference.org/2024/tutorials/), and [FIRE 2023](https://sites.google.com/view/fire-2023-ultr-tutorial/home).
