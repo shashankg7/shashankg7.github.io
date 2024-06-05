@@ -16,15 +16,15 @@ To find out more about my work, please visit my [CV](/resume-final.pdf), [Public
 Some updates:
 
 * [May 2024] PC member for ICML 2024, ICLR 2024, SIGIR 2024, RecSys 2024, and ICTIR 2024.
-* [March 2024] Slides from the WSDM tutorial on recent advancements in unbiased LTR are available [here](https://sites.google.com/view/wsdm-2024-tutorial-ultr/).
-* [March 2024] I will be co-presenting a tutorial (with Philipp Hager) on recent advancements in unbiased LTR at the [WSDM 2024](https://sites.google.com/view/wsdm-2024-tutorial-ultr/) conference. 
+* [March 2024] Slidedeck from the WSDM tutorial on recent advancements in unbiased LTR is available [here](https://sites.google.com/view/wsdm-2024-tutorial-ultr/).
+* [March 2024] I will be co-presenting a tutorial on recent advancements in unbiased LTR at the [WSDM 2024](https://sites.google.com/view/wsdm-2024-tutorial-ultr/) conference. 
 * [Oct] Tutorial proposal on recent advancements in unbiased learning to rank accepted at [WSDM 2024](https://www.wsdm-conference.org/2024/tutorials/), and [FIRE 2023](https://sites.google.com/view/fire-2023-ultr-tutorial/home).
 * [Sept] Invited talk at ShareChat on Safe Unbiased Learning to Rank [slides](https://docs.google.com/presentation/d/e/2PACX-1vQ-IJ3hAGjFYJN2qy6HIw5nTOjBlCwfAd-NfR68oqjIl62BRoAsPcb2bVL7U4LvJhISR7fhxp2Squwx/pub?start=false&loop=false&delayms=60000), [video](https://www.youtube.com/watch?v=xlsmhOtwFUc).
-* [August] Invited talk at Meta AI New York on Safe Unbiased Learning to Rank. 
+* [August] Invited talk at Meta AI, New York on Safe Unbiased Learning to Rank. 
 * [July] Visiting Meta AI London as Research Scientist Intern, working with the Modern Recommender Systems (MRS) team. I am currently working on off-policy learning for two staged recommender system. 
-* [July] Two papers (extended abstracts) accepted at the CONSEQUENCES workshop, collocated with RecSys'23. First work is a (SIGIR) resubmission on safe unbiased LTR; second work is on examining & mitigating selection bias in preference elicitation for recommender system.
+* [July] Two papers (extended abstracts) accepted at the CONSEQUENCES workshop, collocated with RecSys'23. First work is a SIGIR resubmission on safe unbiased LTR; second work is on examining & mitigating selection bias in preference elicitation for recommender system.
 * [Jun 13] Paper on "A Deep Generative Recommendation Method for Unbiased Learning from Implicit Feedback" got accepted at ICTIR'23, collocated with SIGIR'23.  
-* [May 2023] Paper on user return time prediction (work done at Flipkart) was accepted with the CRUM workshop at UMAP 2023. 
+* [May 2023] Paper on user return time prediction was accepted with the CRUM workshop at UMAP 2023. This was work done while at Flipkart, India.
 * [April 2023] Tutorial proposal on recent advancements in unbiased learning-to-rank got accepted at SIGIR'23. I will be leading the tutorial discussion at the conference. 
 * [April 2023] One full paper on safe unbiased learning to rank accepted at SIGIR 2023. 
 * [Feb 2023] PC member for SIGIR'23, NeurIPS'23.
