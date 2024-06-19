@@ -16,6 +16,7 @@ To find out more about my work, please visit my [CV](/resume-final.pdf), [Public
 Some updates:
 
 * [May 2024] PC member for ICML 2024, ICLR 2024, SIGIR 2024, RecSys 2024, and ICTIR 2024.
+* [May 2024] Arxiv preprint of work on "Optimal Baseline Corrections for Off-policy Contextual Bandits" available online [here](https://arxiv.org/abs/2405.05736).
 * [March 2024] Slidedeck from the WSDM tutorial on recent advancements in unbiased LTR is available [here](https://sites.google.com/view/wsdm-2024-tutorial-ultr/).
 * [March 2024] I will be co-presenting a tutorial on recent advancements in unbiased LTR at the [WSDM 2024](https://sites.google.com/view/wsdm-2024-tutorial-ultr/) conference.
 * [Feb 2024] I will be joining Meta AI, New York as a research scientist intern for the summer.
