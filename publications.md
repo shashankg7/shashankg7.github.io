@@ -29,6 +29,10 @@ FIRE 2023 - Tutorial ([website,slides](https://sites.google.com/view/fire-2023-u
 
 ### Publications
 
+Optimal Baseline Corrections for Off-Policy Contextual Bandits <br>
+<b>Shashank Gupta\*</b>, Olivier Jeunen\*, Harrie Oosterhuis, and Maarten de Rijke (<b>\*Equal Contribution</b>) <br>
+[preprint](https://arxiv.org/abs/2405.05736).
+
 Safe Deployment for Counterfactual Learning to Rank with Exposure-Based Risk Minimization <br>
 <b>Shashank Gupta</b>, Harrie Oosterhuis, and Maarten de Rijke <br>
 SIGIR 2023 - Full paper ([paper](https://drive.google.com/file/d/1GL285QRF44r-G4la0OaIl6IZs73w5aop/view), [poster](https://drive.google.com/file/d/1xhzLB68AzyG-PZcTdxOkyRnIhiVAQhyw/view?usp=sharing), [slides](https://docs.google.com/presentation/d/e/2PACX-1vRWezrXibGt6KpP7DvOazUIHsBs4N904Q7QLC86ynCuOYru_qmNctgwwvAcjnv7wFNDKV3nv10s6JOk/pub?start=false&loop=false&delayms=60000), [video](https://www.youtube.com/watch?v=xlsmhOtwFUc)), CONSEQUENCES@RecSys 2023, DIR 2023.
