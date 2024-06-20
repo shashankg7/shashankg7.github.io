@@ -50,7 +50,7 @@ Neural Bag-of-Words Point Process Model for User Return Time Prediction in E-com
 CRUM Workshop at UMAP 2023 ([paper](https://drive.google.com/file/d/1PQ7JptTuBdtjhtBCrONt2YV-jkxz1z-5/view?usp=sharing), [slides](https://drive.google.com/file/d/1QtzDoKkHgpB-vxhgbfxTThtOXu0jrypY/view?usp=drive_link)).
 
 The University of Amsterdam at the TREC 2021 Fair Ranking Track <br>
-Ali Vardasbi, Gabriel Bénédict, <b>Shashank Gupta</b>, Maria Heuss, Pooya Khandel, Ming Li, Fatemeh Sarvi, TREC Fair Ranking Trec 21.
+Ali Vardasbi, Gabriel Bénédict, <b>Shashank Gupta</b>, Maria Heuss, Pooya Khandel, Ming Li, Fatemeh Sarvi, TREC Fair Ranking Trec 21. <br>
 [paper](https://trec.nist.gov/pubs/trec30/papers/IRLab-Amsterdam-F.pdf).
 
 On Application of Bayesian Parametric and Non-parametric Models for User Cohorting in Product Search <br>
