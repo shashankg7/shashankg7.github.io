@@ -51,6 +51,7 @@ CRUM Workshop at UMAP 2023 ([paper](https://drive.google.com/file/d/1PQ7JptTuBdt
 
 The University of Amsterdam at the TREC 2021 Fair Ranking Track <br>
 Ali Vardasbi, Gabriel Bénédict, <b>Shashank Gupta</b>, Maria Heuss, Pooya Khandel, Ming Li, Fatemeh Sarvi, TREC Fair Ranking Trec 21.
+[paper](https://trec.nist.gov/pubs/trec30/papers/IRLab-Amsterdam-F.pdf).
 
 On Application of Bayesian Parametric and Non-parametric Models for User Cohorting in Product Search <br>
 <b>Shashank Gupta</b> <br>
