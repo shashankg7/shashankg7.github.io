@@ -22,7 +22,7 @@ Safe Deployment for Counterfactual Learning to Rank with Exposure-Based Risk Min
 <b>Invited talk at Meta AI, recommender systems team, New York </b>.
 
 VAE-IPS: Deep Generative Model for Unbiased Recommendation <br>
-<b>Oral presentation at CONSEQUENCES@RecSys 2022. </b>.
+<b>Oral presentation at CONSEQUENCES@RecSys 2022 ([video starts at 2:49:20](https://www.youtube.com/watch?v=N-nn1500Q-g)). </b>.
 
 
 
