@@ -15,11 +15,16 @@ To find out more about my work, please visit my [CV](/resume-final.pdf), [Public
 
 Some updates:
 
+## 2024
+
 * [May 2024] PC member for ICML 2024, ICLR 2024, SIGIR 2024, RecSys 2024, and ICTIR 2024.
 * [May 2024] Arxiv preprint of our work on "Optimal Baseline Corrections for Off-policy Contextual Bandits" is available online [here](https://arxiv.org/abs/2405.05736).
 * [March 2024] Slidedeck from the WSDM tutorial on recent advancements in unbiased LTR is available [here](https://sites.google.com/view/wsdm-2024-tutorial-ultr/).
 * [March 2024] I will be co-presenting a tutorial on recent advancements in unbiased LTR at the [WSDM 2024](https://sites.google.com/view/wsdm-2024-tutorial-ultr/) conference.
 * [Feb 2024] I will be joining Meta AI, New York as a research scientist intern for the summer.
+
+## 2023
+
 * [Oct 2023] Tutorial proposal on recent advancements in unbiased learning to rank accepted at [WSDM 2024](https://www.wsdm-conference.org/2024/tutorials/), and [FIRE 2023](https://sites.google.com/view/fire-2023-ultr-tutorial/home).
 * [Sept 2023] Invited talk at ShareChat on Safe Unbiased Learning to Rank [slides](https://docs.google.com/presentation/d/e/2PACX-1vQ-IJ3hAGjFYJN2qy6HIw5nTOjBlCwfAd-NfR68oqjIl62BRoAsPcb2bVL7U4LvJhISR7fhxp2Squwx/pub?start=false&loop=false&delayms=60000), [video](https://www.youtube.com/watch?v=xlsmhOtwFUc).
 * [August 2023] Invited talk at Meta AI, New York on Safe Unbiased Learning to Rank. 
@@ -30,11 +35,18 @@ Some updates:
 * [April 2023] Tutorial proposal on recent advancements in unbiased learning-to-rank got accepted at SIGIR'23. I will be leading the tutorial discussion at the conference. 
 * [April 2023] One full paper on safe unbiased learning to rank accepted at SIGIR 2023. 
 * [Feb 2023] PC member for SIGIR'23, NeurIPS'23.
+
+## 2021-2022
+  
 * [August 2022] Work on VAE-IPS got accepted at the CONSEQUENCES+REVEAL Workshop (as oral presentation) at RecSys'22.
 * [June'21 - June'22] Reviewed for ACL, EMNLP, ICLR, ICML, NeuRIPS'22. 
 * [Sept'21 - Nov'21] TA for the Advanced Information Retrieval course. 
 * [May 2021] Reviewing for NeurIPS, EMNLP, ICLR 21.
-* [April 2021] Joined IRLab, UvA as a [PhD student](https://irlab.science.uva.nl/2021/04/15/shashank-gupta-joins-irlab/) 
+* [April 2021] Joined IRLab, UvA as a [PhD student](https://irlab.science.uva.nl/2021/04/15/shashank-gupta-joins-irlab/)
+
+
+## Pre-PhD
+
 * [July 2020] PC Member for EACL'2020.
 * [April 2020] Position paper accepted at ECNLP@ACL'20.
 * [April 2020] Paper accepted at SIGIR'20. 
