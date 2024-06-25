@@ -13,7 +13,7 @@ I completed my research masters at the Search and Information Extraction Lab [SI
 
 To find out more about my work, please visit my [CV](/resume-final.pdf), [Publications](/publications/), or [Google Scholar profile](https://scholar.google.com/citations?user=UvTcU-IAAAAJ&hl=en).
 
-Some updates:
+**Updates**:
 
 ## 2024
 
