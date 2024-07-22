@@ -28,6 +28,7 @@ CIKM 2024 - Full paper.
 
 Optimal Baseline Corrections for Off-Policy Contextual Bandits <br>
 <b>Shashank Gupta\*</b>, Olivier Jeunen\*, Harrie Oosterhuis, and Maarten de Rijke (<b>\*Equal Contribution</b>) <br>
+RecSys 2024 - Full paper.
 [preprint](https://arxiv.org/abs/2405.05736).
 
 Safe Deployment for Counterfactual Learning to Rank with Exposure-Based Risk Minimization <br>
