@@ -46,7 +46,6 @@ The University of Amsterdam at the TREC 2021 Fair Ranking Track <br>
 Ali Vardasbi, Gabriel Bénédict, <b>Shashank Gupta</b>, Maria Heuss, Pooya Khandel, Ming Li, Fatemeh Sarvi, TREC Fair Ranking Trec 21. <br>
 [paper](https://trec.nist.gov/pubs/trec30/papers/IRLab-Amsterdam-F.pdf).
 
-#### Pre-PhD 
 
 Neural Bag-of-Words Point Process Model for User Return Time Prediction in E-commerce <br>
 <b>Shashank Gupta</b>, Manish Bansal <br>
