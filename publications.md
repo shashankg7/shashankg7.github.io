@@ -24,12 +24,11 @@ FIRE 2023 - Tutorial ([website,slides](https://sites.google.com/view/fire-2023-u
 
 Practical and Robust Safety Guarantees for Advanced Counterfactual Learning to Rank <br>
 <b>Shashank Gupta</b>, Harrie Oosterhuis, and Maarten de Rijke <br>
-CIKM 2024 - Full paper.
+CIKM 2024 - Full paper ([paper](https://drive.google.com/file/d/1ss0HQs2TVUB_GhBaWgFUocJcQK2mZ6P7/view?usp=sharing)).
 
 Optimal Baseline Corrections for Off-Policy Contextual Bandits <br>
 <b>Shashank Gupta\*</b>, Olivier Jeunen\*, Harrie Oosterhuis, and Maarten de Rijke (<b>\*Equal Contribution</b>) <br>
-RecSys 2024 - Full paper.
-[preprint](https://arxiv.org/abs/2405.05736).
+RecSys 2024 - Full paper [preprint](https://arxiv.org/abs/2405.05736).
 
 Safe Deployment for Counterfactual Learning to Rank with Exposure-Based Risk Minimization <br>
 <b>Shashank Gupta</b>, Harrie Oosterhuis, and Maarten de Rijke <br>
