@@ -36,19 +36,21 @@ SIGIR 2023 - Full paper ([paper](https://drive.google.com/file/d/1GL285QRF44r-G4
 
 A Deep Generative Recommendation Method for Unbiased Learning From Implicit Feedback <br>
 <b>Shashank Gupta</b>, Harrie Oosterhuis, and Maarten de Rijke <br>
-ICTIR 2023 ([paper](https://drive.google.com/file/d/1NM1xewIrnrvmILLBX1vYo2vY3bRQmWL5/view?usp=drive_link)).
+ICTIR 2023 - Short paper ([paper](https://drive.google.com/file/d/1NM1xewIrnrvmILLBX1vYo2vY3bRQmWL5/view?usp=drive_link)).
 
 A First Look at Selection Bias in Preference Elicitation for Recommendation <br>
 <b>Shashank Gupta</b>, Harrie Oosterhuis, and Maarten de Rijke <br>
 CONSEQUENCES@RecSys 2023 ([paper](https://drive.google.com/file/d/1hRzuTyhjgG7567RuICK9lC2A4apAZJ-j/view?usp=drive_link), [code](https://github.com/shashankg7/Bias-Preference-Elicitation)). 
 
-Neural Bag-of-Words Point Process Model for User Return Time Prediction in E-commerce <br>
-<b>Shashank Gupta</b>, Manish Bansal <br>
-CRUM Workshop at UMAP 2023 ([paper](https://drive.google.com/file/d/1PQ7JptTuBdtjhtBCrONt2YV-jkxz1z-5/view?usp=sharing), [slides](https://drive.google.com/file/d/1QtzDoKkHgpB-vxhgbfxTThtOXu0jrypY/view?usp=drive_link)).
-
 The University of Amsterdam at the TREC 2021 Fair Ranking Track <br>
 Ali Vardasbi, Gabriel Bénédict, <b>Shashank Gupta</b>, Maria Heuss, Pooya Khandel, Ming Li, Fatemeh Sarvi, TREC Fair Ranking Trec 21. <br>
 [paper](https://trec.nist.gov/pubs/trec30/papers/IRLab-Amsterdam-F.pdf).
+
+#### Pre-PhD 
+
+Neural Bag-of-Words Point Process Model for User Return Time Prediction in E-commerce <br>
+<b>Shashank Gupta</b>, Manish Bansal <br>
+CRUM Workshop at UMAP 2023 ([paper](https://drive.google.com/file/d/1PQ7JptTuBdtjhtBCrONt2YV-jkxz1z-5/view?usp=sharing), [slides](https://drive.google.com/file/d/1QtzDoKkHgpB-vxhgbfxTThtOXu0jrypY/view?usp=drive_link)).
 
 On Application of Bayesian Parametric and Non-parametric Models for User Cohorting in Product Search <br>
 <b>Shashank Gupta</b> <br>
