@@ -42,7 +42,7 @@ A First Look at Selection Bias in Preference Elicitation for Recommendation <br>
 CONSEQUENCES@RecSys 2023 ([paper](https://drive.google.com/file/d/1hRzuTyhjgG7567RuICK9lC2A4apAZJ-j/view?usp=drive_link), [code](https://github.com/shashankg7/Bias-Preference-Elicitation)). 
 
 The University of Amsterdam at the TREC 2021 Fair Ranking Track <br>
-Ali Vardasbi, Gabriel Bénédict, <b>Shashank Gupta</b>, Maria Heuss, Pooya Khandel, Ming Li, Fatemeh Sarvi, TREC Fair Ranking Trec 21 <br> [paper](https://trec.nist.gov/pubs/trec30/papers/IRLab-Amsterdam-F.pdf).
+Ali Vardasbi, Gabriel Bénédict, <b>Shashank Gupta</b>, Maria Heuss, Pooya Khandel, Ming Li, Fatemeh Sarvi, TREC Fair Ranking Trec 21 <br> ([paper](https://trec.nist.gov/pubs/trec30/papers/IRLab-Amsterdam-F.pdf)).
 
 
 Neural Bag-of-Words Point Process Model for User Return Time Prediction in E-commerce <br>
