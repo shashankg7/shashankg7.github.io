@@ -17,7 +17,7 @@ To find out more about my work, please visit my [CV](/resume-final.pdf), [Public
 
 ## 2024
 
-* [July 2024] I will be joining Meta AI, New York as a research scientist intern for the summer, working on multimodal foundational models.
+* [July 2024] Joining Meta AI, New York as a research scientist intern for the summer. I'll be working on multimodal foundational models.
 * [July 2024] Full paper on "Optimal Baseline Corrections for Off-policy Contextual Bandits" accepted at RecSys 2024.
 * [July 2024] Full paper on "Practical and Robust Safety Guarantees for Advanced Counterfactual Learning to Rank" accepted at CIKM 2024. 
 * [May 2024] PC member for ICML 2024, ICLR 2024, SIGIR 2024, RecSys 2024, and ICTIR 2024.
