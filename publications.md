@@ -23,15 +23,19 @@ FIRE 2023 - Tutorial ([website,slides](https://sites.google.com/view/fire-2023-u
 
 Practical and Robust Safety Guarantees for Advanced Counterfactual Learning to Rank <br>
 <b>Shashank Gupta</b>, Harrie Oosterhuis, and Maarten de Rijke <br>
-CIKM 2024 - Full paper ([preprint](https://drive.google.com/file/d/1WPGxFq07Qkj6sNEXpCOt_pAD6Hih6sBI/view?usp=sharing)), part of work accepted at CONSEQUENCES 2024@RecSys.
+CIKM 2024 - Full paper ([preprint](https://drive.google.com/file/d/1WPGxFq07Qkj6sNEXpCOt_pAD6Hih6sBI/view?usp=sharing)).
 
 Optimal Baseline Corrections for Off-Policy Contextual Bandits <br>
 <b>Shashank Gupta\*</b>, Olivier Jeunen\*, Harrie Oosterhuis, and Maarten de Rijke (<b>\*Equal Contribution</b>) <br>
 RecSys 2024 - Full paper ([paper](https://drive.google.com/file/d/16hyfO1Fw9i5HWGlUpLgO3rhh1j3lN8xV/view?usp=sharing)).
 
+Proximal Ranking Policy Optimization for Practical Safety in Counterfactual Learning to Rank <br>
+<b>Shashank Gupta</b>, Harrie Oosterhuis, and Maarten de Rijke <br>
+CONSEQUENCES @RecSys 2024 - Oral presentation ([paper]()).
+
 A Simpler Alternative to Variational Regularized Counterfactual Risk Minimization <br>
 Hua Chang Bakker, <b>Shashank Gupta</b>, and Harrie Oosterhuis <br>
-CONSEQUENCES @RecSys 2024.
+CONSEQUENCES @RecSys 2024 - Poster presentation ([paper]()).
 
 Safe Deployment for Counterfactual Learning to Rank with Exposure-Based Risk Minimization <br>
 <b>Shashank Gupta</b>, Harrie Oosterhuis, and Maarten de Rijke <br>
