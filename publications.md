@@ -17,7 +17,7 @@ SIGIR 2023 - Tutorial ([website](https://sites.google.com/view/sigir-2023-tutori
 
 Recent Advancements in Unbiased Learning to Rank <br>
 <b>Shashank Gupta</b>, Philipp Hager, and Harrie Oosterhuis <br>
-FIRE 2023 - Tutorial ([website,slides](https://sites.google.com/view/fire-2023-ultr-tutorial/home), [video](https://www.youtube.com/watch?v=fcqCkjgOnJ8)).
+FIRE 2023 - Tutorial ([website, slides](https://sites.google.com/view/fire-2023-ultr-tutorial/home), [video](https://www.youtube.com/watch?v=fcqCkjgOnJ8)).
 
 ### Publications
 
