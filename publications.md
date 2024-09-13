@@ -9,15 +9,15 @@ A comprehensive list of my publications.
 
 Unbiased Learning to Rank: On Recent Advances and Practical Applications <br>
 <b>Shashank Gupta</b>, Philipp Hager, Jin Huang, Ali Vardasbi, and Harrie Oosterhuis <br>
-WSDM 2024 - Tutorial ([website](https://sites.google.com/view/wsdm-2024-tutorial-ultr/), [proposal](https://drive.google.com/file/d/1v8TAAM2mSA2-Zf3Mp-8-9O8gg1o6Nrji/view?usp=sharing), [slides](https://drive.google.com/file/d/1-sRsFkG4juBHqqQ-ces3HRvtYHpR0l7U/view?usp=sharing)).
+WSDM 2024 - Tutorial ([website](https://sites.google.com/view/wsdm-2024-tutorial-ultr/), [proposal](https://drive.google.com/file/d/1v8TAAM2mSA2-Zf3Mp-8-9O8gg1o6Nrji/view?usp=sharing), [slides](https://drive.google.com/file/d/1-sRsFkG4juBHqqQ-ces3HRvtYHpR0l7U/view?usp=sharing)), [video](https://www.youtube.com/watch?v=fcqCkjgOnJ8).
 
 Recent Advances in the Foundations and Applications of Unbiased Learning to Rank <br>
 <b>Shashank Gupta</b>, Philipp Hager, Jin Huang, Ali Vardasbi, and Harrie Oosterhuis <br>
-SIGIR 2023 - Tutorial ([website](https://sites.google.com/view/sigir-2023-tutorial-ultr), [proposal](https://drive.google.com/file/d/1HZP5X_5czqKWoAjXDAnC1PxvTHIqOjzj/view?usp=sharing), [slides](https://docs.google.com/presentation/d/1NdhDEn8xKPQO-J0YiF6KPKP20CiNLctF7krrGldEywY/present?slide=id.g1e4da214d8b_0_0), [video-part1](https://www.youtube.com/watch?v=dwl5oBHsHlk), [video-part2](https://www.youtube.com/watch?v=UOVEWbbP5do)).
+SIGIR 2023 - Tutorial ([website](https://sites.google.com/view/sigir-2023-tutorial-ultr), [proposal](https://drive.google.com/file/d/1HZP5X_5czqKWoAjXDAnC1PxvTHIqOjzj/view?usp=sharing), [slides](https://docs.google.com/presentation/d/1NdhDEn8xKPQO-J0YiF6KPKP20CiNLctF7krrGldEywY/present?slide=id.g1e4da214d8b_0_0), [video](https://www.youtube.com/watch?v=fcqCkjgOnJ8).
 
 Recent Advancements in Unbiased Learning to Rank <br>
 <b>Shashank Gupta</b>, Philipp Hager, and Harrie Oosterhuis <br>
-FIRE 2023 - Tutorial ([website,slides](https://sites.google.com/view/fire-2023-ultr-tutorial/home)).
+FIRE 2023 - Tutorial ([website,slides](https://sites.google.com/view/fire-2023-ultr-tutorial/home), [video](https://www.youtube.com/watch?v=fcqCkjgOnJ8)).
 
 ### Publications
 
