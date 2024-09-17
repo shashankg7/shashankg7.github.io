@@ -17,7 +17,8 @@ To find out more about my work, please visit my [CV](/resume-final.pdf), [Public
 
 ## 2024
 
-* [September 2024] Two papers on "[A Simpler Alternative to Variational Regularized Counterfactual Risk Minimization](https://arxiv.org/pdf/2409.09819)", and "[Proximal Ranking Policy Optimization for Practical Safety in Counterfactual Learning to Rank](https://arxiv.org/pdf/2409.09881)" accepted at the [CONSEQUENCES '24 workshop @RecSys](https://sites.google.com/view/consequences2024/home). 
+* [September 2024] Two papers on "[A Simpler Alternative to Variational Regularized Counterfactual Risk Minimization](https://arxiv.org/pdf/2409.09819)", and "[Proximal Ranking Policy Optimization for Practical Safety in Counterfactual Learning to Rank](https://arxiv.org/pdf/2409.09881)" accepted at the [CONSEQUENCES '24 workshop @RecSys](https://sites.google.com/view/consequences2024/home).
+* [September 2024] We released the tutorial recording on [Recent Advancements in Unbiased Learning to Rank](https://www.youtube.com/watch?v=fcqCkjgOnJ8), previously presented at WSDM 2024, SIGIR 2023, and FIRE 2023.
 * [August 2024] Joined Meta AI, New York as a research scientist intern for the summer. I'll be working on multimodal foundational models.
 * [July 2024] Full paper on "[Optimal Baseline Corrections for Off-policy Contextual Bandits](https://drive.google.com/file/d/16hyfO1Fw9i5HWGlUpLgO3rhh1j3lN8xV/view)" accepted at RecSys 2024, with Oral presentation.
 * [July 2024] Full paper on "[Practical and Robust Safety Guarantees for Advanced Counterfactual Learning to Rank](https://drive.google.com/file/d/1WPGxFq07Qkj6sNEXpCOt_pAD6Hih6sBI/view)" accepted at CIKM 2024. 
