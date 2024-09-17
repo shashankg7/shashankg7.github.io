@@ -31,11 +31,11 @@ RecSys 2024 - Full paper, Oral Presentation ([paper](https://drive.google.com/fi
 
 Proximal Ranking Policy Optimization for Practical Safety in Counterfactual Learning to Rank <br>
 <b>Shashank Gupta</b>, Harrie Oosterhuis, and Maarten de Rijke <br>
-CONSEQUENCES @RecSys 2024 - Oral presentation ([paper]()).
+CONSEQUENCES @RecSys 2024 - Oral presentation ([preprint](https://arxiv.org/abs/2409.09881)).
 
 A Simpler Alternative to Variational Regularized Counterfactual Risk Minimization <br>
 Hua Chang Bakker, <b>Shashank Gupta</b>, and Harrie Oosterhuis <br>
-CONSEQUENCES @RecSys 2024 - Poster presentation ([paper]()).
+CONSEQUENCES @RecSys 2024 - Poster presentation ([preprint](https://arxiv.org/abs/2409.09819)).
 
 Safe Deployment for Counterfactual Learning to Rank with Exposure-Based Risk Minimization <br>
 <b>Shashank Gupta</b>, Harrie Oosterhuis, and Maarten de Rijke <br>
