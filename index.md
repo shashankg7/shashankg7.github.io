@@ -17,10 +17,10 @@ To find out more about my work, please visit my [CV](/resume-final.pdf), [Public
 
 ## 2024
 
-* [September 2024] Two papers on "A Simpler Alternative to Variational Regularized Counterfactual Risk Minimization", and "Proximal Ranking Policy Optimization for Practical Safety in Counterfactual Learning to Rank" accepted at [CONSEQUENCES workshop at RecSys](https://sites.google.com/view/consequences2024/home). 
+* [September 2024] Two papers on "[A Simpler Alternative to Variational Regularized Counterfactual Risk Minimization](https://arxiv.org/pdf/2409.09819)", and "[Proximal Ranking Policy Optimization for Practical Safety in Counterfactual Learning to Rank](https://arxiv.org/pdf/2409.09881)" accepted at the [CONSEQUENCES '24 workshop @RecSys](https://sites.google.com/view/consequences2024/home). 
 * [August 2024] Joined Meta AI, New York as a research scientist intern for the summer. I'll be working on multimodal foundational models.
-* [July 2024] Full paper on "Optimal Baseline Corrections for Off-policy Contextual Bandits" accepted at RecSys 2024.
-* [July 2024] Full paper on "Practical and Robust Safety Guarantees for Advanced Counterfactual Learning to Rank" accepted at CIKM 2024. 
+* [July 2024] Full paper on "[Optimal Baseline Corrections for Off-policy Contextual Bandits](https://drive.google.com/file/d/16hyfO1Fw9i5HWGlUpLgO3rhh1j3lN8xV/view)" accepted at RecSys 2024, with Oral presentation.
+* [July 2024] Full paper on "[Practical and Robust Safety Guarantees for Advanced Counterfactual Learning to Rank](https://drive.google.com/file/d/1WPGxFq07Qkj6sNEXpCOt_pAD6Hih6sBI/view)" accepted at CIKM 2024. 
 * [May 2024] PC member for ICML 2024, ICLR 2024, SIGIR 2024, RecSys 2024, and ICTIR 2024.
 * [May 2024] Arxiv preprint of our work on "Optimal Baseline Corrections for Off-policy Contextual Bandits" is available online [here](https://arxiv.org/abs/2405.05736).
 * [March 2024] Slidedeck from the WSDM tutorial on recent advancements in unbiased LTR is available [here](https://sites.google.com/view/wsdm-2024-tutorial-ultr/).
