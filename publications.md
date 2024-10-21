@@ -35,7 +35,7 @@ CONSEQUENCES @RecSys 2024 - Oral presentation ([preprint](https://arxiv.org/abs/
 
 A Simpler Alternative to Variational Regularized Counterfactual Risk Minimization <br>
 Hua Chang Bakker, <b>Shashank Gupta</b>, and Harrie Oosterhuis <br>
-CONSEQUENCES @RecSys 2024 - Poster presentation ([preprint](https://arxiv.org/abs/2409.09819)).
+CONSEQUENCES @RecSys 2024 - Poster presentation ([preprint](https://arxiv.org/abs/2409.09819), [poster](https://drive.google.com/file/d/1VG_o4LBYLgq9nKJVcJoUaPRe54UPhDOr/view?usp=drive_link)).
 
 Safe Deployment for Counterfactual Learning to Rank with Exposure-Based Risk Minimization <br>
 <b>Shashank Gupta</b>, Harrie Oosterhuis, and Maarten de Rijke <br>
