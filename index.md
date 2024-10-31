@@ -17,7 +17,7 @@ To find out more about my work, please visit my [CV](/resume-final.pdf), [Public
 
 ## 2024
 
-* [October 2024] Presented my work on "Safe Deployment for Counterfactual Learning-to-Rank" at Expedia, London, remotely [slides](https://docs.google.com/presentation/d/e/2PACX-1vRoeOfU0PGrJnwztnij09wyOv2eMLZg356crTkkrEHzaWokc9uO9eZv1Jduku2FBTtRO-T2Msul7Q_v/pub?start=false&loop=false&delayms=3000).
+* [October 2024] Presented my work on "Safe Deployment for Counterfactual Learning-to-Rank" at Expedia, London, remotely ([slides](https://docs.google.com/presentation/d/e/2PACX-1vRoeOfU0PGrJnwztnij09wyOv2eMLZg356crTkkrEHzaWokc9uO9eZv1Jduku2FBTtRO-T2Msul7Q_v/pub?start=false&loop=false&delayms=3000)).
 * [September 2024] Two papers on "[A Simpler Alternative to Variational Regularized Counterfactual Risk Minimization](https://arxiv.org/pdf/2409.09819)", and "[Proximal Ranking Policy Optimization for Practical Safety in Counterfactual Learning to Rank](https://arxiv.org/pdf/2409.09881)" accepted at the [CONSEQUENCES '24 workshop @RecSys](https://sites.google.com/view/consequences2024/home).
 * [September 2024] We released the tutorial recording on [Recent Advancements in Unbiased Learning to Rank](https://www.youtube.com/watch?v=fcqCkjgOnJ8), previously presented at WSDM 2024, SIGIR 2023, and FIRE 2023.
 * [August 2024] Joined Meta AI, New York as a research scientist intern for the summer. I'll be working on multimodal foundational models.
