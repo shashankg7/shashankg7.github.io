@@ -5,9 +5,11 @@ permalink: /
 
 Hello, thanks for visiting.
 
-I am a final-year Ph.D. student at the [IRLab, UvA](http://irlab.science.uva.nl), supervised by [Prof. Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/) and [Prof. Harrie Oosterhuis](https://harrieo.github.io/). I am working on the problem of unbiased/counterfactual learning to rank from user interactions. I am currently interning at Meta AI, NYC, working on multimodal foundational models. During my third year of PhD, I interned at MetaAI, London with the modern recommender systems (MRS) team, where I worked on off-policy learning for two-stage recommendations and cold-start recommendations.
+I am a final-year Ph.D. student at the [IRLab, UvA](http://irlab.science.uva.nl), supervised by [Prof. Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/) and [Prof. Harrie Oosterhuis](https://harrieo.github.io/). I am working on the problem of off-policy evaluation and learning from user interactions. I am currently interning at Meta AI, NYC, working on reinforcement learning based fine-tuning for text-to-image diffusion models. During my third year of PhD, I interned at MetaAI, London with the modern recommender systems (MRS) team, where I worked on off-policy learning for two-stage recommendations and cold-start recommendations.
 
-My primary areas of interest are: machine learning, information retrieval, off-policy evaluation and learning for ranking and contextual bandits. Before joining the PhD, I worked as a data scientist with the search team at [Flipkart Internet Pvt. Limited, India](https://tech.flipkart.com/data-science/home), where I contributed to various query understanding and product ranking projects. 
+My primary areas of interest are: machine learning, information retrieval, off-policy evaluation and learning for ranking and contextual bandits. 
+
+Before joining the PhD, I worked as a data scientist with the search team at [Flipkart Internet Pvt. Limited, India](https://tech.flipkart.com/data-science/home), where I contributed to various query understanding and product ranking projects. 
 
 I completed my research masters at the Search and Information Extraction Lab [SIEL, IIIT-Hyderabad](search.iiit.ac.in), under the joint supervision of [Dr. Manish Gupta](https://www.microsoft.com/en-us/research/people/gmanish/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fpeople%2Fgmanish%2F#), and [Prof. Vasudeva Varma](https://faculty.iiit.ac.in/~vv/Home.html). 
 
