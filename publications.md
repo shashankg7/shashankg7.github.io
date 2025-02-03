@@ -22,7 +22,7 @@ FIRE 2023 - Tutorial ([website, slides](https://sites.google.com/view/fire-2023-
 ### Publications
 
 A Simple and Effective Reinforcement Learning Method for Text-to-Image Diffusion Fine-tuning <br>
-<b>Shashank Gupta</b>, Chaitanya Ahuja, Tsung-Yu Lin, Sreya Dutta Roy, Harrie Oosterhuis, Maarten de Rijke, Satya Narayan Shukla.
+<b>Shashank Gupta</b>, Chaitanya Ahuja, Tsung-Yu Lin, Sreya Dutta Roy, Harrie Oosterhuis, Maarten de Rijke, Satya Narayan Shukla. <br>
 *Under submission*
 
 Towards Two-Stage Counterfacutal Learning-to-Rank <br>
