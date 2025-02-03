@@ -21,6 +21,14 @@ FIRE 2023 - Tutorial ([website, slides](https://sites.google.com/view/fire-2023-
 
 ### Publications
 
+A Simple and Effective Reinforcement Learning Method for Text-to-Image Diffusion Fine-tuning <br>
+<b>Shashank Gupta</b>, Chaitanya Ahuja, Tsung-Yu Lin, Sreya Dutta Roy, Harrie Oosterhuis, Maarten de Rijke, Satya Narayan Shukla.
+*Under submission*
+
+Towards Two-Stage Counterfacutal Learning-to-Rank <br>
+<b>Shashank Gupta</b>, Yiming Liao, and Maarten de Rijke <br>
+*Under submission*
+
 Practical and Robust Safety Guarantees for Advanced Counterfactual Learning to Rank <br>
 <b>Shashank Gupta</b>, Harrie Oosterhuis, and Maarten de Rijke <br>
 CIKM 2024 - Full paper ([paper](https://drive.google.com/file/d/1WPGxFq07Qkj6sNEXpCOt_pAD6Hih6sBI/view?usp=sharing), [slides](https://docs.google.com/presentation/d/e/2PACX-1vSibjqPOHFqyWdjAPt6hMzc0pPbIRz30THGlQVewkg3XCX2vGKuoQCzfgeHigleIm4BWYEjqmQo88IW/pub?start=false&loop=false&delayms=10000)).
