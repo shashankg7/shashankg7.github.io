@@ -5,7 +5,7 @@ permalink: /
 
 Hello, thanks for visiting.
 
-I am a final-year Ph.D. student at the [IRLab, UvA](http://irlab.science.uva.nl), supervised by [Prof. Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/) and [Prof. Harrie Oosterhuis](https://harrieo.github.io/). I am working on the problem of off-policy evaluation and learning from user interactions. I am currently interning at Meta AI, NYC, working on reinforcement learning based fine-tuning for text-to-image diffusion models. During my third year of PhD, I interned at MetaAI, London with the modern recommender systems (MRS) team, where I worked on off-policy learning for two-stage recommendations and cold-start recommendations.
+I am a final-year Ph.D. student at the [IRLab, UvA](http://irlab.science.uva.nl), supervised by [Prof. Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/) and [Prof. Harrie Oosterhuis](https://harrieo.github.io/). I am working on the problem of off-policy evaluation and learning from user interactions. I recently finished an internship at Meta AI, NYC with the modern recommender systems (MRS) team, where I worked on a novel reinforcement learning based fine-tuning for text-to-image diffusion models. During my third year of PhD, I interned at MetaAI, London with the modern recommender systems (MRS) team, where I worked on off-policy learning for two-stage recommendations and cold-start recommendations.
 
 My primary areas of interest are: machine learning, information retrieval, off-policy evaluation and learning for ranking and contextual bandits. 
 
