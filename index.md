@@ -15,6 +15,10 @@ To find out more about my work, please visit my [CV](/resume-final.pdf), [Public
 
 **Updates**:
 
+## 2025
+
+* [March] The pre-print of the research work from my internship at Meta AI, New York is available [here](https://arxiv.org/pdf/2503.00897).
+
 ## 2024
 
 * [October 2024] Presented my work on [Safe Deployment for Counterfactual Learning-to-Rank](https://docs.google.com/presentation/d/e/2PACX-1vRoeOfU0PGrJnwztnij09wyOv2eMLZg356crTkkrEHzaWokc9uO9eZv1Jduku2FBTtRO-T2Msul7Q_v/pub?start=false&loop=false&delayms=5000) at Expedia, London.
