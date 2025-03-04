@@ -17,7 +17,7 @@ To find out more about my work, please visit my [CV](/resume-final.pdf), [Public
 
 ## 2025
 
-* [March] The pre-print of the research work from my internship at Meta AI, New York is available [here](https://arxiv.org/pdf/2503.00897).
+* [March] The preprint of my work from the internship at Meta AI, NYC is available [here](https://arxiv.org/pdf/2503.00897).
 
 ## 2024
 
