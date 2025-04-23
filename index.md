@@ -11,7 +11,7 @@ My primary areas of interest are: machine learning, information retrieval, off-p
 
 Before joining the PhD, I worked as a data scientist with the search team at [Flipkart Internet Pvt. Limited, India](https://tech.flipkart.com/data-science/home), where I contributed to various query understanding and product ranking projects. I completed my research masters at the Search and Information Extraction Lab [SIEL, IIIT-Hyderabad](search.iiit.ac.in), under the joint supervision of [Dr. Manish Gupta](https://www.microsoft.com/en-us/research/people/gmanish/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fpeople%2Fgmanish%2F#), and [Prof. Vasudeva Varma](https://faculty.iiit.ac.in/~vv/Home.html). 
 
-*** I’m actively pursuing full-time positions as a Research Scientist, Research Engineer, or Machine Learning Engineer starting in Summer 2025. If my expertise matches your team’s needs, I’d love to connect. My profile: [CV](/resume-final.pdf), [Publications](/publications/), or [Google Scholar profile](https://scholar.google.com/citations?user=UvTcU-IAAAAJ&hl=en). ***
+***I’m actively pursuing full-time positions as a Research Scientist, Research Engineer, or Machine Learning Engineer starting in Summer 2025. If my expertise matches your team’s needs, I’d love to connect. My profile: [CV](/resume-final.pdf), [Publications](/publications/), or [Google Scholar profile](https://scholar.google.com/citations?user=UvTcU-IAAAAJ&hl=en).***
 
 **Updates**:
 
