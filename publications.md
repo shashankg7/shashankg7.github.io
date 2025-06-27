@@ -27,7 +27,7 @@ A Simple and Effective Reinforcement Learning Method for Text-to-Image Diffusion
 
 Towards Two-Stage Counterfacutal Learning-to-Rank <br>
 <b>Shashank Gupta</b>, Yiming Liao, and Maarten de Rijke <br>
-ICTIR 2025 - Short paper [preprint](https://drive.google.com/file/d/1p0ZuVoRqX1EagrOEEux3_q-tMX7dhnbT/view?usp=sharing).
+ICTIR 2025 - Short paper [preprint](https://arxiv.org/pdf/2506.20854).
 
 Practical and Robust Safety Guarantees for Advanced Counterfactual Learning to Rank <br>
 <b>Shashank Gupta</b>, Harrie Oosterhuis, and Maarten de Rijke <br>
