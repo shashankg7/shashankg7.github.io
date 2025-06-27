@@ -18,7 +18,7 @@ Before joining the PhD, I worked as a data scientist with the search team at [Fl
 ## 2025
 
 * [June] Research paper from my first internship at Meta, ["Towards Two-Stage Counterfactual Learning to Rank"](https://arxiv.org/pdf/2506.20854) got accepted at ICTIR 2025 (co-located with SIGIR). 
-* [March] The preprint of my work from the internship at Meta AI, NYC is available [here](https://arxiv.org/pdf/2503.00897).
+* [March] The preprint of my work from the internship at Meta AI, NYC, ["A Simple and Effective Reinforcement Learning Method for Text-to-Image Diffusion Fine-tuning"](https://arxiv.org/pdf/2503.00897) is available.
 
 ## 2024
 
