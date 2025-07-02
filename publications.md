@@ -142,11 +142,15 @@ User Profiling based Deep Neural Network for Temporal News Recommendation. <br>
 Vaibhav Kumar, Dhruv Khattar, <b>Shashank Gupta</b>, Manish Gupta, Vasudeva Varma. <br>
 SERecSys at ICDM 2017 ([paper](https://drive.google.com/open?id=0B-7peEFiNjnUNVpieUtVRzBJWUk))
 
-### MS Thesis
+### Thesis
+
+Safe, Efficient, and Robust Reinforcement Learning for Ranking and Diffusion Models <br>
+Shashank Gupta <br>
+PhD thesis
 
 Pharmacovigilance from Social Media using Limited Labelled Data <br>
 Shashank Gupta <br>
-MS By Research Thesis Presentation ([slides](https://docs.google.com/presentation/d/e/2PACX-1vTN0FDiDJsy5cdVeAoZVj2ai2x-8zvDPbkR4JygE7XdCxBoDeIgr73vSHuhXRVeKh9jjiIvzwTXgBo4/pub?start=false&loop=false&delayms=60000))
+MS By Research thesis presentation ([slides](https://docs.google.com/presentation/d/e/2PACX-1vTN0FDiDJsy5cdVeAoZVj2ai2x-8zvDPbkR4JygE7XdCxBoDeIgr73vSHuhXRVeKh9jjiIvzwTXgBo4/pub?start=false&loop=false&delayms=60000))
 
 
 
