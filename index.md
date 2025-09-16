@@ -17,6 +17,7 @@ Before joining the PhD, I worked as a data scientist with the search team at [Fl
 
 ## 2025
 
+* [Sept] Presented my work on RL for recommendation and diffusion models at LossFunk Bangalore. The slides are [here](https://docs.google.com/presentation/d/e/2PACX-1vS1s3vKbbAEamG1eUWtAURsjA0uOEF5MlcGgJzooUihP8hRb_ynr5FdFYgBY-SIwVFvp1KwXMCiEKQ8/pub?start=false&loop=false&delayms=30000&slide=id.g31e97ef7f1d_0_0).
 * [June] Research paper from my first internship at Meta, ["Towards Two-Stage Counterfactual Learning to Rank"](https://arxiv.org/pdf/2506.20854) got accepted at ICTIR 2025 (co-located with SIGIR). 
 * [March] The preprint of my work from the internship at Meta AI, NYC, ["A Simple and Effective Reinforcement Learning Method for Text-to-Image Diffusion Fine-tuning"](https://arxiv.org/pdf/2503.00897) is available.
 
