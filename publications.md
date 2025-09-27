@@ -19,6 +19,12 @@ Recent Advancements in Unbiased Learning to Rank <br>
 <b>Shashank Gupta</b>, Philipp Hager, and Harrie Oosterhuis <br>
 FIRE 2023 - Tutorial ([website, slides](https://sites.google.com/view/fire-2023-ultr-tutorial/home), [video](https://www.youtube.com/watch?v=fcqCkjgOnJ8)).
 
+### PhD Thesis
+
+<b> Safe, Efficient, and Robust Reinforcement Learning for Ranking and Diffusion Models </b>. PhD thesis, University of Amsterdam, October 2025. 
+[pdf](pdf).
+
+
 ### Publications
 
 A Simple and Effective Reinforcement Learning Method for Text-to-Image Diffusion Fine-tuning <br>
