@@ -7,7 +7,7 @@ A comprehensive list of my publications.
 
 ### PhD Thesis
 
-<b> Safe, Efficient, and Robust Reinforcement Learning for Ranking and Diffusion Models </b>. PhD thesis, University of Amsterdam, October 2025. 
+<b> Safe, Efficient, and Robust Reinforcement Learning for Ranking and Diffusion Models </b>. PhD thesis, University of Amsterdam. 
 [pdf](pdf).
 
 
