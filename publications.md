@@ -5,6 +5,12 @@ permalink: /publications/
 
 A comprehensive list of my publications. 
 
+### PhD Thesis
+
+<b> Safe, Efficient, and Robust Reinforcement Learning for Ranking and Diffusion Models </b>. PhD thesis, University of Amsterdam, October 2025. 
+[pdf](pdf).
+
+
 ### Tutorials
 
 Unbiased Learning to Rank: On Recent Advances and Practical Applications <br>
@@ -18,11 +24,6 @@ SIGIR 2023 - Tutorial ([website](https://sites.google.com/view/sigir-2023-tutori
 Recent Advancements in Unbiased Learning to Rank <br>
 <b>Shashank Gupta</b>, Philipp Hager, and Harrie Oosterhuis <br>
 FIRE 2023 - Tutorial ([website, slides](https://sites.google.com/view/fire-2023-ultr-tutorial/home), [video](https://www.youtube.com/watch?v=fcqCkjgOnJ8)).
-
-### PhD Thesis
-
-<b> Safe, Efficient, and Robust Reinforcement Learning for Ranking and Diffusion Models </b>. PhD thesis, University of Amsterdam, October 2025. 
-[pdf](pdf).
 
 
 ### Publications
@@ -148,11 +149,7 @@ User Profiling based Deep Neural Network for Temporal News Recommendation. <br>
 Vaibhav Kumar, Dhruv Khattar, <b>Shashank Gupta</b>, Manish Gupta, Vasudeva Varma. <br>
 SERecSys at ICDM 2017 ([paper](https://drive.google.com/open?id=0B-7peEFiNjnUNVpieUtVRzBJWUk))
 
-### Thesis
-
-Safe, Efficient, and Robust Reinforcement Learning for Ranking and Diffusion Models <br>
-Shashank Gupta <br>
-PhD thesis
+### Masters (research) Thesis
 
 Pharmacovigilance from Social Media using Limited Labelled Data <br>
 Shashank Gupta <br>
