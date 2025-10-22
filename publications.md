@@ -28,11 +28,11 @@ FIRE 2023 - Tutorial ([website, slides](https://sites.google.com/view/fire-2023-
 
 ### Publications
 
-A Simple and Effective Reinforcement Learning Method for Text-to-Image Diffusion Fine-tuning <br>
+A Simple and Effective Reinforcement Learning Method for Text-to-Image Diffusion Fine-tuning <br> (<b> Work done during internship at Meta AI </b>)
 <b>Shashank Gupta</b>, Chaitanya Ahuja, Tsung-Yu Lin, Sreya Dutta Roy, Harrie Oosterhuis, Maarten de Rijke, and Satya Narayan Shukla. <br>
 [preprint](https://arxiv.org/pdf/2503.00897).
 
-Towards Two-Stage Counterfacutal Learning-to-Rank <br>
+Towards Two-Stage Counterfacutal Learning-to-Rank <br> (<b> Work done during internship at Meta AI </b>)
 <b>Shashank Gupta</b>, Yiming Liao, and Maarten de Rijke <br>
 ICTIR 2025 - Short paper [preprint](https://arxiv.org/pdf/2506.20854).
 
