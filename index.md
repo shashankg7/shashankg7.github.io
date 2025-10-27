@@ -7,12 +7,13 @@ Hello, thanks for visiting.
 
 I work on training machine learning models to learn from human behavior - specifically, how to improve recommendation and ranking systems by learning from user interactions.
 
-I recently completed my PhD at the [Information Retrieval Lab]((http://irlab.science.uva.nl)) at the University of Amsterdam, supervised by [Prof. Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/) and [Prof. Harrie Oosterhuis](https://harrieo.github.io/). My research focused on off-policy evaluation and learning for ranking and recommendations, specifically on [safely](https://arxiv.org/abs/2305.01522) improve ranking systems by learning from logged user interactions.
+I recently completed my PhD at the [Information Retrieval Lab](http://irlab.science.uva.nl) at the University of Amsterdam, supervised by [Prof. Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/) and [Prof. Harrie Oosterhuis](https://harrieo.github.io/). My research focused on off-policy evaluation and learning for ranking and recommendations—methods that [safely](https://arxiv.org/abs/2305.01522) improve ranking systems by learning from logged user interactions.
 
 During my PhD, I spent time at Meta AI working on some exciting applications of these ideas. In my final year, I joined the Modern Recommender Systems team in NYC, where I developed a reinforcement learning approach for fine-tuning text-to-image diffusion models. The previous year in London, I worked on off-policy learning for two-stage recommendation systems and mixture-of-experts architectures for video recommendations.
 
 My research interests span machine learning, information retrieval, off-policy methods for ranking and contextual bandits, and reinforcement learning for post-training of foundation models.
-Before my PhD, I was a data scientist at Flipkart in India, working on search ranking and query understanding. I earned my research master's degree at IIIT-Hyderabad's Search and Information Extraction Lab, supervised by [Dr. Manish Gupta](https://www.microsoft.com/en-us/research/people/gmanish/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fpeople%2Fgmanish%2F#), and [Prof. Vasudeva Varma](https://faculty.iiit.ac.in/~vv/Home.html).
+
+Before my PhD, I was a data scientist at Flipkart in India, working on search ranking and query understanding. I earned my research master's degree at IIIT-Hyderabad's Search and Information Extraction Lab, supervised by [Dr. Manish Gupta](https://www.microsoft.com/en-us/research/people/gmanish/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fpeople%2Fgmanish%2F) and [Prof. Vasudeva Varma](https://faculty.iiit.ac.in/~vv/Home.html).
 
 ***I’m actively pursuing full-time positions as a Research Scientist, Research Engineer, or Machine Learning Engineer starting in Summer 2025. If my expertise matches your team’s needs, I’d love to connect. My profile: [CV](/resume-final.pdf), [Publications](/publications/), or [Google Scholar profile](https://scholar.google.com/citations?user=UvTcU-IAAAAJ&hl=en).***
 
