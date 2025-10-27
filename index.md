@@ -7,7 +7,7 @@ Hello, thanks for visiting.
 
 I work on training machine learning models to learn from human behavior - specifically, how to improve recommendation and ranking systems by learning from user interactions.
 
-I recently completed my PhD at the [Information Retrieval Lab](http://irlab.science.uva.nl) at the University of Amsterdam, supervised by [Prof. Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/) and [Prof. Harrie Oosterhuis](https://harrieo.github.io/). My research focused on off-policy evaluation and learning for ranking and recommendations—methods that [safely](https://arxiv.org/abs/2305.01522) improve ranking systems by learning from logged user interactions.
+I recently completed my PhD at the [Information Retrieval Lab](http://irlab.science.uva.nl) at the University of Amsterdam, supervised by [Prof. Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/) and [Prof. Harrie Oosterhuis](https://harrieo.github.io/). My research focused on off-policy evaluation and learning for ranking and recommendations - methods that [safely](https://arxiv.org/abs/2305.01522) improve ranking systems by learning from logged user interactions.
 
 During my PhD, I spent time at Meta AI working on some exciting applications of these ideas. In my final year, I joined the Modern Recommender Systems team in NYC, where I developed a reinforcement learning approach for fine-tuning text-to-image diffusion models. The previous year in London, I worked on off-policy learning for two-stage recommendation systems and mixture-of-experts architectures for video recommendations.
 
