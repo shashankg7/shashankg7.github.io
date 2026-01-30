@@ -33,7 +33,7 @@ A Simple and Effective Reinforcement Learning Method for Text-to-Image Diffusion
 [preprint](https://drive.google.com/file/d/1YiSjq8QEnDJmC6K_lN_wBBf7p7m-fvsc/view?usp=sharing).
 
 Additive Control Variates Dominate Self-Normalisation <br>
-Olivier Jeunen, <b>Shashank Gupta</b>
+Olivier Jeunen, <b>Shashank Gupta</b> <br>
 Under submission.
 
 Towards Two-Stage Counterfacutal Learning-to-Rank (<b> Work done during internship at Meta AI </b>) <br>
