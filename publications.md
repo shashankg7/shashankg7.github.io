@@ -32,6 +32,10 @@ A Simple and Effective Reinforcement Learning Method for Text-to-Image Diffusion
 <b>Shashank Gupta</b>, Chaitanya Ahuja, Tsung-Yu Lin, Sreya Dutta Roy, Harrie Oosterhuis, Maarten de Rijke, and Satya Narayan Shukla. <br>
 [preprint](https://drive.google.com/file/d/1YiSjq8QEnDJmC6K_lN_wBBf7p7m-fvsc/view?usp=sharing).
 
+Additive Control Variates Dominate Self-Normalisation <br>
+Olivier Jeunen, <b>Shashank Gupta</b>
+Under submission.
+
 Towards Two-Stage Counterfacutal Learning-to-Rank (<b> Work done during internship at Meta AI </b>) <br>
 <b>Shashank Gupta</b>, Yiming Liao, and Maarten de Rijke <br>
 ICTIR 2025 - Short paper [preprint](https://arxiv.org/pdf/2506.20854).
