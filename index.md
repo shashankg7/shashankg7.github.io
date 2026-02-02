@@ -21,6 +21,10 @@ Before my PhD, I was a data scientist at Flipkart in India, working on search ra
 
 **Updates**:
 
+## 2026
+
+* [Jan] Presented my work on RL for recsys and post-training diffusion models at EBay, San Jose virtually. [slides](https://docs.google.com/presentation/d/1XY3wixdaH-Wk8K7kXllVxdqXgaNwlw-mgQwMbGdv0Y0/edit?usp=sharing). 
+
 ## 2025
 
 * [Oct] Successfully defended my [PhD thesis](https://www.arxiv.org/abs/2510.15429) on reinforcement learning for ranking and generative models. 
