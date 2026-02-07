@@ -23,6 +23,7 @@ Before my PhD, I was a data scientist at Flipkart in India, working on search ra
 
 ## 2026
 
+* [Jan] Wrapped up a paper where we showed that $\beta$-IPS (a novel estimator we proposed in our RecSys 2024 paper) is asymptotically better than the SNIPS estimator in terms of MSE and variance. [preprint](https://drive.google.com/file/d/1frnnclT0VoX7xAC0OLlwfkpWeh-5KW52/view). 
 * [Jan] Presented my work on RL for recsys and post-training diffusion models at EBay, San Jose virtually. [slides](https://docs.google.com/presentation/d/1XY3wixdaH-Wk8K7kXllVxdqXgaNwlw-mgQwMbGdv0Y0/edit?usp=sharing). 
 
 ## 2025
