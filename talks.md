@@ -7,7 +7,7 @@ Reinforcement learning for search/recommendations: past and the future <br>
 <b>Invited talk @Ebay, San Jose (remotely) </b> ([slides](https://docs.google.com/presentation/d/1vEBxDjbNOnLzq2pt5K7U5YHfdyiAVxxM136KzX5_fm0/edit?usp=sharing))
 
 Fundamentals of Reinforcement Learning for search/ranking and post-training foundational models <br>
-<b>LossFunk invited talk @Bangalore </b> ([slides](https://docs.google.com/presentation/d/1FgtISJSMAcuntLOEnDqRhBMfqJz5MP7LxZq-U81I1AA/edit?usp=sharing))
+<b>Invited talk @LossFunk, Bangalore </b> ([slides](https://docs.google.com/presentation/d/1FgtISJSMAcuntLOEnDqRhBMfqJz5MP7LxZq-U81I1AA/edit?usp=sharing))
 
 Unbiased Learning to Rank: On Recent Advances and Practical Applications <br>
 <b>WSDM 2024 Tutorial </b> ([website]([https://www.youtube.com/watch?v=dwl5oBHsHlk](https://sites.google.com/view/wsdm-2024-tutorial-ultr/)).
