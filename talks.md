@@ -4,7 +4,7 @@ permalink: /talks/
 ---
 
 Reinforcement learning for search/recommendations: past and the future <br>
-([slides](https://docs.google.com/presentation/d/1vEBxDjbNOnLzq2pt5K7U5YHfdyiAVxxM136KzX5_fm0/edit?usp=sharing))
+<b>Invited talk @Ebay, San Jose (remotely) </b> ([slides](https://docs.google.com/presentation/d/1vEBxDjbNOnLzq2pt5K7U5YHfdyiAVxxM136KzX5_fm0/edit?usp=sharing))
 
 Fundamentals of Reinforcement Learning for search/ranking and post-training foundational models <br>
 <b>LossFunk invited talk @Bangalore </b> ([slides](https://docs.google.com/presentation/d/1FgtISJSMAcuntLOEnDqRhBMfqJz5MP7LxZq-U81I1AA/edit?usp=sharing))
