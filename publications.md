@@ -28,13 +28,13 @@ FIRE 2023 - Tutorial ([website, slides](https://sites.google.com/view/fire-2023-
 
 ### Publications
 
+Additive Control Variates Dominate Self-Normalisation in Off-Policy Evaluation <br>
+Olivier Jeunen, <b>Shashank Gupta</b> <br>
+[preprint](https://drive.google.com/file/d/1frnnclT0VoX7xAC0OLlwfkpWeh-5KW52/view?usp=sharing).
+
 A Simple and Effective Reinforcement Learning Method for Text-to-Image Diffusion Fine-tuning (<b> Work done during internship at Meta AI </b>) <br>
 <b>Shashank Gupta</b>, Chaitanya Ahuja, Tsung-Yu Lin, Sreya Dutta Roy, Harrie Oosterhuis, Maarten de Rijke, and Satya Narayan Shukla. <br>
 [preprint](https://drive.google.com/file/d/1YiSjq8QEnDJmC6K_lN_wBBf7p7m-fvsc/view?usp=sharing).
-
-Additive Control Variates Dominate Self-Normalisation in Off-Policy Evaluation <br>
-Olivier Jeunen, <b>Shashank Gupta</b> <br>
-[preprint 2026](https://drive.google.com/file/d/1frnnclT0VoX7xAC0OLlwfkpWeh-5KW52/view?usp=sharing).
 
 Towards Two-Stage Counterfacutal Learning-to-Rank (<b> Work done during internship at Meta AI </b>) <br>
 <b>Shashank Gupta</b>, Yiming Liao, and Maarten de Rijke <br>
