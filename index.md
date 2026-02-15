@@ -11,7 +11,7 @@ I recently completed my PhD at the [Information Retrieval Lab](http://irlab.scie
 
 For an overview of my work on RL for search/recsys, and my views on it's future, I prepared a slidedeck [here](https://docs.google.com/presentation/d/1vEBxDjbNOnLzq2pt5K7U5YHfdyiAVxxM136KzX5_fm0/edit?usp=sharing). 
 
-During my PhD, I spent time at Meta AI working on some exciting applications of these ideas. In my final year, I joined the Modern Recommender Systems team in NYC, where I developed a reinforcement learning approach for fine-tuning text-to-image diffusion models. The previous year in London, I worked on off-policy learning for two-stage recommendation systems and mixture-of-experts architectures for video recommendations.
+During my PhD, I spent time at Meta AI working on some exciting applications of these ideas. In my final year, I joined the Modern Recommender Systems team in NYC, where I developed a [reinforcement learning approach for fine-tuning text-to-image diffusion models](https://arxiv.org/abs/2503.00897). The previous year in London, I worked on [off-policy learning for two-stage recommendation systems](https://arxiv.org/abs/2506.20854) and mixture-of-experts architectures for video recommendations.
 
 My research interests span machine learning, information retrieval, off-policy methods for ranking and contextual bandits, and reinforcement learning for post-training of foundation models.
 
