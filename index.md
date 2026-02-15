@@ -17,7 +17,7 @@ My research interests span machine learning, information retrieval, off-policy m
 
 Before my PhD, I was a data scientist at Flipkart in India, working on search ranking and query understanding. I earned my research master's degree at IIIT-Hyderabad's Search and Information Extraction Lab, supervised by [Dr. Manish Gupta](https://www.microsoft.com/en-us/research/people/gmanish/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fpeople%2Fgmanish%2F) and [Prof. Vasudeva Varma](https://faculty.iiit.ac.in/~vv/Home.html).
 
-***I’m actively pursuing full-time positions as a Research Scientist, Research Engineer, or Machine Learning Engineer starting ASAP. If my expertise matches your team’s needs, I’d love to connect. My profile: [CV](/resume-final.pdf), [Publications](/publications/), or [Google Scholar profile](https://scholar.google.com/citations?user=UvTcU-IAAAAJ&hl=en).***
+<!-- ***I’m actively pursuing full-time positions as a Research Scientist, Research Engineer, or Machine Learning Engineer starting ASAP. If my expertise matches your team’s needs, I’d love to connect. My profile: [CV](/resume-final.pdf), [Publications](/publications/), or [Google Scholar profile](https://scholar.google.com/citations?user=UvTcU-IAAAAJ&hl=en).*** -->
 
 **Updates**:
 
