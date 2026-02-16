@@ -9,6 +9,7 @@ A comprehensive list of my publications.
 
 <b> Safe, Efficient, and Robust Reinforcement Learning for Ranking and Diffusion Models </b>. PhD thesis, University of Amsterdam. 
 ([pdf](https://dare.uva.nl/search?identifier=669b7ddf-8c57-44c1-917d-9160ae14c04e)).
+<b> PhD thesis abstract published at the [SIGIR Forum December 2025 edition](https://sigir.org/forum/issues/december-2025/). </b>
 
 
 ### Tutorials
