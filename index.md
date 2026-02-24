@@ -31,7 +31,7 @@ Before my PhD, I was a data scientist at Flipkart in India, working on search ra
 
 ## 2025
 
-* [Oct] Successfully defended my [PhD thesis](https://www.arxiv.org/abs/2510.15429) on reinforcement learning for ranking and generative models. Video recording of the defense ceremony [here](https://hva-uva.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=b8af9e41-66b3-44fd-8b9a-b35c008863d7), if you want to listen to leading experts (commitee members) discuss RL/bandits for search/ranking and post-training.
+* [Oct] Successfully defended my [PhD thesis](https://www.arxiv.org/abs/2510.15429) on reinforcement learning for ranking and generative models. Video recording of the defense ceremony [here](https://hva-uva.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=b8af9e41-66b3-44fd-8b9a-b35c008863d7).
 PS: I have not gone through the full recording myself, it's painful to listen to my own voice :) 
 * [Aug] Invited to talk about my work on RL for recommendation and diffusion models at LossFunk Bangalore. The slides are [here](https://docs.google.com/presentation/d/e/2PACX-1vS1s3vKbbAEamG1eUWtAURsjA0uOEF5MlcGgJzooUihP8hRb_ynr5FdFYgBY-SIwVFvp1KwXMCiEKQ8/pub?start=false&loop=false&delayms=30000&slide=id.g31e97ef7f1d_0_0).
 * [June] Research paper from my first internship at Meta, ["Towards Two-Stage Counterfactual Learning to Rank"](https://arxiv.org/pdf/2506.20854) got accepted at ICTIR 2025 (co-located with SIGIR). 
