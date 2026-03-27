@@ -36,7 +36,8 @@ Olivier Jeunen, <b>Shashank Gupta</b> <br>
 
 A Simple and Effective Reinforcement Learning Method for Text-to-Image Diffusion Fine-tuning (<b> Work done during internship at Meta AI </b>) <br>
 <b>Shashank Gupta</b>, Chaitanya Ahuja, Tsung-Yu Lin, Sreya Dutta Roy, Harrie Oosterhuis, Maarten de Rijke, and Satya Narayan Shukla. <br>
-Transactions on Machine Learning Research (TMLR), 2026 [preprint](https://drive.google.com/file/d/1YiSjq8QEnDJmC6K_lN_wBBf7p7m-fvsc/view?usp=sharing).
+Transactions on Machine Learning Research (TMLR), 2026 
+[paper](https://openreview.net/forum?id=i8WJhKn455).
 
 Towards Two-Stage Counterfacutal Learning-to-Rank (<b> Work done during internship at Meta AI </b>) <br>
 <b>Shashank Gupta</b>, Yiming Liao, and Maarten de Rijke <br>
