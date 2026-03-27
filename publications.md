@@ -34,12 +34,12 @@ Additive Control Variates Dominate Self-Normalisation in Off-Policy Evaluation <
 Olivier Jeunen, <b>Shashank Gupta</b> <br>
 [preprint](https://drive.google.com/file/d/1lIduaeJ728N0VVrTSuFu_T2rMuZ-F0F-/view?usp=sharing).
 
-A Simple and Effective Reinforcement Learning Method for Text-to-Image Diffusion Fine-tuning (<b> Work done during an internship at Meta AI </b>) <br>
+A Simple and Effective Reinforcement Learning Method for Text-to-Image Diffusion Fine-tuning (<b> Work done during an internship at Meta </b>) <br>
 <b>Shashank Gupta</b>, Chaitanya Ahuja, Tsung-Yu Lin, Sreya Dutta Roy, Harrie Oosterhuis, Maarten de Rijke, and Satya Narayan Shukla. <br>
 Transactions on Machine Learning Research (TMLR), 2026 
 [paper](https://openreview.net/forum?id=i8WJhKn455).
 
-Towards Two-Stage Counterfacutal Learning-to-Rank (<b> Work done during an internship at Meta AI </b>) <br>
+Towards Two-Stage Counterfacutal Learning-to-Rank (<b> Work done during an internship at Meta </b>) <br>
 <b>Shashank Gupta</b>, Yiming Liao, and Maarten de Rijke <br>
 ICTIR 2025 - Short paper [preprint](https://arxiv.org/pdf/2506.20854).
 
