@@ -23,6 +23,8 @@ Before my PhD, I was a data scientist at Flipkart in India, working on search ra
 
 ## 2026
 
+* [April] Joined Microsoft AI, Ads team in Bangalore as a senior applied scientist.
+* [April] One short paper on the theoretical analysis of our previously proposed $\beta$-IPS (from the [RecSys 2024 paper](https://arxiv.org/abs/2405.05736)) accepted at SIGIR 2026.
 * [March] Paper from my Meta AI internship on [A Simple and Effective Reinforcement Learning Method for Text-to-Image Diffusion Fine-tuning](https://arxiv.org/abs/2503.00897) was accepted at Transactions on Machine Learning Research (TMLR).
 * [Feb] PhD dissertation abstract published in the [December 2025 edition of SIGIR Forum](https://sigir.org/forum/issues/december-2025/).
 * [Jan] Wrapped up a paper where we showed that $\beta$-IPS (a novel estimator we proposed in our [RecSys 2024 paper](https://arxiv.org/abs/2405.05736)) is asymptotically better than the SNIPS estimator in terms of MSE. [preprint](https://drive.google.com/file/d/1frnnclT0VoX7xAC0OLlwfkpWeh-5KW52/view).
