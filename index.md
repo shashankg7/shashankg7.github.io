@@ -23,6 +23,7 @@ Before my PhD, I was a data scientist at Flipkart in India, working on search ra
 
 ## 2026
 
+* [June] Our SIGIR 2026 paper on off-policy evaluation was featured on Microsoft Research's official newsletter, [Microsoft Research Newsletter](https://www.linkedin.com/pulse/microsoft-build-plus-agentic-evaluation-repositories-gam7e/).
 * [April] Joined Microsoft AI, Ads team in Bangalore as a senior applied scientist.
 * [April] One short paper on the theoretical analysis of our previously proposed $\beta$-IPS (from the [RecSys 2024 paper](https://arxiv.org/abs/2405.05736)) accepted at SIGIR 2026.
 * [March] Paper from my Meta AI internship on [A Simple and Effective Reinforcement Learning Method for Text-to-Image Diffusion Fine-tuning](https://arxiv.org/abs/2503.00897) was accepted at Transactions on Machine Learning Research (TMLR).
