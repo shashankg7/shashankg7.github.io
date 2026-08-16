@@ -3,23 +3,85 @@ layout: page
 permalink: /
 ---
 
-Hello, thanks for visiting.
+<section class="hero" aria-labelledby="hero-title">
+  <div class="hero-identity">
+    <h1 id="hero-title">Hello, I’m <span>Shashank.</span></h1>
+    <p class="hero-lead">I’m a Senior Applied Scientist at Microsoft AI. I build machine learning systems that learn safely and effectively from human behavior.</p>
+    <div class="hero-actions">
+      <a href="/publications/">View research <span aria-hidden="true">↗</span></a>
+      <a href="/resume-final.pdf">Read my CV <span aria-hidden="true">↗</span></a>
+    </div>
+  </div>
+  <aside class="hero-profile" aria-label="Current role and research focus">
+    <div class="profile-row"><span>Currently</span><strong>Microsoft AI</strong></div>
+    <div class="profile-row"><span>Based in</span><strong>Bengaluru, India</strong></div>
+    <div class="profile-row"><span>Working on</span><strong>Ranking, recommendation, and reinforcement learning</strong></div>
+  </aside>
+  <div class="research-ticker" aria-label="Research areas: reinforcement learning, recommender systems, off-policy evaluation, learning to rank, and generative models">
+    <div class="research-track" aria-hidden="true">
+      <span>Reinforcement learning</span><i>✦</i><span>Recommender systems</span><i>✦</i><span>Off-policy evaluation</span><i>✦</i><span>Learning to rank</span><i>✦</i><span>Generative models</span><i>✦</i>
+      <span>Reinforcement learning</span><i>✦</i><span>Recommender systems</span><i>✦</i><span>Off-policy evaluation</span><i>✦</i><span>Learning to rank</span><i>✦</i><span>Generative models</span><i>✦</i>
+    </div>
+  </div>
+</section>
 
-I work on training machine learning models to learn from human behavior - specifically, how to improve recommendation and ranking systems by learning from user interactions.
+<section class="intro-section reveal-section" aria-labelledby="about-title">
+  <div>
+    <div class="section-label">About</div>
+    <h2 id="about-title">A little about me.</h2>
+  </div>
+  <div class="intro-copy" markdown="1">
+I am a Senior Applied Scientist at Microsoft AI, working on machine learning for ads. My broader research asks a practical question: how can intelligent systems learn safely and effectively from the people who use them?
 
-I recently completed my PhD at the [Information Retrieval Lab](http://irlab.science.uva.nl) at the University of Amsterdam, supervised by [Prof. Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/) and [Prof. Harrie Oosterhuis](https://harrieo.github.io/). My research focused on off-policy evaluation and learning for ranking and recommendations - methods that [safely](https://arxiv.org/abs/2305.01522) improve ranking systems by learning from logged user interactions.
+I completed my PhD at the [Information Retrieval Lab](http://irlab.science.uva.nl) at the University of Amsterdam, supervised by [Prof. Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/) and [Prof. Harrie Oosterhuis](https://harrieo.github.io/). My thesis focused on off-policy evaluation and learning for ranking and recommendation systems.
 
-For an overview of my work on RL for search/recsys, and my views on it's future, I prepared a slidedeck [here](https://docs.google.com/presentation/d/1vEBxDjbNOnLzq2pt5K7U5YHfdyiAVxxM136KzX5_fm0/edit?usp=sharing). 
+During my PhD, I worked with Meta AI’s Modern Recommender Systems teams in London and New York on [two-stage recommendation](https://arxiv.org/abs/2506.20854) and [reinforcement learning for text-to-image diffusion models](https://arxiv.org/abs/2503.00897). Before that, I built search-ranking and query-understanding systems at Flipkart.
+  </div>
+</section>
 
-During my PhD, I spent time at Meta AI working on some exciting applications of these ideas. In my final year, I joined the Modern Recommender Systems team in NYC, where I developed a [reinforcement learning approach for fine-tuning text-to-image diffusion models](https://arxiv.org/abs/2503.00897). The previous year in London, I worked on [off-policy learning for two-stage recommendation systems](https://arxiv.org/abs/2506.20854) and mixture-of-experts architectures for video recommendations.
+<section class="trajectory-section reveal-section" aria-labelledby="trajectory-title">
+  <div class="trajectory-heading">
+    <h2 id="trajectory-title">Experience</h2>
+  </div>
+  <div class="trajectory-map">
+    <div class="trajectory-label trajectory-label-work">Industry & research</div>
+    <div class="trajectory-label trajectory-label-study">Education</div>
 
-My research interests span machine learning, information retrieval, off-policy methods for ranking and contextual bandits, and reinforcement learning for post-training of foundation models.
+    <article class="trajectory-card trajectory-work" style="--row: 1" data-milestone="msft" tabindex="0">
+      <time>Apr 2026—Now</time><h3>Microsoft AI</h3><p>Senior Applied Scientist<br>Ads · Bengaluru</p>
+    </article>
+    <article class="trajectory-card trajectory-work" style="--row: 2" data-milestone="meta-ny" tabindex="0">
+      <time>Aug—Dec 2024</time><h3>Meta AI · New York</h3><p>Research Scientist Intern<br>RL for diffusion models</p>
+    </article>
+    <article class="trajectory-card trajectory-work" style="--row: 3" data-milestone="meta-lon" tabindex="0">
+      <time>Aug—Dec 2023</time><h3>Meta AI · London</h3><p>Research Scientist Intern<br>Two-stage recommendation</p>
+    </article>
+    <article class="trajectory-card trajectory-work" style="--row: 4" data-milestone="flipkart" tabindex="0">
+      <time>Jul 2018—Jan 2021</time><h3>Flipkart</h3><p>Data Scientist<br>Search ranking & query understanding</p>
+    </article>
+    <article class="trajectory-card trajectory-work" style="--row: 5" data-milestone="xerox" tabindex="0">
+      <time>Jan—May 2018</time><h3>Conduent Labs <small>(erstwhile Xerox Research)</small></h3><p>Research Intern<br>Fake-news detection</p>
+    </article>
+    <article class="trajectory-card trajectory-work" style="--row: 6" data-milestone="trddc" tabindex="0">
+      <time>May—Jul 2017</time><h3>Tata Research Design and Development Center <small>(TRDDC)</small></h3><p>Research Intern<br>Adverse-drug reaction extraction</p>
+    </article>
 
-Before my PhD, I was a data scientist at Flipkart in India, working on search ranking and query understanding. I earned my research master's degree at IIIT-Hyderabad's Search and Information Extraction Lab, supervised by [Dr. Manish Gupta](https://www.microsoft.com/en-us/research/people/gmanish/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fpeople%2Fgmanish%2F) and [Prof. Vasudeva Varma](https://faculty.iiit.ac.in/~vv/Home.html).
+    <canvas class="trajectory-canvas" aria-hidden="true"></canvas>
 
-<!-- ***I’m actively pursuing full-time positions as a Research Scientist, Research Engineer, or Machine Learning Engineer starting ASAP. If my expertise matches your team’s needs, I’d love to connect. My profile: [CV](/resume-final.pdf), [Publications](/publications/), or [Google Scholar profile](https://scholar.google.com/citations?user=UvTcU-IAAAAJ&hl=en).*** -->
+    <article class="trajectory-card trajectory-study" style="--row: 2" data-milestone="uva" tabindex="0">
+      <time>Apr 2021—Oct 2025</time><h3>University of Amsterdam</h3><p>PhD · Information Retrieval<br>Ranking & reinforcement learning</p>
+    </article>
+    <article class="trajectory-card trajectory-study" style="--row: 6" data-milestone="iiit" tabindex="0">
+      <time>Jun 2015—Dec 2017</time><h3>IIIT Hyderabad</h3><p>MS by Research<br>Search & information extraction</p>
+    </article>
+  </div>
+</section>
 
-**Updates**:
+<section class="updates-section reveal-section" aria-labelledby="updates-title" markdown="1">
+<div class="updates-heading">
+  <h2 id="updates-title">Latest updates</h2>
+  <p>Research, talks, and milestones</p>
+</div>
 
 ## 2026
 
@@ -37,6 +99,14 @@ Before my PhD, I was a data scientist at Flipkart in India, working on search ra
 * [Aug] Invited to talk about my work on RL for recommendation and diffusion models at LossFunk, Bangalore. The slides are available [here](https://docs.google.com/presentation/d/e/2PACX-1vS1s3vKbbAEamG1eUWtAURsjA0uOEF5MlcGgJzooUihP8hRb_ynr5FdFYgBY-SIwVFvp1KwXMCiEKQ8/pub?start=false&loop=false&delayms=30000&slide=id.g31e97ef7f1d_0_0).
 * [June] Research paper from my first internship at Meta, ["Towards Two-Stage Counterfactual Learning to Rank"](https://arxiv.org/pdf/2506.20854), was accepted at ICTIR 2025 (co-located with SIGIR).
 * [March] The preprint of my work from the internship at Meta AI, NYC, ["A Simple and Effective Reinforcement Learning Method for Text-to-Image Diffusion Fine-tuning"](https://drive.google.com/file/d/1FGZnhcmSdoEDJrR8X6hU7iS-zJXS5sdK/view?usp=sharing) is now available.
+
+<details class="updates-archive">
+<summary>
+  <span class="archive-label">Earlier updates</span>
+  <span class="archive-years">2017—2024</span>
+  <span class="archive-toggle" aria-hidden="true"></span>
+</summary>
+<div class="archive-content" markdown="1">
 
 ## 2024
 
@@ -102,8 +172,7 @@ Before my PhD, I was a data scientist at Flipkart in India, working on search ra
 * [Feb 2017] Poster paper accepted at WWW'17.
 * [Feb 2017] Workshop paper accepted at WWW'17.
 
-<br/>
+</div>
+</details>
 
-
-
-<small>This website uses [Jekyll](http://jekyllrb.com). The theme is derived from [John Otander](http://johnotander.com/)'s Pixyll.<br/>Hosted on [Github Pages](https://pages.github.com/).</small>
+</section>

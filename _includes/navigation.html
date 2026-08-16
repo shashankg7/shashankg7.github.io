@@ -1,6 +1,4 @@
-<a href="{{ site.baseurl }}/resume-final.pdf">CV</a>
-<a href="{{ site.baseurl }}/publications/">Publications</a>
-<a href="{{ site.baseurl }}/talks/">Talks</a>
-<a href="{{ site.baseurl }}/contact/">Contact</a>
-<a href="{{ site.baseurl }}/Others/">Others</a>
-
+<a href="{{ site.baseurl }}/publications/"{% if page.url == '/publications/' %} class="is-active" aria-current="page"{% endif %}>Publications</a>
+<a href="{{ site.baseurl }}/talks/"{% if page.url == '/talks/' %} class="is-active" aria-current="page"{% endif %}>Talks</a>
+<a href="{{ site.baseurl }}/resume-final.pdf">CV <span aria-hidden="true">↗</span></a>
+<a href="{{ site.baseurl }}/contact/" class="nav-contact{% if page.url == '/contact/' %} is-active{% endif %}"{% if page.url == '/contact/' %} aria-current="page"{% endif %}>Get in touch</a>

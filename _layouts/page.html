@@ -2,9 +2,12 @@
 layout: default
 ---
 <div class="post">
+  {% if page.title %}
   <header class="post-header">
+    {% if page.kicker %}<span class="page-kicker">{{ page.kicker }}</span>{% endif %}
     <h1 class="h2">{{ page.title }}</h1>
   </header>
+  {% endif %}
   <article class="post-content">
   {{ content }}
   </article>

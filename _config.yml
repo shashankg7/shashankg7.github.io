@@ -2,9 +2,9 @@
 title:       Dr. Shashank Gupta
 email:       27392shashankgupta@gmail.com       
 author:      Dr. Shashank Gupta
-description: "Personal page of Dr. Shashank Gupta."
+description: "Dr. Shashank Gupta is a Senior Applied Scientist researching reinforcement learning, recommender systems, and learning from human interaction."
 baseurl:     ""
-url:         ""
+url:         "https://shashankg7.github.io"
 timezone: 	 Asia/Calcutta
 
 # Google analytics

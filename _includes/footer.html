@@ -1,8 +1,13 @@
-<footer class="center">
-  <div class="measure">
-    <small>
-      Theme crafted with &lt;3 by <a href="http://johnotander.com">John Otander</a> (<a href="https://twitter.com/4lpine">@4lpine</a>).<br>
-      &lt;/&gt; available on <a href="https://github.com/johnotander/pixyll">Github</a>.
-    </small>
+<footer class="site-footer px2 px-responsive">
+  <div class="footer-inner wrap">
+    <div>
+      <a href="{{ '/' | prepend: site.baseurl }}" class="footer-name">Dr. Shashank Gupta</a>
+      <p>Machine learning · Recommender systems · Reinforcement learning</p>
+    </div>
+    <div class="footer-links" aria-label="Social links">
+      <a href="https://github.com/{{ site.github_username }}">GitHub</a>
+      <a href="https://twitter.com/{{ site.twitter_username }}">X / Twitter</a>
+      <a href="mailto:{{ site.email }}">Email</a>
+    </div>
   </div>
 </footer>

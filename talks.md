@@ -1,16 +1,20 @@
 ---
 layout: page
 permalink: /talks/
+title: Talks & teaching
+kicker: Speaking
 ---
 
+<p class="page-deck">Tutorials, invited talks, and lectures on learning from interaction.</p>
+
 Reinforcement learning for search/recommendations: past and the future <br>
-<b>Invited talk @Ebay, San Jose (remotely) </b> ([slides](https://docs.google.com/presentation/d/1vEBxDjbNOnLzq2pt5K7U5YHfdyiAVxxM136KzX5_fm0/edit?usp=sharing))
+<b>Invited talk @eBay, San Jose (remotely) </b> ([slides](https://docs.google.com/presentation/d/1vEBxDjbNOnLzq2pt5K7U5YHfdyiAVxxM136KzX5_fm0/edit?usp=sharing))
 
 Fundamentals of Reinforcement Learning for search/ranking and post-training foundational models <br>
 <b>Invited talk @LossFunk, Bangalore </b> ([slides](https://docs.google.com/presentation/d/1FgtISJSMAcuntLOEnDqRhBMfqJz5MP7LxZq-U81I1AA/edit?usp=sharing))
 
 Unbiased Learning to Rank: On Recent Advances and Practical Applications <br>
-<b>WSDM 2024 Tutorial </b> ([website]([https://www.youtube.com/watch?v=dwl5oBHsHlk](https://sites.google.com/view/wsdm-2024-tutorial-ultr/)).
+<b>WSDM 2024 Tutorial </b> ([website](https://sites.google.com/view/wsdm-2024-tutorial-ultr/), [video](https://www.youtube.com/watch?v=dwl5oBHsHlk)).
 
 Learning from User Interaction: An Off-policy Contextual Bandits Perspective <br>
 <b>RecSys Course 2024, UvA, Lecture Presentation </b>.
@@ -29,7 +33,6 @@ Safe Deployment for Counterfactual Learning to Rank with Exposure-Based Risk Min
 
 VAE-IPS: Deep Generative Model for Unbiased Recommendation <br>
 <b>Oral presentation at CONSEQUENCES@RecSys 2022 ([video starts at 2:49:20](https://www.youtube.com/watch?v=N-nn1500Q-g)). </b>.
-
 
 
 

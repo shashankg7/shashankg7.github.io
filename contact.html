@@ -6,9 +6,11 @@ permalink: /contact/
 
 <div class="py2">
   <form action="https://getsimpleform.com/messages?form_api_token=9dcc80ad88cfda5d03e879feaa1eb5db" method="POST" class="form-stacked">
-    <input type='hidden' name='redirect_to' value='{{ site.url |}}/thankyou/' />
-    <input type="text" name="email" class="field-light" placeholder="Email Address">
-    <textarea type="text" name="content" class="field-light" rows="5" placeholder="What would you like to say?"></textarea>
+    <input type="hidden" name="redirect_to" value="{{ site.url }}/thankyou/" />
+    <label for="contact-email">Email address</label>
+    <input id="contact-email" type="email" name="email" class="field-light" placeholder="you@example.com" autocomplete="email" required>
+    <label for="contact-message">Message</label>
+    <textarea id="contact-message" name="content" class="field-light" rows="6" placeholder="What would you like to say?" required></textarea>
     <input type="submit" class="button button-blue button-big mobile-block" value="Say Hello">
   </form>
 </div>

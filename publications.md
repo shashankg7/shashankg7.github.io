@@ -1,9 +1,11 @@
 ---
 layout: page
 permalink: /publications/
+title: Research
+kicker: Publications & papers
 ---
 
-A comprehensive list of my publications. 
+<p class="page-deck">A comprehensive record of my work on reinforcement learning, ranking, recommendation, and generative models.</p>
 
 ### PhD Thesis
 
@@ -161,6 +163,5 @@ SERecSys at ICDM 2017 ([paper](https://drive.google.com/open?id=0B-7peEFiNjnUNVp
 Pharmacovigilance from Social Media using Limited Labelled Data <br>
 Shashank Gupta <br>
 MS By Research thesis presentation ([slides](https://docs.google.com/presentation/d/e/2PACX-1vTN0FDiDJsy5cdVeAoZVj2ai2x-8zvDPbkR4JygE7XdCxBoDeIgr73vSHuhXRVeKh9jjiIvzwTXgBo4/pub?start=false&loop=false&delayms=60000))
-
 
 

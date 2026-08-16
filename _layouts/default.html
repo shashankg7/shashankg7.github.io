@@ -1,15 +1,18 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 {% include head.html %}
-<body class="site{% if site.animated %} animated fade-in-down{% endif %}">
+<body class="site{% if page.url == '/' %} home-page{% endif %}{% if page.url == '/publications/' %} publications-page{% endif %}{% if page.url == '/talks/' %} talks-page{% endif %}{% if site.animated %} animated fade-in-down{% endif %}">
+  <a class="skip-link" href="#main-content">Skip to content</a>
   <div class="site-wrap">
     {% include header.html %}
 
-    <div class="post p2 p-responsive wrap" role="main">
-      <div class="measure">
+    <main id="main-content" class="post p2 p-responsive wrap" role="main">
+      <div class="measure{% if page.url == '/' %} home-measure{% endif %}">
         {{ content }}
       </div>
-    </div>
+    </main>
+    {% include footer.html %}
   </div>
+  <script src="{{ '/js/site.js' | prepend: site.baseurl }}" defer></script>
 </body>
 </html>
