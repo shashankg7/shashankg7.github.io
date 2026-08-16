@@ -12,8 +12,6 @@ kicker: Publications & papers
 <b> Safe, Efficient, and Robust Reinforcement Learning for Ranking and Diffusion Models </b>. PhD thesis, University of Amsterdam. 
 ([pdf](https://dare.uva.nl/search?identifier=669b7ddf-8c57-44c1-917d-9160ae14c04e)).
 
-An abstract of the PhD thesis was published in the [December 2025 edition of the SIGIR Forum](https://sigir.org/wp-content/uploads/2026/02/p22.pdf). 
-
 
 ### Tutorials
 
@@ -32,6 +30,12 @@ FIRE 2023 - Tutorial ([website, slides](https://sites.google.com/view/fire-2023-
 
 ### Publications
 
+<nav class="publication-years" aria-label="Publication years">
+  <a href="#year-2026">2026</a><a href="#year-2025">2025</a><a href="#year-2024">2024</a><a href="#year-2023">2023</a><a href="#year-2021">2021</a><a href="#year-2020">2020</a><a href="#year-2018">2018</a><a href="#year-2017">2017</a>
+</nav>
+
+<h4 id="year-2026">2026</h4>
+
 Additive Control Variates Dominate Self-Normalisation in Off-Policy Evaluation <br>
 Olivier Jeunen, <b>Shashank Gupta</b> <br>
 SIGIR 2026 [preprint](https://drive.google.com/file/d/1lIduaeJ728N0VVrTSuFu_T2rMuZ-F0F-/view?usp=sharing).
@@ -41,9 +45,17 @@ A Simple and Effective Reinforcement Learning Method for Text-to-Image Diffusion
 Transactions on Machine Learning Research (TMLR), 2026 
 [paper](https://openreview.net/forum?id=i8WJhKn455).
 
+<h4 id="year-2025">2025</h4>
+
+Safe, Efficient, and Robust Reinforcement Learning for Ranking and Diffusion Models <br>
+<b>Shashank Gupta</b> <br>
+ACM SIGIR Forum, Volume 59, No. 2, December 2025 — Dissertation abstract ([abstract](https://sigir.org/wp-content/uploads/2026/02/p22.pdf)).
+
 Towards Two-Stage Counterfacutal Learning-to-Rank (<b> Work done during an internship at Meta AI </b>) <br>
 <b>Shashank Gupta</b>, Yiming Liao, and Maarten de Rijke <br>
 ICTIR 2025 - Short paper [preprint](https://arxiv.org/pdf/2506.20854).
+
+<h4 id="year-2024">2024</h4>
 
 Practical and Robust Safety Guarantees for Advanced Counterfactual Learning to Rank <br>
 <b>Shashank Gupta</b>, Harrie Oosterhuis, and Maarten de Rijke <br>
@@ -61,6 +73,8 @@ A Simpler Alternative to Variational Regularized Counterfactual Risk Minimizatio
 Hua Chang Bakker, <b>Shashank Gupta</b>, and Harrie Oosterhuis <br>
 CONSEQUENCES @RecSys 2024 - Poster presentation ([preprint](https://arxiv.org/abs/2409.09819), [poster](https://drive.google.com/file/d/1VG_o4LBYLgq9nKJVcJoUaPRe54UPhDOr/view?usp=drive_link)).
 
+<h4 id="year-2023">2023</h4>
+
 Safe Deployment for Counterfactual Learning to Rank with Exposure-Based Risk Minimization <br>
 <b>Shashank Gupta</b>, Harrie Oosterhuis, and Maarten de Rijke <br>
 SIGIR 2023 - Full paper ([paper](https://drive.google.com/file/d/1GL285QRF44r-G4la0OaIl6IZs73w5aop/view), [poster](https://drive.google.com/file/d/1xhzLB68AzyG-PZcTdxOkyRnIhiVAQhyw/view?usp=sharing), [slides](https://docs.google.com/presentation/d/e/2PACX-1vRWezrXibGt6KpP7DvOazUIHsBs4N904Q7QLC86ynCuOYru_qmNctgwwvAcjnv7wFNDKV3nv10s6JOk/pub?start=false&loop=false&delayms=60000), [video](https://www.youtube.com/watch?v=xlsmhOtwFUc)), CONSEQUENCES@RecSys 2023, DIR 2023.
@@ -73,13 +87,16 @@ A First Look at Selection Bias in Preference Elicitation for Recommendation <br>
 <b>Shashank Gupta</b>, Harrie Oosterhuis, and Maarten de Rijke <br>
 CONSEQUENCES@RecSys 2023 ([paper](https://drive.google.com/file/d/1hRzuTyhjgG7567RuICK9lC2A4apAZJ-j/view?usp=drive_link), [code](https://github.com/shashankg7/Bias-Preference-Elicitation)). 
 
-The University of Amsterdam at the TREC 2021 Fair Ranking Track <br>
-Ali Vardasbi, Gabriel Bénédict, <b>Shashank Gupta</b>, Maria Heuss, Pooya Khandel, Ming Li, Fatemeh Sarvi, TREC Fair Ranking Trec 21 <br> ([paper](https://trec.nist.gov/pubs/trec30/papers/IRLab-Amsterdam-F.pdf)).
-
-
 Neural Bag-of-Words Point Process Model for User Return Time Prediction in E-commerce <br>
 <b>Shashank Gupta</b>, Manish Bansal <br>
 CRUM Workshop at UMAP 2023 ([paper](https://drive.google.com/file/d/1PQ7JptTuBdtjhtBCrONt2YV-jkxz1z-5/view?usp=sharing), [slides](https://drive.google.com/file/d/1QtzDoKkHgpB-vxhgbfxTThtOXu0jrypY/view?usp=drive_link)).
+
+<h4 id="year-2021">2021</h4>
+
+The University of Amsterdam at the TREC 2021 Fair Ranking Track <br>
+Ali Vardasbi, Gabriel Bénédict, <b>Shashank Gupta</b>, Maria Heuss, Pooya Khandel, Ming Li, Fatemeh Sarvi, TREC Fair Ranking Trec 21 <br> ([paper](https://trec.nist.gov/pubs/trec30/papers/IRLab-Amsterdam-F.pdf)).
+
+<h4 id="year-2020">2020</h4>
 
 On Application of Bayesian Parametric and Non-parametric Models for User Cohorting in Product Search <br>
 <b>Shashank Gupta</b> <br>
@@ -88,6 +105,8 @@ ECNLP@ACL'20, Position paper.
 Session Length Prediction for Product Search on E-commerce Platform <br>
 <b>Shashank Gupta</b>, Subhadeep Maji <br>
 SIGIR 2020, Short Paper. ([Link](https://iiitaphyd-my.sharepoint.com/:b:/g/personal/shashank_gupta_alumni_iiit_ac_in/EXNmsfIV9MlGjSLdfpYrnmABpcHAhHjvwWC08WPLEmwnqQ?e=E0CLGF))
+
+<h4 id="year-2018">2018</h4>
 
 RARE : A Recurrent Attentive Recommendation Engine for News Aggregators <br>
 Dhruv Khattar, Vaibhav Kumar, <b>Shashank Gupta</b>, Manish Gupta and Vasudeva Varma <br>
@@ -109,13 +128,15 @@ Multi-task Learning for Extraction of Adverse Drug Reaction Mentions from Social
 <b>Shashank Gupta</b>, Manish Gupta, Vasudeva Varma, Sachin Pawar, Nitin Ramrakhiyani and Girish K Palshikar <br>
 ECIR 2018 ([paper](https://drive.google.com/file/d/120_y21rCPzQ6epV9YmAflmEuFw91Db5s/view?usp=sharing), [slides](https://drive.google.com/file/d/1562E7GBNonbjn8PB3Dc3cmoo0ScrFS5m/view?usp=sharing))
 
-Multi-task Learning for Extraction of Adverse Drug Reaction Mentions from Social Media. <br>
-<b>Shashank Gupta</b>, Manish Gupta, Vasudeva Varma, Sachin Pawar, Nitin Ramrakhiyani and Girish K Palshikar <br>
-NIPS 2017 Machine Learning for Health (ML4H) [poster](https://drive.google.com/file/d/1IXywppgZUpr0rEzbUWVXZovQ1sod8jux/view?usp=sharing)
-
 Co-training for Extraction of Adverse Drug Reaction Mentions from Social Media. <br>
 <b>Shashank Gupta</b>, Manish Gupta, Vasudeva Varma, Sachin Pawar, Nitin Ramrakhiyani and Girish K Palshikar <br>
 ECIR 2018 ([paper](https://drive.google.com/file/d/1h2uzjKL2_QKin6hRDoAVgDEBrLMgEt8v/view?usp=sharing), [slides](https://drive.google.com/file/d/1ysPD9aBsY-KMSOudSTOF8dHRwJGdC1AB/view?usp=sharing))
+
+<h4 id="year-2017">2017</h4>
+
+Multi-task Learning for Extraction of Adverse Drug Reaction Mentions from Social Media. <br>
+<b>Shashank Gupta</b>, Manish Gupta, Vasudeva Varma, Sachin Pawar, Nitin Ramrakhiyani and Girish K Palshikar <br>
+NIPS 2017 Machine Learning for Health (ML4H) [poster](https://drive.google.com/file/d/1IXywppgZUpr0rEzbUWVXZovQ1sod8jux/view?usp=sharing)
 
 Co-training for Extraction of Adverse Drug Reaction Mentions from Social Media. <br>
 <b>Shashank Gupta</b>, Manish Gupta, Vasudeva Varma, Sachin Pawar, Nitin Ramrakhiyani and Girish K Palshikar <br>
@@ -163,5 +184,3 @@ SERecSys at ICDM 2017 ([paper](https://drive.google.com/open?id=0B-7peEFiNjnUNVp
 Pharmacovigilance from Social Media using Limited Labelled Data <br>
 Shashank Gupta <br>
 MS By Research thesis presentation ([slides](https://docs.google.com/presentation/d/e/2PACX-1vTN0FDiDJsy5cdVeAoZVj2ai2x-8zvDPbkR4JygE7XdCxBoDeIgr73vSHuhXRVeKh9jjiIvzwTXgBo4/pub?start=false&loop=false&delayms=60000))
-
-

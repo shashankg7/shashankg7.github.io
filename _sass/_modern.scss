@@ -1063,6 +1063,62 @@ body:not(.home-page) .post-content > .page-deck:hover {
   letter-spacing: .06em;
 }
 
+.publication-years {
+  display: flex;
+  gap: .45rem;
+  margin: 1.25rem 0 2.5rem;
+  overflow-x: auto;
+  padding: .15rem 0 .65rem;
+  scrollbar-width: thin;
+}
+
+.publication-years a {
+  border: 1px solid #303b5c;
+  border-radius: 999px;
+  color: #919bb8;
+  flex: 0 0 auto;
+  font-family: var(--mono);
+  font-size: .58rem;
+  letter-spacing: .06em;
+  padding: .45rem .7rem;
+  text-decoration: none;
+  transition: background .2s ease, border-color .2s ease, color .2s ease, transform .2s ease;
+}
+
+.publication-years a:hover,
+.publication-years a:focus-visible {
+  background: rgba(154, 167, 255, .1);
+  border-color: var(--periwinkle);
+  color: var(--text);
+  transform: translateY(-2px);
+}
+
+.publications-page .post-content > h4 {
+  align-items: center;
+  color: var(--text);
+  display: flex;
+  font-family: var(--mono);
+  font-size: clamp(1.5rem, 3vw, 2.25rem);
+  font-weight: 400;
+  gap: 1rem;
+  letter-spacing: -.04em;
+  margin: 3.75rem 0 .35rem;
+  scroll-margin-top: 8.5rem;
+}
+
+.publications-page .post-content > h4::before {
+  color: var(--coral);
+  content: '/';
+  font-size: .72em;
+}
+
+.publications-page .post-content > h4::after {
+  background: linear-gradient(90deg, #35405f, transparent);
+  content: '';
+  flex: 1;
+  height: 1px;
+}
+
 .publications-page .post-content > p:not(.page-deck) {
   --item-x: 50%;
   --item-y: 50%;
