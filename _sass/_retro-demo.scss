@@ -94,22 +94,8 @@
   font-family: var(--mono);
   font-size: .88rem;
   font-weight: 700;
-  gap: .65rem;
   letter-spacing: .02em;
   text-transform: uppercase;
-}
-
-.retro-demo .site-mark {
-  background: var(--acid);
-  border: 2px solid var(--paper-bright);
-  color: var(--ink);
-  font-size: .63rem;
-  padding: .24rem .42rem;
-}
-
-.retro-demo .site-mark::before,
-.retro-demo .site-mark::after {
-  content: none;
 }
 
 .retro-demo .site-header nav a,
@@ -195,7 +181,7 @@
   background: var(--violet);
   border-bottom: 3px solid var(--ink);
   color: white;
-  content: 'profile.readme';
+  content: 'Introduction';
   display: flex;
   font-family: var(--mono);
   font-size: .64rem;
@@ -229,15 +215,15 @@
 
 .retro-demo .hero-profile::before {
   background: var(--coral);
-  content: 'status.log';
+  content: 'At a glance';
 }
 
 .retro-demo .hero h1 {
   color: var(--ink);
-  font-size: clamp(4.4rem, 9.5vw, 8.8rem);
-  line-height: .78;
+  font-size: clamp(4rem, 7vw, 6.65rem);
+  line-height: .82;
   margin: 0 0 2.2rem;
-  max-width: 8ch;
+  max-width: 100%;
   text-shadow: 5px 5px 0 var(--violet-soft);
   text-transform: uppercase;
 }
