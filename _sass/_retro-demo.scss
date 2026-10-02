@@ -420,13 +420,14 @@
   background: rgba(255, 253, 247, .88);
   border: 3px solid var(--ink);
   box-shadow: var(--hard-shadow);
+  gap: 0 clamp(1.25rem, 3vw, 3rem);
   padding: 4.3rem 1.25rem 1.25rem;
 }
 
 .retro-demo .trajectory-map::before {
   background: var(--violet);
   border-bottom: 3px solid var(--ink);
-  content: 'experience.timeline';
+  content: '';
   height: 2.3rem;
   inset: 0 0 auto;
   position: absolute;
@@ -438,12 +439,22 @@
   top: .65rem;
 }
 
+.retro-demo .trajectory-label-work {
+  left: 1rem;
+}
+
+.retro-demo .trajectory-label-study {
+  right: 1rem;
+}
+
 .retro-demo .trajectory-card {
   background: var(--paper-bright);
   border: 2px solid var(--ink);
   border-radius: 0;
   box-shadow: 3px 3px 0 var(--ink);
+  max-width: none;
   padding: .85rem .95rem;
+  width: calc(100% - 3.5rem);
 }
 
 .retro-demo .trajectory-card:hover,
@@ -844,16 +855,21 @@
   }
 
   .retro-demo .trajectory-map {
+    gap: 0 .75rem;
     padding-left: .45rem;
     padding-right: .45rem;
   }
 
   .retro-demo .trajectory-label-work {
-    left: 1.4rem;
+    left: .65rem;
   }
 
   .retro-demo .trajectory-label-study {
-    right: 1.4rem;
+    right: .65rem;
+  }
+
+  .retro-demo .trajectory-card {
+    width: calc(100% - 1.5rem);
   }
 
   .retro-demo.publications-page .post-content > p:not(.page-deck),
