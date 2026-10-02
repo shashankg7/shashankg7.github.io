@@ -169,7 +169,7 @@
 
         threadContext.beginPath();
         threadContext.arc(point.x, point.y, active ? 6 : 4.5, 0, Math.PI * 2);
-        threadContext.fillStyle = '#080b12';
+        threadContext.fillStyle = '#f7f3e8';
         threadContext.strokeStyle = color;
         threadContext.lineWidth = active ? 3 : 2;
         threadContext.shadowColor = active ? color : 'transparent';
@@ -190,8 +190,8 @@
       var studyX = compact ? threadWidth - 12 : threadWidth - 18;
       var workPoints = milestonePoints('.trajectory-work', workX, time, compact);
       var studyPoints = milestonePoints('.trajectory-study', studyX, time + 700, compact);
-      drawTrack(workPoints, 'rgba(255, 115, 92, 1)', workX);
-      drawTrack(studyPoints, 'rgba(154, 167, 255, 1)', studyX);
+      drawTrack(workPoints, 'rgba(98, 70, 234, 1)', workX);
+      drawTrack(studyPoints, 'rgba(255, 107, 74, 1)', studyX);
       if (!reduceThreadMotion) window.requestAnimationFrame(drawThreads);
     }
 
