@@ -420,13 +420,15 @@
   background: rgba(255, 253, 247, .88);
   border: 3px solid var(--ink);
   box-shadow: var(--hard-shadow);
+  gap: 0 clamp(2rem, 5vw, 4.5rem);
+  grid-template-rows: repeat(6, minmax(7.4rem, auto));
   padding: 4.3rem 1.25rem 1.25rem;
 }
 
 .retro-demo .trajectory-map::before {
   background: var(--violet);
   border-bottom: 3px solid var(--ink);
-  content: 'experience.timeline';
+  content: '';
   height: 2.3rem;
   inset: 0 0 auto;
   position: absolute;
@@ -438,12 +440,41 @@
   top: .65rem;
 }
 
+.retro-demo .trajectory-label-work {
+  left: 1rem;
+}
+
+.retro-demo .trajectory-label-study {
+  right: 1rem;
+}
+
 .retro-demo .trajectory-card {
+  --card-shift-x: 0px;
+  --card-shift-y: 0px;
+  --card-tilt: 0deg;
   background: var(--paper-bright);
   border: 2px solid var(--ink);
   border-radius: 0;
   box-shadow: 3px 3px 0 var(--ink);
+  max-width: 24rem;
   padding: .85rem .95rem;
+  transform: translate3d(var(--card-shift-x), var(--card-shift-y), 0) rotate(var(--card-tilt));
+  transition: background .2s ease, border-color .2s ease, box-shadow .2s ease;
+  width: calc(100% - 3.25rem);
+}
+
+.retro-demo .trajectory-work {
+  justify-self: end;
+  margin-left: 0;
+  margin-right: 3.25rem;
+  text-align: right;
+}
+
+.retro-demo .trajectory-study {
+  justify-self: start;
+  margin-left: 3.25rem;
+  margin-right: 0;
+  text-align: left;
 }
 
 .retro-demo .trajectory-card:hover,
@@ -451,7 +482,7 @@
   background: var(--acid);
   border-color: var(--ink);
   box-shadow: 1px 1px 0 var(--ink);
-  transform: translate(2px, 2px);
+  transform: translate3d(calc(var(--card-shift-x) + 2px), calc(var(--card-shift-y) + 2px), 0) rotate(var(--card-tilt));
 }
 
 .retro-demo .trajectory-card h3 {
@@ -844,16 +875,29 @@
   }
 
   .retro-demo .trajectory-map {
+    gap: 0 1rem;
     padding-left: .45rem;
     padding-right: .45rem;
   }
 
   .retro-demo .trajectory-label-work {
-    left: 1.4rem;
+    left: .65rem;
   }
 
   .retro-demo .trajectory-label-study {
-    right: 1.4rem;
+    right: .65rem;
+  }
+
+  .retro-demo .trajectory-card {
+    width: calc(100% - 1.25rem);
+  }
+
+  .retro-demo .trajectory-work {
+    margin-right: 1.25rem;
+  }
+
+  .retro-demo .trajectory-study {
+    margin-left: 1.25rem;
   }
 
   .retro-demo.publications-page .post-content > p:not(.page-deck),

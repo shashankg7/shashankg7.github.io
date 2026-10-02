@@ -58,6 +58,8 @@
 
   if (trajectory && threadCanvas) {
     var threadContext = threadCanvas.getContext('2d');
+    var retroTimeline = document.body.classList.contains('retro-demo');
+    var trajectoryCards = Array.prototype.slice.call(trajectory.querySelectorAll('[data-milestone]'));
     var activeMilestone = '';
     var threadWidth = 0;
     var threadHeight = 0;
@@ -99,7 +101,8 @@
           x: baseX + drift,
           y: cardBounds.top - mapBounds.top + cardBounds.height / 2,
           anchorX: selector.indexOf('work') > -1 ?
-            cardBounds.left - mapBounds.left : cardBounds.right - mapBounds.left
+            (retroTimeline ? cardBounds.right : cardBounds.left) - mapBounds.left :
+            (retroTimeline ? cardBounds.left : cardBounds.right) - mapBounds.left
         };
 
         if (threadPointer.strength > .001) {
@@ -180,14 +183,34 @@
       });
     }
 
+    function moveCardsWithPointer() {
+      if (!retroTimeline || reduceThreadMotion) return;
+      var mapBounds = trajectory.getBoundingClientRect();
+
+      trajectoryCards.forEach(function (card) {
+        var cardBounds = card.getBoundingClientRect();
+        var centerX = cardBounds.left - mapBounds.left + cardBounds.width / 2;
+        var centerY = cardBounds.top - mapBounds.top + cardBounds.height / 2;
+        var distanceY = centerY - threadPointer.y;
+        var influence = Math.exp(-(distanceY * distanceY) / 72000) * threadPointer.strength;
+        var shiftX = clamp((threadPointer.x - centerX) * .035, -11, 11) * influence;
+        var shiftY = clamp((threadPointer.y - centerY) * .022, -7, 7) * influence;
+        var tilt = clamp((threadPointer.x - centerX) * .0025, -1.1, 1.1) * influence;
+        card.style.setProperty('--card-shift-x', shiftX.toFixed(2) + 'px');
+        card.style.setProperty('--card-shift-y', shiftY.toFixed(2) + 'px');
+        card.style.setProperty('--card-tilt', tilt.toFixed(2) + 'deg');
+      });
+    }
+
     function drawThreads(time) {
       threadPointer.x += (threadPointer.targetX - threadPointer.x) * .09;
       threadPointer.y += (threadPointer.targetY - threadPointer.y) * .09;
       threadPointer.strength += (threadPointer.targetStrength - threadPointer.strength) * .075;
+      moveCardsWithPointer();
       threadContext.clearRect(0, 0, threadWidth, threadHeight);
       var compact = window.innerWidth <= 928;
-      var workX = compact ? 12 : 18;
-      var studyX = compact ? threadWidth - 12 : threadWidth - 18;
+      var workX = retroTimeline ? threadWidth * (compact ? .46 : .44) : (compact ? 12 : 18);
+      var studyX = retroTimeline ? threadWidth * (compact ? .54 : .56) : (compact ? threadWidth - 12 : threadWidth - 18);
       var workPoints = milestonePoints('.trajectory-work', workX, time, compact);
       var studyPoints = milestonePoints('.trajectory-study', studyX, time + 700, compact);
       drawTrack(workPoints, 'rgba(98, 70, 234, 1)', workX);
@@ -213,7 +236,7 @@
       });
     }
 
-    trajectory.querySelectorAll('[data-milestone]').forEach(function (card) {
+    trajectoryCards.forEach(function (card) {
       function activate() { activeMilestone = card.getAttribute('data-milestone'); if (reduceThreadMotion) drawThreads(0); }
       function deactivate() { activeMilestone = ''; if (reduceThreadMotion) drawThreads(0); }
       card.addEventListener('pointerenter', activate);
