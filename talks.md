@@ -7,6 +7,9 @@ kicker: Speaking
 
 <p class="page-deck">Tutorials, invited talks, and lectures on learning from interaction.</p>
 
+RL for Personalization and Post-training Diffusion Models <br>
+<b>Invited talk at Nykaa, Bangalore </b> ([slides](https://docs.google.com/presentation/d/1_kA6kpCPpwe9Egr5Ai0CpCijx4SlQCKc9lu9BxkIwow/edit?usp=sharing))
+
 Reinforcement learning for search/recommendations: past and the future <br>
 <b>Invited talk @eBay, San Jose (remotely) </b> ([slides](https://docs.google.com/presentation/d/1vEBxDjbNOnLzq2pt5K7U5YHfdyiAVxxM136KzX5_fm0/edit?usp=sharing))
 
@@ -33,7 +36,6 @@ Safe Deployment for Counterfactual Learning to Rank with Exposure-Based Risk Min
 
 VAE-IPS: Deep Generative Model for Unbiased Recommendation <br>
 <b>Oral presentation at CONSEQUENCES@RecSys 2022 ([video starts at 2:49:20](https://www.youtube.com/watch?v=N-nn1500Q-g)). </b>.
-
 
 
 
