@@ -88,18 +88,19 @@
     }
 
     function milestonePoints(selector, baseX, time, compact) {
-      var mapBounds = trajectory.getBoundingClientRect();
       return Array.prototype.map.call(trajectory.querySelectorAll(selector), function (card, index) {
-        var cardBounds = card.getBoundingClientRect();
+        // Use layout coordinates so a card's sway cannot feed back into itself.
+        var cardLeft = card.offsetLeft;
+        var cardTop = card.offsetTop;
         var driftAmount = compact ? 2.5 : 8;
         var drift = reduceThreadMotion ? 0 : Math.sin(time / 1500 + index * 1.7) * driftAmount;
         var point = {
           card: card,
           key: card.getAttribute('data-milestone'),
           x: baseX + drift,
-          y: cardBounds.top - mapBounds.top + cardBounds.height / 2,
+          y: cardTop + card.offsetHeight / 2,
           anchorX: selector.indexOf('work') > -1 ?
-            cardBounds.left - mapBounds.left : cardBounds.right - mapBounds.left
+            cardLeft : cardLeft + card.offsetWidth
         };
 
         if (threadPointer.strength > .001) {
@@ -108,6 +109,16 @@
           point.x += clamp((threadPointer.x - baseX) * .16, -56, 56) * influence;
         }
 
+        var moving = finePointer && !reduceThreadMotion;
+        var limit = window.innerWidth <= 672 ? 3 : 8;
+        var shiftX = moving ? clamp((point.x - baseX) * .3, -limit, limit) : 0;
+        var shiftY = moving ? Math.sin(time / 1900 + index * 1.7) * 1.2 : 0;
+        card.style.setProperty('--card-shift-x', shiftX.toFixed(2) + 'px');
+        card.style.setProperty('--card-shift-y', shiftY.toFixed(2) + 'px');
+        card.style.setProperty('--card-rotate', (shiftX * .04).toFixed(3) + 'deg');
+        var hoverShift = card.matches(':hover, :focus-visible') ? 2 : 0;
+        point.anchorX += shiftX + hoverShift;
+        point.y += shiftY + hoverShift;
         return point;
       });
     }
