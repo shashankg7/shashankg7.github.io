@@ -31,7 +31,7 @@ permalink: /
     <h2 id="about-title">A little about me.</h2>
   </div>
   <div class="intro-copy" markdown="1">
-I am a Senior Applied Scientist at Microsoft AI, working on machine learning for ads. My broader research asks a practical question: how can intelligent systems learn safely and effectively from the people who use them?
+I’m a Senior Applied Scientist at Microsoft AI, working on machine learning for ads. My research asks a practical question: how can intelligent systems learn safely and effectively from the people who use them?
 
 I completed my PhD at the [Information Retrieval Lab](http://irlab.science.uva.nl) at the University of Amsterdam, supervised by [Prof. Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/) and [Prof. Harrie Oosterhuis](https://harrieo.github.io/). My thesis focused on off-policy evaluation and learning for ranking and recommendation systems.
 
@@ -85,20 +85,20 @@ During my PhD, I worked with Meta AI’s Modern Recommender Systems teams in Lon
 
 ## 2026
 
-* [June] Our SIGIR 2026 paper on off-policy evaluation was featured on Microsoft Research's official newsletter, [Microsoft Research Newsletter](https://www.linkedin.com/pulse/microsoft-build-plus-agentic-evaluation-repositories-gam7e/).
-* [April] Joined Microsoft AI, Ads team in Bangalore as a senior applied scientist.
-* [April] One short paper on the theoretical analysis of our previously proposed $\beta$-IPS (from the [RecSys 2024 paper](https://arxiv.org/abs/2405.05736)) accepted at SIGIR 2026.
-* [March] Paper from my Meta AI internship on [A Simple and Effective Reinforcement Learning Method for Text-to-Image Diffusion Fine-tuning](https://arxiv.org/abs/2503.00897) was accepted at Transactions on Machine Learning Research (TMLR).
-* [Feb] PhD dissertation abstract published in the [December 2025 edition of SIGIR Forum](https://sigir.org/forum/issues/december-2025/).
-* [Jan] Wrapped up a paper where we showed that $\beta$-IPS (a novel estimator we proposed in our [RecSys 2024 paper](https://arxiv.org/abs/2405.05736)) is asymptotically better than the SNIPS estimator in terms of MSE. [preprint](https://drive.google.com/file/d/1frnnclT0VoX7xAC0OLlwfkpWeh-5KW52/view).
-* [Jan] Presented my work on RL for recsys and post-training diffusion models at eBay, San Jose, virtually. [slides](https://docs.google.com/presentation/d/1XY3wixdaH-Wk8K7kXllVxdqXgaNwlw-mgXwMbGdv0Y0/edit?usp=sharing).
+* [Jun] Our SIGIR 2026 paper on off-policy evaluation was featured in [Microsoft Research’s newsletter](https://www.linkedin.com/pulse/microsoft-build-plus-agentic-evaluation-repositories-gam7e/).
+* [Apr] Joined Microsoft AI’s Ads team in Bengaluru as a Senior Applied Scientist.
+* [Apr] Our short paper analyzing [β-IPS](https://arxiv.org/abs/2405.05736) was accepted at SIGIR 2026.
+* [Mar] Our [RL paper on diffusion fine-tuning](https://arxiv.org/abs/2503.00897) from my Meta AI internship was accepted at TMLR.
+* [Feb] My dissertation abstract appeared in the [December 2025 issue of SIGIR Forum](https://sigir.org/forum/issues/december-2025/).
+* [Jan] New analysis: [β-IPS](https://arxiv.org/abs/2405.05736) beats SNIPS in asymptotic mean squared error. [Preprint](https://drive.google.com/file/d/1frnnclT0VoX7xAC0OLlwfkpWeh-5KW52/view).
+* [Jan] Gave a virtual talk at eBay, San Jose, on RL for recommendation and diffusion post-training. [Slides](https://docs.google.com/presentation/d/1XY3wixdaH-Wk8K7kXllVxdqXgaNwlw-mgXwMbGdv0Y0/edit?usp=sharing).
 
 ## 2025
 
-* [Oct] Successfully defended my [PhD thesis](https://hdl.handle.net/11245.1/669b7ddf-8c57-44c1-917d-9160ae14c04e) on reinforcement learning for ranking and generative models. The video recording of the defense presentation is available [here](https://hva-uva.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=b8af9e41-66b3-44fd-8b9a-b35c008863d7). P.S.: I have not gone through the full recording myself — it's painful to listen to my own voice :)
-* [Aug] Invited to talk about my work on RL for recommendation and diffusion models at LossFunk, Bangalore. The slides are available [here](https://docs.google.com/presentation/d/e/2PACX-1vS1s3vKbbAEamG1eUWtAURsjA0uOEF5MlcGgJzooUihP8hRb_ynr5FdFYgBY-SIwVFvp1KwXMCiEKQ8/pub?start=false&loop=false&delayms=30000&slide=id.g31e97ef7f1d_0_0).
-* [June] Research paper from my first internship at Meta, ["Towards Two-Stage Counterfactual Learning to Rank"](https://arxiv.org/pdf/2506.20854), was accepted at ICTIR 2025 (co-located with SIGIR).
-* [March] The preprint of my work from the internship at Meta AI, NYC, ["A Simple and Effective Reinforcement Learning Method for Text-to-Image Diffusion Fine-tuning"](https://drive.google.com/file/d/1FGZnhcmSdoEDJrR8X6hU7iS-zJXS5sdK/view?usp=sharing) is now available.
+* [Oct] Defended my [PhD thesis](https://hdl.handle.net/11245.1/669b7ddf-8c57-44c1-917d-9160ae14c04e) on RL for ranking and generative models! [Watch the defense](https://hva-uva.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=b8af9e41-66b3-44fd-8b9a-b35c008863d7).
+* [Aug] Invited to speak at LossFunk, Bengaluru, on RL for recommendation and diffusion models. [Slides](https://docs.google.com/presentation/d/e/2PACX-1vS1s3vKbbAEamG1eUWtAURsjA0uOEF5MlcGgJzooUihP8hRb_ynr5FdFYgBY-SIwVFvp1KwXMCiEKQ8/pub?start=false&loop=false&delayms=30000&slide=id.g31e97ef7f1d_0_0).
+* [Jun] Our [two-stage counterfactual learning-to-rank paper](https://arxiv.org/pdf/2506.20854) from my Meta internship was accepted at ICTIR 2025.
+* [Mar] New [preprint on RL for diffusion fine-tuning](https://drive.google.com/file/d/1FGZnhcmSdoEDJrR8X6hU7iS-zJXS5sdK/view?usp=sharing), from my Meta AI internship in New York.
 
 <details class="updates-archive">
 <summary>
@@ -110,67 +110,67 @@ During my PhD, I worked with Meta AI’s Modern Recommender Systems teams in Lon
 
 ## 2024
 
-* [October 2024] Presented my work on [Safe Deployment for Counterfactual Learning-to-Rank](https://docs.google.com/presentation/d/e/2PACX-1vRoeOfU0PGrJnwztnij09wyOv2eMLZg356crTkkrEHzaWokc9uO9eZv1Jduku2FBTtRO-T2Msul7Q_v/pub?start=false&loop=false&delayms=5000) at Expedia, London (virtually).
-* [September 2024] Two papers "[A Simpler Alternative to Variational Regularized Counterfactual Risk Minimization](https://arxiv.org/pdf/2409.09819)", and "[Proximal Ranking Policy Optimization for Practical Safety in Counterfactual Learning to Rank](https://arxiv.org/pdf/2409.09881)" were accepted at the [CONSEQUENCES '24 workshop @RecSys](https://sites.google.com/view/consequences2024/home).
-* [September 2024] We released the tutorial recording on [Recent Advancements in Unbiased Learning to Rank](https://www.youtube.com/watch?v=fcqCkjgOnJ8), previously presented at WSDM 2024, SIGIR 2023, and FIRE 2023.
-* [August 2024] Joined Meta AI, New York as a research scientist intern for the summer. I'll be working on reinforcement learning-based fine-tuning for text-to-image diffusion models.
-* [July 2024] Full paper on "[Optimal Baseline Corrections for Off-policy Contextual Bandits](https://drive.google.com/file/d/16hyfO1Fw9i5HWGlUpLgO3rhh1j3lN8xV/view)" was accepted at RecSys 2024, with an oral presentation.
-* [July 2024] Full paper on "[Practical and Robust Safety Guarantees for Advanced Counterfactual Learning to Rank](https://drive.google.com/file/d/1WPGxFq07Qkj6sNEXpCOt_pAD6Hih6sBI/view)" was accepted at CIKM 2024.
-* [May 2024] PC member for ICML 2024, ICLR 2024, SIGIR 2024, RecSys 2024, and ICTIR 2024.
-* [May 2024] Arxiv preprint of our work on "Optimal Baseline Corrections for Off-policy Contextual Bandits" is available online [here](https://arxiv.org/abs/2405.05736).
-* [March 2024] Slide deck from the WSDM tutorial on recent advancements in unbiased LTR is available [here](https://sites.google.com/view/wsdm-2024-tutorial-ultr/).
-* [March 2024] I will be co-presenting a tutorial on recent advancements in unbiased LTR at the [WSDM 2024](https://sites.google.com/view/wsdm-2024-tutorial-ultr/) conference.
+* [Oct] Gave a virtual talk at Expedia, London, on [safe counterfactual learning to rank](https://docs.google.com/presentation/d/e/2PACX-1vRoeOfU0PGrJnwztnij09wyOv2eMLZg356crTkkrEHzaWokc9uO9eZv1Jduku2FBTtRO-T2Msul7Q_v/pub?start=false&loop=false&delayms=5000).
+* [Sep] Our papers on [variational regularization](https://arxiv.org/pdf/2409.09819) and [ranking policy optimization](https://arxiv.org/pdf/2409.09881) were accepted at [CONSEQUENCES@RecSys 2024](https://sites.google.com/view/consequences2024/home).
+* [Sep] The [unbiased learning-to-rank tutorial recording](https://www.youtube.com/watch?v=fcqCkjgOnJ8) is available, covering our WSDM, SIGIR, and FIRE tutorials.
+* [Aug] Joined Meta AI in New York as a Research Scientist Intern, working on RL for diffusion fine-tuning.
+* [Jul] Our [baseline corrections paper](https://drive.google.com/file/d/16hyfO1Fw9i5HWGlUpLgO3rhh1j3lN8xV/view) was accepted at RecSys 2024 for an oral presentation.
+* [Jul] Our [safety guarantees paper](https://drive.google.com/file/d/1WPGxFq07Qkj6sNEXpCOt_pAD6Hih6sBI/view) was accepted at CIKM 2024.
+* [May] Serving on the program committees for ICML, ICLR, SIGIR, RecSys, and ICTIR 2024.
+* [May] New [preprint on optimal baseline corrections for off-policy contextual bandits](https://arxiv.org/abs/2405.05736).
+* [Mar] Slides from our WSDM tutorial on unbiased learning to rank are [available here](https://sites.google.com/view/wsdm-2024-tutorial-ultr/).
+* [Mar] Co-presenting our tutorial on unbiased learning to rank at [WSDM 2024](https://sites.google.com/view/wsdm-2024-tutorial-ultr/).
 
 ## 2023
 
-* [Oct 2023] Tutorial proposal on recent advancements in unbiased learning-to-rank accepted at [WSDM 2024](https://www.wsdm-conference.org/2024/tutorials/), and [FIRE 2023](https://sites.google.com/view/fire-2023-ultr-tutorial/home).
-* [Sept 2023] Invited talk at ShareChat on Safe Unbiased Learning-to-Rank [slides](https://docs.google.com/presentation/d/e/2PACX-1vQ-IJ3hAGjFYJN2qy6HIw5nTOjBlCwfAd-NfR68oqjIl62BRoAsPcb2bVL7U4LvJhISR7fhxp2Squwx/pub?start=false&loop=false&delayms=60000), [video](https://www.youtube.com/watch?v=xlsmhOtwFUc).
-* [August 2023] Invited talk at Meta AI, New York on Safe Unbiased Learning-to-Rank.
-* [July 2023] Joined Meta AI, London as a Research Scientist Intern, where I'll be working with the Modern Recommender Systems (MRS) team on off-policy learning for two-stage recommender systems.
-* [July 2023] Two papers (extended abstracts) were accepted at the CONSEQUENCES workshop, co-located with RecSys'23. First work is a SIGIR resubmission on safe unbiased learning-to-rank; second work is on examining & mitigating selection bias in preference elicitation for recommender systems.
-* [June 2023] Paper on "A Deep Generative Recommendation Method for Unbiased Learning from Implicit Feedback" was accepted at ICTIR'23, co-located with SIGIR'23.
-* [May 2023] Paper on user return time prediction was accepted at the CRUM workshop at UMAP 2023. This paper was part of the work done while I was at Flipkart, India.
-* [April 2023] Tutorial proposal on recent advancements in unbiased learning-to-rank was accepted at SIGIR'23. I will be leading the tutorial discussion at the conference.
-* [April 2023] One full paper on safe unbiased learning-to-rank was accepted at SIGIR 2023.
-* [Feb 2023] PC member for SIGIR'23, NeurIPS'23.
+* [Oct] Our unbiased learning-to-rank tutorial was accepted at [WSDM 2024](https://www.wsdm-conference.org/2024/tutorials/) and [FIRE 2023](https://sites.google.com/view/fire-2023-ultr-tutorial/home).
+* [Sep] Gave an invited talk at ShareChat on safe unbiased learning to rank. [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQ-IJ3hAGjFYJN2qy6HIw5nTOjBlCwfAd-NfR68oqjIl62BRoAsPcb2bVL7U4LvJhISR7fhxp2Squwx/pub?start=false&loop=false&delayms=60000) · [Video](https://www.youtube.com/watch?v=xlsmhOtwFUc).
+* [Aug] Gave an invited talk at Meta AI, New York, on safe unbiased learning to rank.
+* [Jul] Joined Meta AI in London as a Research Scientist Intern, working on off-policy learning for two-stage recommendation.
+* [Jul] Two extended abstracts on safe ranking and preference-elicitation bias were accepted at CONSEQUENCES@RecSys 2023.
+* [Jun] Our paper on unbiased recommendation with deep generative models was accepted at ICTIR 2023.
+* [May] Our Flipkart work on user return-time prediction was accepted at CRUM@UMAP 2023.
+* [Apr] Our unbiased learning-to-rank tutorial was accepted at SIGIR 2023. I’ll lead the discussion.
+* [Apr] Our full paper on safe unbiased learning to rank was accepted at SIGIR 2023.
+* [Feb] Serving on the program committees for SIGIR and NeurIPS 2023.
 
-## 2021-2022
+## 2021–2022
   
-* [August 2022] Work on VAE-IPS was accepted at the CONSEQUENCES+REVEAL Workshop (as oral presentation) at RecSys'22.
-* [June'21 - June'22] Reviewed for ACL, EMNLP, ICLR, ICML, NeuRIPS'22. 
-* [Sept'21 - Nov'21] TA for the Advanced Information Retrieval course. 
-* [May 2021] Reviewing for NeurIPS, EMNLP, ICLR 21.
-* [April 2021] Joined IRLab, UvA as a [PhD student](https://irlab.science.uva.nl/2021/04/15/shashank-gupta-joins-irlab/)
+* [Aug 2022] Our VAE-IPS work was accepted for an oral presentation at CONSEQUENCES+REVEAL@RecSys 2022.
+* [Jun 2021—Jun 2022] Reviewed for ACL, EMNLP, ICLR, ICML, and NeurIPS.
+* [Sep—Nov 2021] Teaching assistant for Advanced Information Retrieval.
+* [May 2021] Reviewing for NeurIPS, EMNLP, and ICLR 2021.
+* [Apr 2021] Joined IRLab at the University of Amsterdam as a [PhD student](https://irlab.science.uva.nl/2021/04/15/shashank-gupta-joins-irlab/).
 
 
 ## Pre-PhD
 
-* [July 2020] PC Member for EACL'2020.
-* [April 2020] Position paper accepted at the ECNLP@ACL'20.
-* [April 2020] Paper accepted at SIGIR'20.
-* [April 2020] PC Member for EMNLP'20 (IE Track) & AACL-IJCNLP 2020 (IE + IR Track).
-* [Dec 2019] PC Member for WSDM'20 Workshop on State-based User Modelling.
-* [Nov 2019] Reviewing for ICML 2020. [Update as of March '20] - Couldn't review papers due to bad health.
-* [July 2019] Program Committee Member for ECIR 2020.
-* [June 2019] Reviewing for a special edition "Learning from User Interaction" of Information Retrieval Journal (IRJ).
-* [March 2019] Invited talk at Alumni Research Talks event organized at BITS, Pilani. I talked about "Information Retrieval from Social Media" [slides](https://docs.google.com/presentation/d/1waACjQVOiorrI6wtdGX1ataYaQVMKCqQGT2We69y19w/edit#slide=id.g5459ed153a_0_29).
-* [Oct 2018] Serving as PC member for ECIR'19 and ML4H@NeurIPS'18.
-* [July 2018] Joined Flipkart as a Data Scientist with the Search team.
-* [June 2018] Internship work @Conduent Labs on "Fake News Detection" was accepted at ASONAM'18 (Short Paper).
-* [June 2018] Journal paper from my summer internship work @TRDDC, Pune was published at [BMC Bioinformatics (Impact Factor: 2.448)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2192-4).
-* [June 2018] Serving as PC Member for ICON 2018 and DTMBio 2018 @CIKM'18.
-* [January 2018] Joined Conduent Labs, Bangalore (previously known as Xerox Research Center India (XRCI)) as Research Intern with Manjira Sinha and Sandya Mannarswamy.
-* [December 2017] Two papers were accepted at ECIR 2018.
-* [November 2017] Two papers were accepted at the NeurIPS 2017 Machine Learning for Health (ML4H) Workshop.
-* [November 2017] Invited talk on "Deep Learning for Recommender Systems" at Thiagarajar College of Engineering (TCE) and "Machine Learning & Information Retrieval Techniques for Adverse Drug Reaction Mention Extraction from Social Media" at Duke-NUS Medical School, Singapore.
-* [September 2017] Two papers on Content-Based News Recommendation Systems were accepted at the ICDM workshop on Semantic Recommendation Systems (SeRECSys).
-* [August 2017] Paper on 'Semi-Supervised Recurrent Neural Network for Adverse Drug Reaction Mention Extraction' was accepted at ACM 11th International Workshop on Data and Text Mining in Biomedical Informatics at CIKM 2017.
-* [July 2017] Paper on Knowledge Base integration with text classification pipeline was accepted at the SIGIR workshop (KG4IR).
-* [June 2017] Paper on Trust Prediction in Social Media using Neural Networks was accepted at ASONAM'17.
-* [May 2017] My work on Hate Speech Detection from social media was covered in some leading publication houses in India. [Source](https://www.iiit.ac.in/news/IRELspaperonHateSpeechDetectionvotedBestPosterPresentationatWWW2017Perth/)
-* [April 2017] I received the Best Poster award at WWW'17 for my work on Hate Speech Detection from social media.
-* [Feb 2017] Poster paper accepted at WWW'17.
-* [Feb 2017] Workshop paper accepted at WWW'17.
+* [Jul 2020] Serving on the program committee for EACL 2020.
+* [Apr 2020] Our position paper was accepted at ECNLP@ACL 2020.
+* [Apr 2020] Our paper was accepted at SIGIR 2020.
+* [Apr 2020] Serving on the EMNLP and AACL-IJCNLP 2020 program committees.
+* [Dec 2019] Serving on the program committee for WSDM 2020’s State-based User Modelling workshop.
+* [Nov 2019] Unable to review for ICML 2020 due to ill health (March 2020 update).
+* [Jul 2019] Serving on the program committee for ECIR 2020.
+* [Jun 2019] Reviewing for IRJ’s special issue on learning from user interaction.
+* [Mar 2019] Gave an invited talk on information retrieval from social media at BITS Pilani’s Alumni Research Talks. [Slides](https://docs.google.com/presentation/d/1waACjQVOiorrI6wtdGX1ataYaQVMKCqQGT2We69y19w/edit#slide=id.g5459ed153a_0_29).
+* [Oct 2018] Serving on the program committees for ECIR 2019 and ML4H@NeurIPS 2018.
+* [Jul 2018] Joined Flipkart’s Search team as a Data Scientist.
+* [Jun 2018] Our Conduent Labs internship paper on fake-news detection was accepted at ASONAM 2018.
+* [Jun 2018] Our TRDDC internship work was published in [BMC Bioinformatics](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2192-4).
+* [Jun 2018] Serving on the program committees for ICON 2018 and DTMBio@CIKM 2018.
+* [Jan 2018] Joined Conduent Labs (formerly Xerox Research) in Bengaluru as a Research Intern with Manjira Sinha and Sandya Mannarswamy.
+* [Dec 2017] Two papers accepted at ECIR 2018.
+* [Nov 2017] Two papers accepted at NeurIPS 2017’s Machine Learning for Health workshop.
+* [Nov 2017] Gave invited talks on recommender systems at TCE and adverse drug reaction extraction at Duke-NUS, Singapore.
+* [Sep 2017] Two papers on news recommendation accepted at SeRECSys@ICDM 2017.
+* [Aug 2017] Our paper on semi-supervised adverse drug mention extraction was accepted at DTMBio@CIKM 2017.
+* [Jul 2017] Our paper on knowledge bases for text classification was accepted at KG4IR@SIGIR 2017.
+* [Jun 2017] Our neural-network paper on trust prediction was accepted at ASONAM 2017.
+* [May 2017] Our hate-speech detection work received media coverage in India. [Read more](https://www.iiit.ac.in/news/IRELspaperonHateSpeechDetectionvotedBestPosterPresentationatWWW2017Perth/).
+* [Apr 2017] Won the Best Poster Award at WWW 2017 for our work on hate-speech detection.
+* [Feb 2017] Poster paper accepted at WWW 2017.
+* [Feb 2017] Workshop paper accepted at WWW 2017.
 
 </div>
 </details>

@@ -8,7 +8,7 @@ title: Curriculum Vitae
 
 
 
-###<a name="activities"></a>Activities
+### Activities
 
 
-###Other
+### Other
