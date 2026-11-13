@@ -41,7 +41,7 @@ SIGIR 2026 ([preprint](https://drive.google.com/file/d/1lIduaeJ728N0VVrTSuFu_T2r
 
 A Simple and Effective Reinforcement Learning Method for Text-to-Image Diffusion Fine-tuning (<b>Work done during an internship at Meta AI</b>) <br>
 <b>Shashank Gupta</b>, Chaitanya Ahuja, Tsung-Yu Lin, Sreya Dutta Roy, Harrie Oosterhuis, Maarten de Rijke, and Satya Narayan Shukla <br>
-Transactions on Machine Learning Research (TMLR), 2026 ([paper](https://openreview.net/forum?id=i8WJhKn455)).
+Transactions on Machine Learning Research (TMLR), 2026 ([paper](https://openreview.net/forum?id=i8WJhKn455), [video]({{ '/videos/loop-diffusion-fine-tuning.mp4' | relative_url }})).
 
 <h4 id="year-2025">2025</h4>
 
