@@ -106,7 +106,7 @@ body {
 .site-mark {
   color: var(--coral);
   font-family: var(--mono);
-  font-size: .72rem;
+  font-size: .75rem;
   letter-spacing: .04em;
 }
 
@@ -352,7 +352,7 @@ a:active {
 .profile-row span {
   color: var(--coral);
   font-family: var(--mono);
-  font-size: .58rem;
+  font-size: .75rem;
   letter-spacing: .08em;
   margin-bottom: .45rem;
   text-transform: uppercase;
@@ -389,14 +389,14 @@ a:active {
 .research-track span {
   color: #8f95aa;
   font-family: var(--mono);
-  font-size: .63rem;
+  font-size: .75rem;
   letter-spacing: .07em;
   text-transform: uppercase;
 }
 
 .research-track i {
   color: var(--coral);
-  font-size: .62rem;
+  font-size: .75rem;
   font-style: normal;
 }
 
@@ -424,7 +424,7 @@ a:active {
 .section-label {
   color: var(--coral);
   font-family: var(--mono);
-  font-size: .66rem;
+  font-size: .75rem;
   letter-spacing: .1em;
   text-transform: uppercase;
 }
@@ -481,7 +481,7 @@ a:active {
 .career-item span {
   color: var(--muted);
   font-family: var(--mono);
-  font-size: .58rem;
+  font-size: .75rem;
   letter-spacing: .02em;
   line-height: 1.5;
 }
@@ -527,7 +527,7 @@ a:active {
 .trajectory-label {
   color: var(--muted);
   font-family: var(--mono);
-  font-size: .59rem;
+  font-size: .75rem;
   letter-spacing: .09em;
   position: absolute;
   text-transform: uppercase;
@@ -610,7 +610,7 @@ a:active {
   color: var(--coral);
   display: block;
   font-family: var(--mono);
-  font-size: .6rem;
+  font-size: .75rem;
   letter-spacing: .06em;
   margin-bottom: .35rem;
   text-transform: uppercase;
@@ -631,7 +631,7 @@ a:active {
 .trajectory-card h3 small {
   color: #9298aa;
   display: block;
-  font-size: .62em;
+  font-size: .75rem;
   font-weight: 500;
   letter-spacing: -.01em;
   line-height: 1.35;
@@ -680,7 +680,7 @@ a:active {
 .updates-heading p {
   color: var(--muted);
   font-family: var(--mono);
-  font-size: .62rem;
+  font-size: .75rem;
   letter-spacing: .06em;
   margin: 0 0 .45rem;
   text-transform: uppercase;
@@ -689,7 +689,7 @@ a:active {
 .updates-section > h2 {
   color: var(--periwinkle);
   font-family: var(--mono);
-  font-size: .7rem;
+  font-size: .75rem;
   font-weight: 400;
   letter-spacing: .1em;
   margin: 4rem 0 .8rem;
@@ -791,7 +791,7 @@ a:active {
 .archive-years {
   color: var(--muted);
   font-family: var(--mono);
-  font-size: .62rem;
+  font-size: .75rem;
   letter-spacing: .08em;
 }
 
@@ -839,7 +839,7 @@ a:active {
 .archive-content > h2 {
   color: var(--periwinkle);
   font-family: var(--mono);
-  font-size: .65rem;
+  font-size: .75rem;
   font-weight: 400;
   letter-spacing: .1em;
   margin: 2.5rem 0 .75rem;
@@ -884,7 +884,7 @@ a:active {
   color: var(--coral);
   display: block;
   font-family: var(--mono);
-  font-size: .64rem;
+  font-size: .75rem;
   letter-spacing: .12em;
   margin-bottom: 1.25rem;
   text-transform: uppercase;
@@ -899,7 +899,7 @@ a:active {
   border-bottom: 1px solid var(--line);
   color: var(--periwinkle);
   font-family: var(--mono);
-  font-size: .72rem;
+  font-size: .75rem;
   font-weight: 400;
   letter-spacing: .08em;
   margin-top: 4.5rem;
@@ -1059,7 +1059,7 @@ body:not(.home-page) .post-content > .page-deck:hover {
   color: var(--muted);
   content: ' / scroll';
   float: right;
-  font-size: .54rem;
+  font-size: .75rem;
   letter-spacing: .06em;
 }
 
@@ -1078,7 +1078,7 @@ body:not(.home-page) .post-content > .page-deck:hover {
   color: #919bb8;
   flex: 0 0 auto;
   font-family: var(--mono);
-  font-size: .58rem;
+  font-size: .75rem;
   letter-spacing: .06em;
   padding: .45rem .7rem;
   text-decoration: none;
@@ -1133,7 +1133,7 @@ body:not(.home-page) .post-content > .page-deck:hover {
   color: #59617a;
   content: counter(publication, decimal-leading-zero);
   font-family: var(--mono);
-  font-size: .62rem;
+  font-size: .75rem;
   left: 1rem;
   letter-spacing: .08em;
   position: absolute;
@@ -1211,7 +1211,7 @@ body:not(.home-page) .post-content > .page-deck:hover {
   color: var(--coral);
   content: 'T' counter(talk, decimal-leading-zero);
   font-family: var(--mono);
-  font-size: .6rem;
+  font-size: .75rem;
   left: 1.5rem;
   letter-spacing: .08em;
   position: absolute;
@@ -1251,7 +1251,7 @@ form label {
   color: var(--text-soft);
   display: block;
   font-family: var(--mono);
-  font-size: .62rem;
+  font-size: .75rem;
   letter-spacing: .06em;
   margin-bottom: .55rem;
   text-transform: uppercase;
@@ -1279,7 +1279,7 @@ form label {
   border-radius: 6px;
   color: var(--night);
   cursor: pointer;
-  font-size: .72rem;
+  font-size: .75rem;
   font-weight: 700;
   padding: .8rem 1.1rem;
 }
@@ -1308,7 +1308,7 @@ form label {
 .site-footer p {
   color: var(--muted);
   font-family: var(--mono);
-  font-size: .58rem;
+  font-size: .75rem;
   margin: .5rem 0 0;
 }
 
@@ -1320,7 +1320,7 @@ form label {
 .footer-links a {
   color: var(--muted);
   font-family: var(--mono);
-  font-size: .62rem;
+  font-size: .75rem;
   text-decoration: none;
 }
 
@@ -1574,11 +1574,11 @@ form label {
   }
 
   .trajectory-card p {
-    font-size: .68rem;
+    font-size: .75rem;
   }
 
   .trajectory-card time {
-    font-size: .52rem;
+    font-size: .75rem;
   }
 
   .updates-heading p {

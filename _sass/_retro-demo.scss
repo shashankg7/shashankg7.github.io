@@ -104,7 +104,7 @@
 .retro-demo .site-header nav a:active {
   color: var(--paper-bright);
   font-family: var(--mono);
-  font-size: .7rem;
+  font-size: .75rem;
   letter-spacing: .04em;
   text-transform: uppercase;
 }
@@ -184,7 +184,7 @@
   content: 'Introduction';
   display: flex;
   font-family: var(--mono);
-  font-size: .64rem;
+  font-size: .75rem;
   height: 2.25rem;
   left: 0;
   letter-spacing: .07em;
@@ -258,7 +258,7 @@
   box-shadow: var(--small-shadow);
   color: var(--ink);
   font-family: var(--mono);
-  font-size: .72rem;
+  font-size: .75rem;
   font-weight: 700;
   padding: .72rem .9rem;
   text-decoration: none;
@@ -286,7 +286,7 @@
 .retro-demo .profile-row span {
   color: var(--violet);
   font-family: var(--mono);
-  font-size: .57rem;
+  font-size: .75rem;
   font-weight: 700;
 }
 
@@ -307,7 +307,7 @@
 .retro-demo .research-track span {
   color: var(--paper-bright);
   font-family: var(--mono);
-  font-size: .63rem;
+  font-size: .75rem;
   font-weight: 700;
   text-transform: uppercase;
 }
@@ -357,7 +357,7 @@
   content: 'about.txt';
   display: flex;
   font-family: var(--mono);
-  font-size: .62rem;
+  font-size: .75rem;
   font-weight: 700;
   height: 2.2rem;
   left: 0;
@@ -594,7 +594,7 @@
   content: 'directory.index';
   display: flex;
   font-family: var(--mono);
-  font-size: .62rem;
+  font-size: .75rem;
   font-weight: 700;
   height: 2.25rem;
   left: 0;
@@ -903,5 +903,39 @@
   .retro-demo .trajectory-card,
   .retro-demo .publication-years a {
     transition: none;
+  }
+}
+
+/* Phone layout: keep display headings inside their cards, keep the name in
+   the header, and give inline links a finger-sized hit area. */
+@media (max-width: 42rem) {
+  .retro-demo .site-name {
+    display: inline;
+  }
+
+  .retro-demo .hero h1 {
+    font-size: min(5.5rem, 10.5vw);
+  }
+
+  .retro-demo .post-header h1 {
+    font-size: min(3.5rem, 11.5vw);
+  }
+
+  .retro-demo .trajectory-heading h2,
+  .retro-demo .updates-heading h2 {
+    font-size: min(3.5rem, 10.5vw);
+  }
+}
+
+@media (hover: none) {
+  .retro-demo.publications-page .post-content > p a,
+  .retro-demo.talks-page .post-content > p a,
+  .retro-demo .updates-section li a {
+    padding-block: .55rem;
+  }
+
+  .retro-demo .publication-years a {
+    min-height: 2.75rem;
+    min-width: 2.75rem;
   }
 }
