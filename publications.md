@@ -37,11 +37,11 @@ FIRE 2023 — Tutorial ([website & slides](https://sites.google.com/view/fire-20
 
 Additive Control Variates Dominate Self-Normalisation in Off-Policy Evaluation <br>
 Olivier Jeunen, <b>Shashank Gupta</b> <br>
-SIGIR 2026 ([preprint](https://drive.google.com/file/d/1lIduaeJ728N0VVrTSuFu_T2rMuZ-F0F-/view?usp=sharing), [video]({{ '/videos/beta-ips-vs-snips.mp4' | relative_url }})).
+SIGIR 2026 ([preprint](https://drive.google.com/file/d/1lIduaeJ728N0VVrTSuFu_T2rMuZ-F0F-/view?usp=sharing), [video]({{ '/videos/acv-explainer.mp4' | relative_url }})).
 
 A Simple and Effective Reinforcement Learning Method for Text-to-Image Diffusion Fine-tuning (<b>Work done during an internship at Meta AI</b>) <br>
 <b>Shashank Gupta</b>, Chaitanya Ahuja, Tsung-Yu Lin, Sreya Dutta Roy, Harrie Oosterhuis, Maarten de Rijke, and Satya Narayan Shukla <br>
-Transactions on Machine Learning Research (TMLR), 2026 ([paper](https://openreview.net/forum?id=i8WJhKn455), [video]({{ '/videos/loop-diffusion-fine-tuning.mp4' | relative_url }})).
+Transactions on Machine Learning Research (TMLR), 2026 ([paper](https://openreview.net/forum?id=i8WJhKn455), [video]({{ '/videos/loop-explainer.mp4' | relative_url }})).
 
 <h4 id="year-2025">2025</h4>
 
