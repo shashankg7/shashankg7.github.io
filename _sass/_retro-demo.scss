@@ -3,14 +3,14 @@
   --paper: #f7f3e8;
   --paper-bright: #fffdf7;
   --ink: #17151c;
-  --violet: #6246ea;
+  --violet: #4630c8;
   --violet-soft: #c8c0ff;
   --acid: #d7ff4f;
-  --coral: #ff6b4a;
+  --coral: #c23a1f;
   --coral-soft: #ffc6b9;
-  --grid: rgba(23, 21, 28, .12);
-  --hard-shadow: 7px 7px 0 var(--ink);
-  --small-shadow: 4px 4px 0 var(--ink);
+  --grid: rgba(23, 21, 28, .08);
+  --hard-shadow: 5px 5px 0 var(--ink);
+  --small-shadow: 3px 3px 0 var(--ink);
   --night: var(--paper);
   --night-raised: var(--paper-bright);
   --night-soft: #ebe5d7;
@@ -19,7 +19,7 @@
   --muted: #655e6d;
   --line: var(--ink);
   --periwinkle: var(--violet);
-  --periwinkle-deep: #4630c8;
+  --periwinkle-deep: #35239f;
   --mono: 'IBM Plex Mono', 'Courier New', monospace;
   background-color: var(--paper);
   background-image: radial-gradient(circle, var(--grid) 1.25px, transparent 1.25px);
@@ -29,7 +29,7 @@
 }
 
 .retro-demo::before {
-  background: linear-gradient(90deg, var(--violet), var(--coral), var(--acid));
+  background: var(--violet);
   content: '';
   height: 5px;
   left: 0;
@@ -161,7 +161,7 @@
 }
 
 .retro-demo .hero::after {
-  background: radial-gradient(24rem circle at var(--pointer-x) var(--pointer-y), rgba(98, 70, 234, .18), transparent 72%);
+  background: radial-gradient(24rem circle at var(--pointer-x) var(--pointer-y), rgba(70, 48, 200, .08), transparent 72%);
 }
 
 .retro-demo .hero-identity,
@@ -377,7 +377,7 @@
 .retro-demo .intro-section h2 {
   font-size: clamp(2.8rem, 5vw, 5rem);
   line-height: .92;
-  text-shadow: 3px 3px 0 var(--acid);
+  text-shadow: none;
 }
 
 .retro-demo .intro-copy p {
@@ -399,7 +399,7 @@
 .retro-demo .updates-heading h2 {
   font-size: clamp(3.5rem, 7vw, 7rem);
   line-height: .85;
-  text-shadow: 5px 5px 0 var(--violet-soft);
+  text-shadow: none;
   text-transform: uppercase;
 }
 
@@ -498,7 +498,7 @@
 
 /* Updates as a stack of system messages */
 .retro-demo .updates-section {
-  background: var(--acid);
+  background: var(--paper-bright);
   padding-bottom: clamp(5rem, 9vw, 8rem);
 }
 
@@ -620,7 +620,7 @@
 .retro-demo .post-header h1 {
   color: var(--ink);
   font-size: clamp(3.5rem, 8vw, 7rem);
-  text-shadow: 5px 5px 0 var(--violet-soft);
+  text-shadow: none;
   text-transform: uppercase;
 }
 
@@ -648,7 +648,7 @@
 }
 
 .retro-demo.publications-page #main-content::before {
-  background: radial-gradient(24rem circle at var(--page-x) var(--page-y), rgba(98, 70, 234, .16), transparent 72%);
+  background: radial-gradient(24rem circle at var(--page-x) var(--page-y), rgba(70, 48, 200, .08), transparent 72%);
 }
 
 .retro-demo.publications-page .post-content > h3 {
