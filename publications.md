@@ -35,6 +35,10 @@ FIRE 2023 — Tutorial ([website & slides](https://sites.google.com/view/fire-20
 
 <h4 id="year-2026">2026</h4>
 
+Variance-Optimal Counterfactual Policy Design for Sample-Efficient Online A/B Testing <br>
+<b>Shashank Gupta</b>, Subhadeep Maji <br>
+Preprint, 2026 ([paper](https://drive.google.com/file/d/1eJ2ryVAgUjBu9RtdL2onQlON2V4DEZfM/view?usp=sharing)).
+
 Additive Control Variates Dominate Self-Normalisation in Off-Policy Evaluation <br>
 Olivier Jeunen, <b>Shashank Gupta</b> <br>
 SIGIR 2026 ([preprint](https://drive.google.com/file/d/1lIduaeJ728N0VVrTSuFu_T2rMuZ-F0F-/view?usp=sharing), [video]({{ '/videos/acv-explainer.mp4' | relative_url }})).
