@@ -86,6 +86,7 @@ During my PhD, I worked with Meta AI’s Modern Recommender Systems teams in Lon
 ## 2026
 
 * [Nov] New preprint on [sample-efficient online A/B testing](https://drive.google.com/file/d/1eJ2ryVAgUjBu9RtdL2onQlON2V4DEZfM/view?usp=sharing).
+* [Jul] Invited to give a talk at Nykaa on reinforcement learning for search and recommendation. [Slides](https://docs.google.com/presentation/d/1_kA6kpCPpwe9Egr5Ai0CpCijx4SlQCKc9lu9BxkIwow/edit?usp=sharing).
 * [Jun] Our SIGIR 2026 paper on off-policy evaluation was featured in [Microsoft Research’s newsletter](https://www.linkedin.com/pulse/microsoft-build-plus-agentic-evaluation-repositories-gam7e/).
 * [Apr] Joined Microsoft AI’s Ads team in Bengaluru as a Senior Applied Scientist.
 * [Apr] Our short paper analyzing [β-IPS](https://arxiv.org/abs/2405.05736) was accepted at SIGIR 2026.
