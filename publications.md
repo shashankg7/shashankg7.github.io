@@ -41,11 +41,11 @@ Preprint, 2026 ([paper](https://drive.google.com/file/d/1eJ2ryVAgUjBu9RtdL2onQlO
 
 Additive Control Variates Dominate Self-Normalisation in Off-Policy Evaluation <br>
 Olivier Jeunen, <b>Shashank Gupta</b> <br>
-SIGIR 2026 ([preprint](https://drive.google.com/file/d/1lIduaeJ728N0VVrTSuFu_T2rMuZ-F0F-/view?usp=sharing), [video]({{ '/videos/acv-explainer.mp4' | relative_url }})).
+SIGIR 2026 ([preprint](https://drive.google.com/file/d/1lIduaeJ728N0VVrTSuFu_T2rMuZ-F0F-/view?usp=sharing), [video]({{ '/videos/acv-explainer.mp4' | relative_url }}), [1 min reel]({{ '/videos/acv-reel.mp4' | relative_url }})).
 
 A Simple and Effective Reinforcement Learning Method for Text-to-Image Diffusion Fine-tuning (<b>Work done during an internship at Meta AI</b>) <br>
 <b>Shashank Gupta</b>, Chaitanya Ahuja, Tsung-Yu Lin, Sreya Dutta Roy, Harrie Oosterhuis, Maarten de Rijke, and Satya Narayan Shukla <br>
-Transactions on Machine Learning Research (TMLR), 2026 ([paper](https://openreview.net/forum?id=i8WJhKn455), [video]({{ '/videos/loop-explainer.mp4' | relative_url }})).
+Transactions on Machine Learning Research (TMLR), 2026 ([paper](https://openreview.net/forum?id=i8WJhKn455), [video]({{ '/videos/loop-explainer.mp4' | relative_url }}), [1 min reel]({{ '/videos/loop-reel.mp4' | relative_url }})).
 
 <h4 id="year-2025">2025</h4>
 
@@ -55,7 +55,7 @@ ACM SIGIR Forum, Volume 59, No. 2, December 2025 — Dissertation abstract ([abs
 
 Towards Two-Stage Counterfactual Learning-to-Rank (<b>Work done during an internship at Meta AI</b>) <br>
 <b>Shashank Gupta</b>, Yiming Liao, and Maarten de Rijke <br>
-ICTIR 2025 — Short paper ([preprint](https://arxiv.org/pdf/2506.20854)).
+ICTIR 2025 — Short paper ([preprint](https://arxiv.org/pdf/2506.20854), [video]({{ '/videos/two-stage-explainer.mp4' | relative_url }}), [1 min reel]({{ '/videos/two-stage-reel.mp4' | relative_url }})).
 
 <h4 id="year-2024">2024</h4>
 
@@ -65,7 +65,7 @@ CIKM 2024 — Full paper ([paper](https://drive.google.com/file/d/1WPGxFq07Qkj6s
 
 Optimal Baseline Corrections for Off-Policy Contextual Bandits <br>
 <b>Shashank Gupta\*</b>, Olivier Jeunen\*, Harrie Oosterhuis, and Maarten de Rijke (<b>\*Equal contribution</b>) <br>
-RecSys 2024 — Full paper, oral presentation ([paper](https://drive.google.com/file/d/16hyfO1Fw9i5HWGlUpLgO3rhh1j3lN8xV/view?usp=sharing), [slides](https://docs.google.com/presentation/d/e/2PACX-1vQXCo6vgbHan3j2k81-JPLc2XY-FyOLgk77IHvKiPDUrFZUymrLp1MmG9Jhy9nHHq-Nb9v1J6y0G_Rn/pub?start=false&loop=false&delayms=10000)).
+RecSys 2024 — Full paper, oral presentation ([paper](https://drive.google.com/file/d/16hyfO1Fw9i5HWGlUpLgO3rhh1j3lN8xV/view?usp=sharing), [slides](https://docs.google.com/presentation/d/e/2PACX-1vQXCo6vgbHan3j2k81-JPLc2XY-FyOLgk77IHvKiPDUrFZUymrLp1MmG9Jhy9nHHq-Nb9v1J6y0G_Rn/pub?start=false&loop=false&delayms=10000), [video]({{ '/videos/baseline-corr-explainer.mp4' | relative_url }}), [1 min reel]({{ '/videos/baseline-corr-reel.mp4' | relative_url }})).
 
 Proximal Ranking Policy Optimization for Practical Safety in Counterfactual Learning to Rank <br>
 <b>Shashank Gupta</b>, Harrie Oosterhuis, and Maarten de Rijke <br>
@@ -79,7 +79,7 @@ CONSEQUENCES at RecSys 2024 — Poster presentation ([preprint](https://arxiv.or
 
 Safe Deployment for Counterfactual Learning to Rank with Exposure-Based Risk Minimization <br>
 <b>Shashank Gupta</b>, Harrie Oosterhuis, and Maarten de Rijke <br>
-SIGIR 2023 — Full paper ([paper](https://drive.google.com/file/d/1GL285QRF44r-G4la0OaIl6IZs73w5aop/view), [poster](https://drive.google.com/file/d/1xhzLB68AzyG-PZcTdxOkyRnIhiVAQhyw/view?usp=sharing), [slides](https://docs.google.com/presentation/d/e/2PACX-1vRWezrXibGt6KpP7DvOazUIHsBs4N904Q7QLC86ynCuOYru_qmNctgwwvAcjnv7wFNDKV3nv10s6JOk/pub?start=false&loop=false&delayms=60000), [video](https://www.youtube.com/watch?v=xlsmhOtwFUc)), CONSEQUENCES at RecSys 2023, DIR 2023.
+SIGIR 2023 — Full paper ([paper](https://drive.google.com/file/d/1GL285QRF44r-G4la0OaIl6IZs73w5aop/view), [poster](https://drive.google.com/file/d/1xhzLB68AzyG-PZcTdxOkyRnIhiVAQhyw/view?usp=sharing), [slides](https://docs.google.com/presentation/d/e/2PACX-1vRWezrXibGt6KpP7DvOazUIHsBs4N904Q7QLC86ynCuOYru_qmNctgwwvAcjnv7wFNDKV3nv10s6JOk/pub?start=false&loop=false&delayms=60000), [talk](https://www.youtube.com/watch?v=xlsmhOtwFUc), [explainer video]({{ '/videos/safe-deploy-explainer.mp4' | relative_url }}), [1 min reel]({{ '/videos/safe-deploy-reel.mp4' | relative_url }})), CONSEQUENCES at RecSys 2023, DIR 2023.
 
 A Deep Generative Recommendation Method for Unbiased Learning From Implicit Feedback <br>
 <b>Shashank Gupta</b>, Harrie Oosterhuis, and Maarten de Rijke <br>
